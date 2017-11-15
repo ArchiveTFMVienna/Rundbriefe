@@ -11,7 +11,7 @@
             <principal><rs type="person" ref="#malte_wulf">Malte Wulf</rs></principal>
          </titleStmt>
          <publicationStmt>
-            <publisher><rs type="person" ref="#malte_wulte">Malte Wulf</rs></publisher>
+            <publisher><rs type="person" ref="#malte_wulte">Patrick Aprent</rs></publisher>
             <availability>
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/"></licence>
             </availability>
