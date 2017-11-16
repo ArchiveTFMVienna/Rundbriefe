@@ -6,8 +6,9 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Digitale Edition 1. Rundbrief 1944</title>
-            <title type="sub">Digitale Edition 1. Rundbrief 1944</title>
+            <title type="main">Digitale Edition Rundbriefe des Zentralinstitutes für
+               Theaterwissenschaft an der Universität Wien 1944-45</title>
+            <title type="sub">Digitale Edition des 3. Rundbriefs 1944</title>
             <principal>
                <rs type="person" ref="#malte_wulf">Malte Wulf</rs></principal>
          </titleStmt>
@@ -15,7 +16,19 @@
             <publisher>
                <rs type="person" ref="#malte_wulf">Malte Wulf</rs>
             </publisher>
-            <license></license>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                  <p> The (CC BY-SA 4.0)-License applies to this document. </p>
+                  <p> You are allowed to share (copy and redistribute the material in any medium or
+                  format) and adapt (remix, transform, and build upon the material) for any
+                  purpose, even commercially. </p>
+                  <p> You must give appropriate credit, provide a link to the license, and indicate
+                  if changes were made. You may do so in any reasonable manner, but not in any
+                  way that suggests the licensor endorses you or your use. </p>
+                   <p> ShareAlike — If you remix, transform, or build upon the material, you must
+                  distribute your contributions under the same license as the original. </p>
+               </licence>
+            </availability>
          </publicationStmt>
          <sourceDesc>
             <bibl></bibl>
@@ -26,7 +39,7 @@
                   <idno>Schachtel 7, Mappe 4, Zahl 37</idno>
                </msIdentifier>
                <history>
-                  <origin when="1944"></origin>
+                  <origin when="1944-03"/>
                </history>
             </msDesc>
          </sourceDesc>
@@ -34,15 +47,15 @@
   </teiHeader>
   <text>
       <body>
-         <front>
-            <titlePart type="main" >Rundbrief des 
-               <lb n="5">Zentralinstituts für Theaterwissenschaft</lb>
-               <lb n="5">an der Universität Wien</lb>
-            </titlePart>
-            <titlePart type="sub">Nr. 3</titlePart>
-         </front>
-         <div type="section" n="1">
-            <p>Liebe Kameraden!</p>
+         <pb n="1"/>
+         <fw type="pageNum">1</fw>
+         <head type="main" style="text-align:center" rend="underline">Rundbrief</head>
+         <head type="sub" style="text-align:center">des Zentralinstituts für Theaterwissenschaft an
+            der Universität <hi rend="letterspace">Wien</hi>.</head>
+         <head type="sub"><date when="1944-03">März 1944.</date>
+            <num>No. 5</num> erscheint jährlich viermal</head>
+         <div type="letter" n="1">
+            <salute>Liebe Kameraden!</salute>
             <p>
                <lb/>Das Wintersemester ging zu Ende und Ostern steht vor der
                <lb/>Tür. Da wollen wir wieder einen Rundbrief an Euch senden. Sehr
@@ -62,16 +75,11 @@
                <lb/>besichtigten. Sie wissen nun schon, wo und wie sie künftig bei uns
                <lb/>arbeiten werden.
             </p>
-            <p>
-               <lb/>Nun wollen wir Euch zunächst wieder berichten, was wir in
-               <lb/>der Zwischenzeit getrieben und gearbeitet haben.
-            </p>
-            <p>
-               <lb/>Prof. Kindermann hielt eine dreistündige Hauptvorlesung
-               <lb/>über „Das deutsche und europäische Theater des Mittelalters“.
-            </p>
-            <p>
-               <lb/>Er führte vorerst in das Kultspiel der Germanen ein und zeigte sowohl
+            <p>Nun wollen wir Euch zunächst wieder berichten, was wir in
+               <lb/>der Zwischenzeit getrieben und gearbeitet haben.</p>
+            <p>Prof. Kindermann hielt eine dreistündige Hauptvorlesung
+               <lb/>über „Das deutsche und europäische Theater des Mittelalters“.</p>
+            <p>Er führte vorerst in das Kultspiel der Germanen ein und zeigte sowohl
                <lb/>die starken Wirkungsenergien, die von dorther in das deutsche Theater
                <lb/>des Mittelalters führen, als auch das Weiterleben in vielen Brauchtümern
                <lb/>und Volksspielen bis zum heutigen Tag. Dann aber wurde ausführlich
@@ -82,13 +90,11 @@
                <lb/>Typische der Vorwürfe, der Spielleitung, des Bühnenbildes usw. betont.
                <lb/>Viele Lichtbilder erläuterten diese Ausführungen. Als im reifen Mittel-
                <lb/>alter die Kirche, in der Absicht, die Heilswahrheiten versinnlichen zu
-               <lb/>lassen, Mysterienspiele, vorerst streng liturgischen Charakters, einführte,
-            </p>
-            <pb n="5">1</pb>
-         </div>
-         <div type="section" n="2">
-            <p>
-               <lb/>traten die theatralischen Möglichkeiten aller großen Nationalkulturen noch
+               <lb/>lassen, Mysterienspiele, vorerst streng liturgischen Charakters, einführte,</p>
+
+            <pb n="2"/>
+            <fw type="pageNum">2</fw>
+            <p>traten die theatralischen Möglichkeiten aller großen Nationalkulturen noch
                <lb/>als Gleichstrebende nebeneinander. Die gleiche lateinische Sprache, die
                <lb/>gleichen liturgischen Voraussetzungen schienen im ersten Augenblick in
                <lb/>Deutschland und in Frankreich, in England und in Italien oder Spanien
@@ -99,10 +105,8 @@
                <lb/>an der gleichen Barriere nebeneinander gereiht sieht. Im Grunde aber
                <lb/>trägt schon in diesem Augenblick jeder der künftigen Rivalen sein eigenes
                <lb/>Gesetz in sich, seine eigene Spannkraft und Dynamik, seinen eigenen Weg
-               <lb/>und sein eigenes Ziel. 
-            </p>
-            <p>
-               <lb/>Die Kirche hatte ja in diplomatischer Anpassung diese scheinbar
+               <lb/>und sein eigenes Ziel.</p>
+            <p>Die Kirche hatte ja in diplomatischer Anpassung diese scheinbar
                <lb/>gleichförmigen theatralischen Versuche in jedem einzelnen Fall auf kul-
                <lb/>tischen Brauchtümern aufgebaut, die der betreffenden Nation schon in
                <lb/>vorchristlicher Zeit zu eigen waren. So wurde recht bald schon die litur-
@@ -125,10 +129,8 @@
                <lb/>zur Belustigung beizutragen – es brach doch in jedem einzelnen Fall
                <lb/>soviel des altüberkommenen völkischen Eigengutes durch, daß sich die
                <lb/>theatralischen Ziele und Gestaltungsformen trotz der scheinbar gemein-
-               <lb/>samen Vorwürfe und Kirchenfeste in kurzem schon weitgehend trennten.
-            </p>
-            <p>
-               <lb/>Die deutschen Spiele bleiben nach wie vor naiv und holzschnittmäßig; 
+               <lb/>samen Vorwürfe und Kirchenfeste in kurzem schon weitgehend trennten.</p>
+            <p>Die deutschen Spiele bleiben nach wie vor naiv und holzschnittmäßig; 
                <lb/>die französischen dagegen offenbaren früh schon den Zug zu raffinierter
                <lb/>und wohlüberlegter Effektsucht. Der symbolischen Andeutungsform, die
                <lb/>auch noch in den ganz weltlich und realistisch gewordenen deutschen
@@ -141,13 +143,11 @@
                <lb/>realistisch vorzuzaubern. Wie so ganz anders wirkt es daneben, wenn im
                <lb/>deutschen Spiel auf dem Marktplatz das sogenannte dolium, ein großes
                <lb/>Faß, bald einen Berg und bald eine Tempelzinne, bald den Thron Satans
-               <lb/>und bald die Rednertribüne des Konklusors darstellt.
-            </p>
-            <pb n="5">2</pb>
-         </div>
-         <div type="section" n="3">
-            <p>
-               <lb/>Die deutsche Schauspielkunst des Mittelalters geht, so wie die engli-
+               <lb/>und bald die Rednertribüne des Konklusors darstellt.</p>
+
+            <pb n="3"/>
+            <fw type="pageNum">3</fw>
+            <p>Die deutsche Schauspielkunst des Mittelalters geht, so wie die engli-
                <lb/>sche, von Typengestalten aus, die erst ganz langsam aus ihren Gruppen-
                <lb/>profilen ein besonderes Einzelantlitz wachsen lassen. Die französische
                <lb/>Schauspielkunst des Mittelalters geht, gemäß der ausgeprägt indivi-
@@ -160,10 +160,8 @@
                <lb/>Deutschland, in England und in Spanien bildet jede einzelne Landschaft
                <lb/>ihre eigenen und mit besonderen Szenen und Gestalten ausgestatteten
                <lb/>Spielformen aus. In Frankreich war damals schon alles in Paris, in Italien
-               <lb/>alles in Florenz zentralisiert. Die Provinz hatte nur nachzuahmen.
-            </p>
-            <p>
-               <lb/>Die Deutschen inszenierten ihre entwickelteren Spiele über den ganzen
+               <lb/>alles in Florenz zentralisiert. Die Provinz hatte nur nachzuahmen.</p>
+            <p>Die Deutschen inszenierten ihre entwickelteren Spiele über den ganzen
                <lb/>Marktplatz hin, indem sie die „loca“, die einzelnen symbolischen Schau-
                <lb/>plätze, kubisch aufgebaut über den ganzen Platz verteilten. Das Volk
                <lb/>sieht von den Fenstern zu oder steht lose herum, drängt oft in den Spiel-
@@ -180,44 +178,34 @@
                <lb/>allem auch schon jene oft sehr bedeutenden Maler und Bildhauer, die,
                <lb/>so wie Brunelleschi in Italien und die Angehörigen der Lukas-Gilde in
                <lb/>den Niederlanden, für eine Bühnenmaschinerie von hohem künstlerischem
-               <lb/>Wert sorgen.
-            </p>
-            <p>
-               <lb/>In Deutschland, in den Niederlanden und in England wirken bei der
+               <lb/>Wert sorgen.</p>
+            <p>In Deutschland, in den Niederlanden und in England wirken bei der
                <lb/>Verweltlichung viele Formen des Kultspieles der Germanen nach; in
                <lb/>Frankreich, Italien und Spanien kehrt schon gar manche Spielform in das
                <lb/>Amphitheater der Antike zurück oder holt sonst aus der Motiven- und
-               <lb/>Auffassungswelt der Antike früh schon seine Anregungen.
-            </p>
-            <p>
-               <lb/>So bildet trotz des scheinbar gemeinsamen Ausgangsortes jede der
+               <lb/>Auffassungswelt der Antike früh schon seine Anregungen.</p>
+            <p>So bildet trotz des scheinbar gemeinsamen Ausgangsortes jede der
                <lb/>großen europäischen Kulturnationen schon im Mittelalter ihre volksbeding-
                <lb/>ten Sonderformen des theatralischen Lebens aus, von denen im Kolleg
-               <lb/>dann besonders ausführlich gesprochen wurde.
-            </p>
-            <p>
-               <lb/>In den Seminarübungen der Oberstufe hatte Prof.
+               <lb/>dann besonders ausführlich gesprochen wurde.</p>
+            <p>In den Seminarübungen der Oberstufe hatte Prof.
                <lb/>Kindermann diesmal das Thema „Wesen und Geschichte
                <lb/>der Regie“ angesetzt. In einer größeren Zahl von Referaten
                <lb/>führte da der Weg von der Inszenierung der mittelalterlichen Spiele
                <lb/>über die Probleme der Hans-Sachs-Bühne und des Barocktheaters
                <lb/>zu den Bühnenformen der Neuberin, Ekhofs und Schröders, zu
                <lb/>den Mannheimer und Weimarer Regieprinzipien, zu denen Schrey-
-               <lb/>vogels und Immermanns und von da in großen Zügen über die 
-            </p>
-            <pb n="5">3</pb>
-         </div>
-         <div type="section" n="4">
-            <p>
-               <lb/>Inszenierungsideale Richard Wagners und der Meininger bis zur
+               <lb/>vogels und Immermanns und von da in großen Zügen über die</p>
+
+            <pb n="4"/>
+            <fw type="pageNum">4</fw>
+            <p>Inszenierungsideale Richard Wagners und der Meininger bis zur
                <lb/>Gegenwart. Die vergleichenden Betrachtungen ergaben allmählich
                <lb/>ein eindringliches Entwicklungsbild. Wir hoffen, im Lauf des näch-
                <lb/>sten Semesters aus diesen Referaten für die fernbetreuten Kame-
                <lb/>raden ein Skriptum: „Geschichte der deutschen Regie“ zusammen-
-               <lb/>stellen zu können. 
-            </p>
-            <p>
-               <lb/>In den Seminarübungen der Unterstufe war von
+               <lb/>stellen zu können. </p>
+            <p>In den Seminarübungen der Unterstufe war von
                <lb/>Prof. Kindermann das Thema „Deutsche Schauspiel-
                <lb/>kunst des 19. Jahrhunderts“ angesetzt worden. In einer
                <lb/>Fülle von Referaten, die meist von Bilddemonstrationen begleitet
@@ -228,26 +216,15 @@
                <lb/>spezifischen Eigenart und ihrem Beitrag zur Gesamtentwicklung der
                <lb/>Schauspielkunst analysiert. Auch hier entstand so das Wandelbild
                <lb/>eines großen Zusammenhangs und eines allmählich sich heraus-
-               <lb/>kristallisierenden, freilich vielschichtigen Jahrhundertgepräges.
-              </p>
-              <p>
-                 <lb/>Doz. Börge hielt sowohl ein Kolloquium über praktische
-                 <lb/>Dramaturgie als auch eine Einführung in die Filmkunde.
-              </p>
-              <p>
-                 <lb/>Zunächst das Kolloquium über Praktische Dramaturgie:
-              </p>
-            <div type="subsection" n="1">
-              <p>
-                 <lb/>1. Wir haben uns erst klar gemacht, welche Position das Fach
+               <lb/>kristallisierenden, freilich vielschichtigen Jahrhundertgepräges.</p>
+              <p>Doz. Börge hielt sowohl ein Kolloquium über praktische
+                 <lb/>Dramaturgie als auch eine Einführung in die Filmkunde.</p>
+              <p>Zunächst das Kolloquium über Praktische Dramaturgie:</p>
+              <p>1. Wir haben uns erst klar gemacht, welche Position das Fach
                  <lb/>Dramaturgie innerhalb der Theaterwissenschaft einnimmt. Dramaturgie
                  <lb/>definieren wir als die Wissenschaft vom aufgeführten Drama – vom
-                 <lb/> „Gesamtkunstwerk“ (Wagner).
-               </p>
-            </div>
-            <div type="subsection" n="2">
-               <p>
-                  <lb/>2. „Dramaturgie als Wissenschaft“ von Dr. Hugo Dinger, Leipzig 1904,
+                 <lb/> „Gesamtkunstwerk“ (Wagner).</p>
+               <p>2. „Dramaturgie als Wissenschaft“ von Dr. Hugo Dinger, Leipzig 1904,
                   <lb/>muß vorläufig als wissenschaftliches Hauptwerk der Dramaturgie gelten.
                   <lb/>Wir haben uns eingehend mit den Problemen, die hierin erörtert sind,
                   <lb/>besonders „Dramatische Kunst als Sonderkunst“, beschäftigt. Als Grund-
@@ -263,22 +240,16 @@
                   <lb/>Schreibtischarbeit sein. Sie müssen diktiert werden
                   <lb/>von einem inneren küstlerischen Gefühl der Ge-
                   <lb/>samtwirkung des Dramas mit „den“ Schauspielern, in
-                  <lb/> „der“ Raumregie usw.
-               </p>
-            </div>
-            <div type="subsection" n="3">
-               <p>
-                  <lb/>3. Aus einer wahren praktischen Dramaturgie entsteht eine wahre
+                  <lb/> „der“ Raumregie usw.</p>
+               <p>3. Aus einer wahren praktischen Dramaturgie entsteht eine wahre
                   <lb/>wissenschaftliche Dramaturgie. Unsere „Hanneles Himmelfahrt“ hat uns
                   <lb/>Gelegenheit gegeben, Diskussionen zu führen über viele der dramatur-
                   <lb/>gischen Probleme, die seit Lessing in Deutschland angeregt worden sind.
-                  <lb/>Wir haben uns aber nicht nur mit Aristoteles und Lessing, sondern auch mit
-               </p>
-               <pb n="5">4</pb>
-            </div>
-            <div type="section" n="5">
-               <p>
-                  <lb/>Herder, der das Drama vom Zweckprinzip befreit hat, beschäftigt. Unsere
+                  <lb/>Wir haben uns aber nicht nur mit Aristoteles und Lessing, sondern auch mit</p>
+
+               <pb n="5"/>
+               <fw type="pageNum">5</fw>
+               <p>Herder, der das Drama vom Zweckprinzip befreit hat, beschäftigt. Unsere
                   <lb/>Diskussionen haben Schillers Weg von der „Schaubühne als moralische Anstalt“
                   <lb/>über das enge Moralische zum Erhabenen veranschaulicht.
                   <lb/>Wir haben nach dem Erhabenen in „Hannele“ gefragt. Es ist gerade vor-
@@ -288,10 +259,8 @@
                   <lb/>sehen, wie die Dramaturgie in „Hanneles Himmelfahrt“ etwas Gemein-
                   <lb/>sames hat mit der Dramaturgie der Romantiker (A. W. Schlegel
                   <lb/>fordert das religiöse Drama), trotzdem er ein Naturalist ist und als Na-
-                  <lb/>turalist angefangen hat.
-               </p>
-               <p>
-                  <lb/>Die Übung zur Dramaturgie des Films beschäftigte sich haupt-
+                  <lb/>turalist angefangen hat.</p>
+               <p>Die Übung zur Dramaturgie des Films beschäftigte sich haupt-
                   <lb/>sächlich mit dem Wesen des Stummfilms. Im nächsten Semester soll der
                   <lb/>Tonfilm behandelt werden. Ziel ist ein eigener Vorführungsraum mit
                   <lb/>großem Anschauungsmaterial. Produktionsleiter aus Berlin haben ihre
@@ -301,165 +270,96 @@
                   <lb/>meinen nein. Sie verneinen überhaupt, daß Film Kunst sein kann. Mit
                   <lb/>dieser Frage haben wir uns eingehend beschäftigt. Denn hier ist des Pudels
                   <lb/>Kern: wenn Film trotz allen Kitschfilmen und minderwertigen Produkten
-                  <lb/>Kunst sein kann, gibt es eine Filmwissenschaft, die zur Ästhetik gehört.
-               </p>
-               <p>
-                  <lb/>Wir meinen vorläufig festgestellt zu haben, daß der Film zweifelsohne
+                  <lb/>Kunst sein kann, gibt es eine Filmwissenschaft, die zur Ästhetik gehört.</p>
+               <p>Wir meinen vorläufig festgestellt zu haben, daß der Film zweifelsohne
                   <lb/>in besten Augenblicken als eine photographierte darstellerische Kunst
                   <lb/>betrachtet werden muß. Wir arbeiten mit einer Dramaturgie des
                   <lb/>Bildes, denn Film ist die Kunst des Sehens, sagt der ungarische Film-
-                  <lb/>theoretiker Balasz. Das Optische ist das Entscheidende im Film.
-               </p>
-               <p>
-                   <lb/>Die Frage Theater und Film, Schauspielkunst und Regie im Film und
+                  <lb/>theoretiker Balasz. Das Optische ist das Entscheidende im Film.</p>
+               <p>Die Frage Theater und Film, Schauspielkunst und Regie im Film und
                    <lb/>im Theater ist natürlich für uns Theaterwissenschaftler wichtig. In dieser
                    <lb/>Verbindung haben wir uns kritisch auseinandergesetzt mit Walter Freis-
                    <lb/>burgers „Theater im Film“. Wir haben festgestellt, daß das Drama sich
                    <lb/>weniger für den Film eignet als der Roman, weil der epische Stoff des
                    <lb/>Romans eine Fülle von Bildern enthält. Das bedeutet aber nicht, daß der
-                   <lb/>Film nicht dramatisch sein soll.
-                 </p>
-                 <p>
-                     <lb/>In Verbindung mit einer Betrachtung des Nahbildes wurde das
-                     <lb/>Problem Maske und Mimik im Theater und Film erörtert.
-                 </p>
-                 <p>
-                     <lb/>Nach einer Berücksichtigung der schon existierenden Filmliteratur
+                   <lb/>Film nicht dramatisch sein soll.</p>
+                 <p>In Verbindung mit einer Betrachtung des Nahbildes wurde das
+                     <lb/>Problem Maske und Mimik im Theater und Film erörtert.</p>
+                 <p>Nach einer Berücksichtigung der schon existierenden Filmliteratur
                      <lb/>von Delluc um 1920, Moussinac: „Panoramique du cinema“, Rudolf Arn-
                      <lb/>heim: „Film als Kunst‘, Gottfried Müller: „Dramaturgie des Theaters und
                      <lb/>des Films“, Rehlinger, Harms, Groll, Brusendorff, Waldekranz, Jacobs usw.,
                      <lb/>wurden von Dr. Börge folgende sieben Punkte als eigene Thesen zur Dis-
                      <lb/>kussion gestellt. Sie drehen sich alle um den Schauspieler, der ge-
-                     <lb/>meinsam für Theater und Film ist:
-                  </p>
-               <div type="subsection" n="1">
-                  <p>
-                     <lb/>1. Der Filmschauspieler im Atelier hat nur einen einzigen Zuschauer:
-                     <lb/>die Kamera, die ungeheuer empfindlich ist.
-                  </p>
-               </div>
-               <div type="subsection" n="2">
-                  <p>
-                     <lb/>2. Der Schauspieler des Theaters kann sich stärkere Gebärden erlauben
+                     <lb/>meinsam für Theater und Film ist:</p>
+                  <p>1. Der Filmschauspieler im Atelier hat nur einen einzigen Zuschauer:
+                     <lb/>die Kamera, die ungeheuer empfindlich ist.</p>
+                  <p>2. Der Schauspieler des Theaters kann sich stärkere Gebärden erlauben
                      <lb/>als der Filmschauspieler, gerade weil die Kamera ein weit besserer Beob-
-                     <lb/>achter ist als das menschliche Auge.
-                  </p>
-               </div>
-               <div type="subsection" n="3">
-                  <p>
-                     <lb/>3. Der Theaterschauspieler, der sich auf einer großen Bühne bewegen
-                     <lb/>kann, hat viel mehr Raumempfinden als der Filmschauspieler. Im Film
-                  </p>
-               </div>
-               <pb n="5">5</pb>
-               </p>
-            </div>
-            <div type="section" n="6">
-               <div type="subsection" n="3">
-                  <p>
-                     <lb/>muß die Kamera die ganze Zeit den Raum hineindichten. Der Theater-
-                     <lb/>schauspieler trägt den Raum in sich und um sich.
-                  </p>
-               </div>
-             <div type="subsection" n="4">
-                <p>
-                  <lb/>4. Der Kontakt mit dem Publikum fehlt im Film. Die unmittelbare
+                     <lb/>achter ist als das menschliche Auge.</p>
+                  <p>3. Der Theaterschauspieler, der sich auf einer großen Bühne bewegen
+                     <lb/>kann, hat viel mehr Raumempfinden als der Filmschauspieler. Im Film</p>
+
+               <pb n="6"/>
+               <fw type="pageNum">6</fw>
+                  <p>muß die Kamera die ganze Zeit den Raum hineindichten. Der Theater-
+                     <lb/>schauspieler trägt den Raum in sich und um sich.</p>
+                <p>4. Der Kontakt mit dem Publikum fehlt im Film. Die unmittelbare
                   <lb/>Wirkung des gesprochenen Wortes fällt weg. Und doch darf der Film-
                   <lb/>schauspieler nie vergessen, daß die Kamera wie ein Mensch ist, wie ein
                   <lb/>sehr sensibler Mensch. Der Theaterschauspieler lebt von der Wechsel-
                   <lb/>beziehung mit dem lebendigen Publikum. Zwischen ihm und ihr gehen
                   <lb/>geheime Strahlen aus. Der Filmschauspieler lebt von der geheimen Atmo-
                   <lb/>sphäre der Kamera. Er muß Wechselbeziehung zu etwas Maschinellem und
-                  <lb/>nicht zu etwas Lebendigem haben.
-               </p>
-               </div>
-             <div type="subsection" n="5">
-                <p>
-                   <lb/>5. Ihm ist nicht die Schauspielkunst sondern das Bild als Totalität
+                  <lb/>nicht zu etwas Lebendigem haben.</p>
+                <p>5. Ihm ist nicht die Schauspielkunst sondern das Bild als Totalität
                    <lb/>das Entscheidende. Das macht einen ungeheuren Unterschied zwischen
                    <lb/>den beiden verwandten und doch verschiedenen Kunstarten, die doch den
-                   <lb/>Schauspieler gemeinsam haben.
-               </p>
-             </div>
-             <div type="subsection" n="6">
-               <p>
-                  <lb/>6. Die Probenarbeit ist eine ganz andere im Film als im Theater.
+                   <lb/>Schauspieler gemeinsam haben.</p>
+               <p>6. Die Probenarbeit ist eine ganz andere im Film als im Theater.
                   <lb/>Jede Szenenaufnahme im Film ist im Grunde genommen eine selbständige
                   <lb/>Premiere. Es fordert eine gewaltige Konzentration des Filmschauspielers, 
                   <lb/>alle diese Einzelaufnahmen, die oft in umgekehrter Ordnung stattfinden, 
-                  <lb/>zur synthetischen künstlerischen Einheit zu bringen.
-               </p>
-             </div>
-             <div type="subsection" n="7">
-                <p>
-                  <lb/>7. Übrigens unterscheiden sich die Arbeiten, Ausdrucksmittel und
+                  <lb/>zur synthetischen künstlerischen Einheit zu bringen.</p>
+               <p>7. Übrigens unterscheiden sich die Arbeiten, Ausdrucksmittel und
                   <lb/>Leistungen des Filmschauspielers vom Theaterschauspieler in unendlich
                   <lb/>vielen anderen Beziehungen. Zum Beispiel rein mimisch. Man denke an
-                  <lb/>die Nahbilder, die es im Theater gar nicht gibt, usw., usw.
-                </p>
-             </div>
-                <p>
-                  <lb/>Der Leiter der Theaterabteilung der Reichshochschule für Musik,
+                  <lb/>die Nahbilder, die es im Theater gar nicht gibt, usw., usw.</p>
+                <p>Der Leiter der Theaterabteilung der Reichshochschule für Musik,
                   <lb/>Prof. Dr. Hans Niederführ, brachte in seinem Kolloquium in
                   <lb/>13 Vorlesungen, bzw. Übungsstunden über praktische Bühnen-
                   <lb/>kunde zunächst grundsätzliche Auseinandersetzungen über Theater-
                   <lb/>wissenschaft und Bühnenpraxis in ihrer Polarität und stellte die
-                  <lb/>Wichtigkeit und Notwendigkeit ihrer wechselseitigen Ergänzung dar.
-               </p>
-               <p>
-                  <lb/>Das Arbeitsgebiet der praktischen Bühnenkunde selbst wurde nach
-                  <lb/>dieser allgemeinen Einleitung sodann in drei Kapitel zu je vier Abschnitten geteilt.
-               </p>
-               <p>
-                  <lb/>Die drei Hauptstücke hießen: A. Personal, B. Einrichtung, C Arbeit.
-               </p>
-             <div type="subsection" n="8">
-               <p>
-                  <lb/>Zum ersten Abschnitt gehören: 1. Darsteller, 2. Regisseur und Diri-
-                  <lb/>gent, 3. Leitung, 4. Bühnenpersonal.
-               </p>
-             </div>
-             <div type="subsection" n="9">
-                <p>
-                  <lb/>Zum zweiten Abschnitt gehören: 1. Theaterbau, 2. Bühneneinrichtung,
-                  <lb/>3. Beleuchtung, 4. Fundus.
-                </p>
-             </div>
-             <div type="subsection" n="10">
-                <p>
-                   <lb/>Zum dritten Abschnitt gehören: 1. Inszenierung, 2. Betrieb, 3. Ar-
-                   <lb/>beitsplanung, 4. Soziales Korporationswesen.
-               </p>
-             </div>
-               <p>
-                  <lb/>Die Durchbesprechung des Stoffes erfolgte jedoch nicht abschnitt-
+                  <lb/>Wichtigkeit und Notwendigkeit ihrer wechselseitigen Ergänzung dar.</p>
+               <p>Das Arbeitsgebiet der praktischen Bühnenkunde selbst wurde nach
+                  <lb/>dieser allgemeinen Einleitung sodann in drei Kapitel zu je vier Abschnitten geteilt.</p>
+               <p>Die drei Hauptstücke hießen: A. Personal, B. Einrichtung, C Arbeit.</p>
+               <p>Zum ersten Abschnitt gehören: 1. Darsteller, 2. Regisseur und Diri-
+                  <lb/>gent, 3. Leitung, 4. Bühnenpersonal.</p>
+                <p>Zum zweiten Abschnitt gehören: 1. Theaterbau, 2. Bühneneinrichtung,
+                  <lb/>3. Beleuchtung, 4. Fundus.</p>
+                <p>Zum dritten Abschnitt gehören: 1. Inszenierung, 2. Betrieb, 3. Ar-
+                   <lb/>beitsplanung, 4. Soziales Korporationswesen.</p>
+               <p>Die Durchbesprechung des Stoffes erfolgte jedoch nicht abschnitt-
                   <lb/>weise, sondern zunächst im allgemeinen Querschnitt an Hand der genauen
                   <lb/>und ausführlichen Schilderung einer großen Schauspielinszenierung, die
-                  <lb/>alle weiteren Übungsstunden des Semesters ausfüllte.
-               </p>
-               <p>
-                  <lb/>Ergänzt wurden diese Darlegungen durch praktische Beispiele. Es
+                  <lb/>alle weiteren Übungsstunden des Semesters ausfüllte.</p>
+               <p>Ergänzt wurden diese Darlegungen durch praktische Beispiele. Es
                   <lb/>wurde versucht, die Hörer an der Entscheidung einer Übungsinszenierung
                   <lb/>der Theaterabteilung der Reichshochschule für Musik teilnehmen zu lassen. 
                   <lb/>Hiefür wurde Carlo Goldonis „La vedova scaltra“ (Die kluge Witwe) 
                   <lb/>gewählt. Die Hörerschaft hatte Gelegenheit, die Entstehung der drama-
-                  <lb/>tischen Bearbeitung und des Bühnenbildes kennen zu lernen, um sodann
-               </p>
-               <pb n="5">6</pb>
-           </div>
-           <div type ="section" n="7">
-              <p>
-                 <lb/>in Gruppen auch bei den einzelnen Proben teilzunehmen. Die Inszenierung
+                  <lb/>tischen Bearbeitung und des Bühnenbildes kennen zu lernen, um sodann</p>
+
+              <pb n="7"/>
+              <fw type="pageNum">7</fw>
+              <p>in Gruppen auch bei den einzelnen Proben teilzunehmen. Die Inszenierung
                  <lb/>ist noch nicht abgeschlossen. Die letzten Proben werden während der
-                 <lb/>Semesterferien zugängig sein.
-              </p>
-              <p>
-                 <lb/>Praktische Vorführungen bühnentechnischer Einrichtungen und Hilfs-
+                 <lb/>Semesterferien zugängig sein.</p>
+              <p>Praktische Vorführungen bühnentechnischer Einrichtungen und Hilfs-
                  <lb/>mittel im Schönbrunner Schloßtheater bildeten eine weitere Ergänzung
-                 <lb/>und Abrundung.
-              </p>
-              <p>
-                 <lb/>Ganz besonderen Anklang fand eine Neueinrichtung dieses
+                 <lb/>und Abrundung.</p>
+              <p>Ganz besonderen Anklang fand eine Neueinrichtung dieses
                  <lb/>Semesters, die „Ringvorlesung“. Sie wurde diesmal für künf-
                  <lb/>tige Kunstbetrachter abgehalten, wird im nächsten Semester für
                  <lb/>künftige Dramaturgen und im übernächsten für künftige Regis-
@@ -488,10 +388,8 @@
                  <lb/>dieser überaus fruchtbaren und vielseitigen Vortragsreihe – die
                  <lb/>meisten Vorträge waren von Bild- und Modelldemonstrationen be-
                  <lb/>gleitet – zu geben, fügen wir am Schluß noch den anschaulichen
-                 <lb/>Erlebnisbericht einer Kameradin bei.
-              </p>
-              <p>
-                 <lb/>Im Wiener Kulturleben haben die großen Sonderveran-
+                 <lb/>Erlebnisbericht einer Kameradin bei.</p>
+              <p>Im Wiener Kulturleben haben die großen Sonderveran-
                  <lb/>staltungen des Zentralinstituts, die während des Semesterlaufs
                  <lb/>einmal im Monat im Auditorium maximum der Universität statt-
                  <lb/>finden, schon einen besonderen Platz und Rang erworben. Sie
@@ -500,13 +398,11 @@
                  <lb/>zweiten Rundbrief berichtet, sprach da im November Staatsschau-
                  <lb/>spieler Friedrich Kayssler vom Staatlichen Schauspielhaus Berlin
                  <lb/>über das Wesen der Schauspielkunst. Wir lassen hier
-                 <lb/>einen kurzen Ausschnitt aus diesem Vortrag folgen:
-              </p>
-              <pb n="5">7</pb>
-           </div>
-           <div type="section" n="8">
-              <p>
-                 <lb/>Auch in der tiefsten Sympathie und Bewunderung dem Theater
+                 <lb/>einen kurzen Ausschnitt aus diesem Vortrag folgen:</p>
+
+              <pb n="8"/>
+              <fw type="pageNum">8</fw>
+              <p>Auch in der tiefsten Sympathie und Bewunderung dem Theater
                  <lb/>gegenüber schwingt seit jeher unwillkürlich unbewußt eine andere Emp-
                  <lb/>findung mit, als geschähe da etwas, was sich auf eine gewisse Weise vor-
                  <lb/>drängt, eben weil es sich selbst zur Darstellung bringt. Diese Empfindung
@@ -530,10 +426,8 @@
                  <lb/>ist, weil der Mensch hier in seiner neuen, verwandelten, geistigen Gestalt
                  <lb/>auf der Ebene des reinen geistigen Lebens tätig ist, und dort mit den Ideen
                  <lb/>selbst, mit den Wahrheiten und geistigen Möglichkeiten selbst in unmittel-
-                 <lb/>baren Verkehr tritt.
-              </p>
-              <p>
-                 <lb/>Wenn ich hier sage: der Mensch, so meine ich nicht den Schauspieler, 
+                 <lb/>baren Verkehr tritt.</p>
+              <p>Wenn ich hier sage: der Mensch, so meine ich nicht den Schauspieler, 
                  <lb/>sondern Darsteller und Zuhörer oder Zuschauer zusammen. Der Darsteller
                  <lb/>ist der, der den Weg wissen muß und vorangeht, aus sich heraus, hinein
                  <lb/>in das geistige Reich des Traumes. Ihm folgt der Zuhörer, der wirklich
@@ -548,10 +442,8 @@
                  <lb/>lange sie unter der Kraft der Hingabe stehen. Erst wenn die Hingabe auf-
                  <lb/>hört und die Gehirne wieder in Tätigkeit kommen, werden solche Ent-
                  <lb/>scheidungen formuliert. Dann ist das eigentliche künstlerische Erlebnis
-                 <lb/>vorbei.
-              </p>
-              <p>
-                 <lb/>Wir sind uns klar darüber, daß erst dann, wenn eine Einheit sich
+                 <lb/>vorbei.</p>
+              <p>Wir sind uns klar darüber, daß erst dann, wenn eine Einheit sich
                  <lb/>bildet, eine wahre Einheit in einem einzigen gemeinsamen Gefühl, eine
                  <lb/>Einheit der Menschen untereinander, innerhalb deren es keine Unter-
                  <lb/>scheidungen wie Darsteller, Zuhörer, Zuschauer mehr gibt, daß erst dann
@@ -560,21 +452,18 @@
                  <lb/>Kunst an und für sich kein Ziel ist, sondern erst die Kraft der Einheit,
                  <lb/>die von ihr ausgeht. Was tut der jüngste Anfänger, wenn er in seiner
                  <lb/>Studierkammer seine erste künstlerische Handlung beginnen will: er kon-
-                 <lb/>zentriert sich, er sammelt sich zu sich selbst, er sammelt seinen innersten
-              </p>
-              <pb n="5">8</pb>
-           </div>
-           <div type="section" n="9"> 
-              <p>
-                 <lb/>Menschen auf einen allerinnersten unsichtbaren Kernpunkt zusammen zu
+                 <lb/>zentriert sich, er sammelt sich zu sich selbst, er sammelt seinen innersten</p>
+
+              <pb n="9"/>
+              <fw type="pageNum">9</fw>
+              <p>Menschen auf einen allerinnersten unsichtbaren Kernpunkt zusammen zu
                  <lb/>einer Kraft, für die er selbst keinen Namen weiß. Was tut ein Theater? 
                  <lb/>Es sammelt alle die allerinnersten Kernkräfte seiner Schauspieler auf den
                  <lb/>mittelsten Kernpunkt der Dichtung. Was tut der einzelne Schauspieler
                  <lb/>im Augenblick der tiefsten Konzentration? Er öffnet die winzige unsicht-
                  <lb/>bare Tür nach innen und führt seine Zuhörer, die dem Willen zur Hingabe
-                 <lb/>folgen, mit hinein. Die Kunst verschwindet – und die Einheit ist da. </p>
-              <p>
-                 <lb/>Hier stehen wir an der Quelle der Schauspielkunst. Leicht ist es, sich
+                 <lb/>folgen, mit hinein. Die Kunst verschwindet – und die Einheit ist da.</p>
+              <p>Hier stehen wir an der Quelle der Schauspielkunst. Leicht ist es, sich
                  <lb/>von hier aus zurückzudenken in eine Zeit ihrer Uranfänge, wo aus einer
                  <lb/>Mitte religiös versenkter Menschen irgend einer sich innerlich getrieben
                  <lb/>fühlte, plötzlich aufzustehen, seinen Körper rhythmisch zu bewegen und
@@ -582,10 +471,8 @@
                  <lb/>schien und doch wieder auf eine geheimnisvolle Weise vertraut: denn er
                  <lb/>wußte mit einemmal: sein Körper war jetzt Ausdruck für die innerste
                  <lb/>Bewegung aller, sein Wort war jetzt Laut für das Unsagbare, das alle
-                 <lb/>bisher stumm in sich aufwachsen gefühlt hatten.
-              </p>
-              <p>
-                 <lb/>So war es. Anders kann es nicht angefangen haben, einmal vor un-
+                 <lb/>bisher stumm in sich aufwachsen gefühlt hatten.</p>
+              <p>So war es. Anders kann es nicht angefangen haben, einmal vor un-
                  <lb/>denklichen Zeiten. Damals freilich fanden sich die Menschen nur dann
                  <lb/>zusammen, wenn sie das innere Bedürfnis dazu trieb. Heute ist es anders
                  <lb/>geworden. Darum ist es aber gut und heilsam, sich hin und wieder einmal
@@ -600,17 +487,13 @@
                  <lb/>hat und daß sich immer und immer wieder dasselbe wiederholen muß, 
                  <lb/>wenn einmal – was nicht alle Tage geschehen kann – die Stunde für die
                  <lb/>Kunst gekommen ist: die Stunde für die Menschen, im Innersten zuein-
-                 <lb/>ander zu finden.
-              </p>
-              <p>
-                 <lb/>Im Dezember nahm Prof. Pirchan, Leiter der Meisterklasse
+                 <lb/>ander zu finden.</p>
+              <p>Im Dezember nahm Prof. Pirchan, Leiter der Meisterklasse
                  <lb/>für Bühnenbildnerei an der Wiener Akademie der bildenden
                  <lb/>Künste, das Wort zu einem in den Entwicklungsgang einführenden
                  <lb/>Lichtbildervortrag „Die Künste des Bühnenbildes“. Das
-                 <lb/> „Neue Wiener Tagblatt“ berichtete darüber u. a.:
-              </p>
-              <p>
-                 <lb/>Es gibt noch keine Kunstgeschichte des Bühnenbildes. Vielleicht des-
+                 <lb/> „Neue Wiener Tagblatt“ berichtete darüber u. a.:</p>
+              <p>Es gibt noch keine Kunstgeschichte des Bühnenbildes. Vielleicht des-
                  <lb/>halb, weil hier Kunst und Technik so eng verschwistert sind, ähnlich wie
                  <lb/>beim Film, daß der Impuls zum Fortschritt jeweils viel stärker aus der
                  <lb/>Mechanik kam, denn aus der Kunst. Prof. Emil Pirchan betitelte seinen
@@ -622,13 +505,11 @@
                  <lb/>man könnte sogar sagen, die „Zauberkünste“ des Bühnenbildes, denn es
                  <lb/>soll eine Scheinwirklichkeit vorgetäuscht werden, in der weder Raum noch
                  <lb/>Materie ihrer tatsächlichen Beschaffenheit entsprechen. Der Bühnenbildner
-                 <lb/>muß also schöpferische Gestaltungskraft und technischen Erfindungsgeist
-              </p>
-              <pb n="5">9</pb>
-           </div>
-           <div type="section" n="10">
-              <p>
-                 <lb/>in sich vereinigen. Illustriert an zahlreichen Beispielen des Bühnenbildes,
+                 <lb/>muß also schöpferische Gestaltungskraft und technischen Erfindungsgeist</p>
+
+              <pb n="10"/>
+              <fw type="pageNum">10</fw>
+              <p>in sich vereinigen. Illustriert an zahlreichen Beispielen des Bühnenbildes,
                  <lb/>gab Prof. Pirchan eine Geschichte der Kulissenbühne, die von der „Mei-
                  <lb/>ningerei“ bis in die Gegenwart führte und mit der Vorführung moderner
                  <lb/>bühnentechnischer Einrichtung schloß. Er streifte die Hauptphasen in die-
@@ -641,19 +522,15 @@
                  <lb/>bereitet wird. Die Täuschungskunst verzeichnet weitere Fortschritte, und
                  <lb/>der Beleuchtung kommt durch die Erfindung der Lumogenfarben, die zum
                  <lb/>Beispiel von Quarzdampflampen bestrahlt, einer wirkungsvollen transparen-
-                 <lb/>ten Wirkung fähig sind, immer größere Bedeutung zu.
-              </p>
-              <p>
-                 <lb/>Im Januar sprach der weit über Deutschland hinaus bekannte
+                 <lb/>ten Wirkung fähig sind, immer größere Bedeutung zu.</p>
+              <p>Im Januar sprach der weit über Deutschland hinaus bekannte
                  <lb/>Oberspielleiter der Wiener Staatsoper Oskar Fritz Schuh über
                  <lb/> „Probleme der modernen Opernregie“. Aus dem viel-
                  <lb/>diskutierten, sehr programmatisch gehaltenen Vortrag, der im Rah-
                  <lb/>men der Schriften des Zentralinstituts im Wilhelm-Frick-Verlag
                  <lb/> (Wien) erscheinen wird, geben wir hier zur ersten Orientierung
-                 <lb/>einen kleinen Ausschnitt:
-              </p>
-              <p>
-                 <lb/>Allmählich hat sich doch die Meinung mehr und mehr durchgesetzt,
+                 <lb/>einen kleinen Ausschnitt:</p>
+              <p>Allmählich hat sich doch die Meinung mehr und mehr durchgesetzt,
                  <lb/>daß die Oper nicht nur ein musikalisches, sondern auch ein theatralisches
                  <lb/>Kunstwerk ist. Und zwar beginnt die neue Konzeption eigentlich so recht
                  <lb/>bei Richard Wagner, der der erste inaugurierende Regisseur seiner eigenen
@@ -680,10 +557,8 @@
                  <lb/>simpel. Und trotzdem wird hinter allem eine geistige Ordnung sichtbar,
                  <lb/>die wiederherzustellen nicht der Musik allein überlassen sein kann, son-
                  <lb/>dern die aufzufinden das Werk des Regisseurs sein muß. Erst wenn es ihm
-                 <lb/>nämlich gelingt, diese scheinbar so starre Welt wie eine Gleichniswelt dar-
-              </p>
-              <pb n="5">10</pb>
-           </div>
+                 <lb/>nämlich gelingt, diese scheinbar so starre Welt wie eine Gleichniswelt dar-</p>
+          </div>
       </body>
   </text>
 </TEI>
