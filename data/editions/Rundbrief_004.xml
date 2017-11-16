@@ -31,7 +31,8 @@
       </fileDesc>
   </teiHeader>
   <text>
-     <pb n=“1“/>
+     <body>
+     <pb n="1"/>
      <head type="main">Rundbrief des <lb>
      </lb><head type="sub">Zentralinstituts für Theaterwissenschaft</head><lb>
      </lb>an der Universität Wien <lb>
@@ -40,7 +41,7 @@
      </p> Liebe Kameraden! <lb>
      </lb>
      </head>
-        <body>
+        
          <lb></lb>
          Das Sommersemester 1944 ist gut zu Ende gegangen. Immer
          wieder haben wir bei unseren Arbeiten an Euch gedacht. Nun
@@ -75,20 +76,20 @@
          Euch orientieren könnt. Natürlich ist in Aussicht genommen, bei
          Eurer dereinstigen Heimkehr dann besondere Bestimmungen für
          Kriegsteilnehmer zu erlassen, die sich den allgemeinen Richtlinien
-         </pb><pb n=“2“/>
+         <pb n="2"/>
          des Reichserziehungsministeriums hinsichtlich der für Euch zu schaf-
          fenden Erleichterungen anpassen sollen. Der starke Andrang und
          das Anwachsen unseres Lehr- und Forschungsapparates veranlaßte
          uns auch, zu sechs bisherigen noch zwei weitere Räume: den
          Loewe-Raum und den Wildbrandt-Baudius-Raum (beide mit schö-
          nen Bildern dieser Künstler geziert), in Verwendung zu nehmen. <p>
-         </pb> <shift>Nun zunächst ein Bild dessen, was den Studierenden in Vor- </shift>
+         <pb/> <shift>Nun zunächst ein Bild dessen, was den Studierenden in Vor- </shift>
          lesungen, Seminarübungen und Kolloquien geboten wurde. Das
          dreistündige Hauptkolleg von [gesperrt]Prof. Dr. Heinz Kindermann[/gesperrt],
          das nun im schönen großen Auditorium maximum der Universität
          stattfindet und meist von instruktiven Lichtbildern begleitet ist, be-
          handelte diesmal [gesperrt]„Das deutsche und europäische Thea-
-         ter der Renaissancezeit“[/gesperrt].<p>
+         ter der Renaissancezeit"[/gesperrt].<p>
          </p><shift>[kleiner gedruckt] Im Gegensatz zu den Mysterien und prunkvollen Prozessionen des</shift>
          Mittelalters, die stets auf das Transzendente, auf das göttliche Geschehen
          bezogen waren, entwickelt sich nun das diesseitsgebundene weltliche
@@ -129,7 +130,7 @@
          infolge der kulturtragenden Schicht, die sich nicht, wie in Italien, aus Ver-
          tretern des höfischen Lebens, sondern aus Bürgern und Handwerkern zu-
          sammensetzte. Eine dritte unterschiedliche Vorgegebenheit bildete zuletzt
-         </pb><pb n=“3“/>
+         <pb/><pb n="3"/>
          die Reformation, die in bestimmender Weise das Renaissancetheater in
          Deutschland beeinflußte.<p>
          </p><shift>So entstehen in Deutschland im 16. Jahrhundert drei Spielschichten:</shift><p>
@@ -153,7 +154,7 @@
          sonders in den deutschen Grenzlanden, in denen sich das Theater in der
          unmittelbaren Auseinandersetzung mit dem ausländischen Gut zu eigener
          Höhe entwickelt, Künstler von Rang am Werke sind. Conrad Celtis‘ „Ludus
-         Dianae“ in Linz stellt den Höhepunkt dar, der, mit dem Festgedanken der
+         Dianae" in Linz stellt den Höhepunkt dar, der, mit dem Festgedanken der
          Kaiserehrung verbunden, nicht weit hinter den italienischen Hoffesten zu-
          rückgestanden haben mag. Aber sind es in Italien die Meister der bilden-
          den Kunst, die das Auge befriedigen, so sind es in Deutschland Dichter und
@@ -187,7 +188,7 @@
          ist von dieser Typik unberührt, sie verläuft nach dem Gesetz der Situa-
          tionskomik und wurzelt im Grotesken schlechthin. Auch die Meistersinger-
          bühne ist geistig [gesperrt] nicht [/gesperrt] festgelegt durch Dekoration oder Illusionswillen,<p>
-         </pb><pb n=“4“/>
+         <pb/><pb n="4"/>
          sondern als Podiumaufbau nur mit Vorhängen versehen, deren Schlitze die
          Tore bedeuten.<p>
          </p><shift>Einfachste Requisiten zeichnen diese drei Typen der deutschen Re-</shift>
@@ -206,9 +207,9 @@
          ten Bild der Präfigurationen, d. h. der lebenden Bilder, die bei Predigten
          ihre vertiefende Anwendung fanden, und bauten beides in ein antikes und
          deutsches Spielgefüge ein, indem sie hinter neutraler Vorderbühne mit Hilfe
-         kostbar gewebter Tapeten die „antike“ Schauwand errichteten, die ihren
+         kostbar gewebter Tapeten die „antike" Schauwand errichteten, die ihren
          flächigen Bildcharakter mit den über- und nebeneinander aufgestellten
-         „Toonels“ in den Kirchen teilte. Diese glückliche Übereinstimmung der
+         „Toonels" in den Kirchen teilte. Diese glückliche Übereinstimmung der
          Form ließ die antike Schauwand in den Niederlanden bald Fuß fassen, doch
          unterscheidet sie sich lebhaft von der rein dekorativen Schauwand Italiens
          durch die Praktikabilität ihrer Obergeschosse, in denen lebende Bilder oder
@@ -220,7 +221,7 @@
          Europa in erster Linie formten.[/kleiner gedruckt]<p>
          </p><shift>In dem von Prof. Kindermann geleiteten [gesperrt] Proseminar [/gesperrt] wur-</shift>
          den rund 100 mündliche oder schriftliche Referate zum Thema
-         [gesperrt] „Geschichte des Burgtheaters“ [/gesperrt] erstattet. Jedes Einzel-
+         [gesperrt] „Geschichte des Burgtheaters" [/gesperrt] erstattet. Jedes Einzel-
          thema wurde von vier Referenten behandelt. Das lehrreichste da-
          von, d. h. dasjenige, das die meisten Ansatzpunkte zu einer Dis-
          kussion und Kritik gab, wurde vorgetragen, und zunächst durften
@@ -239,7 +240,7 @@
          nicht allein Einblick zu gewähren in den Wachstumsprozeß dieses
          traditionsreichsten Nationaltheaters der Deutschen, sondern auch zu
          zeigen, wie man überhaupt eine Theatergeschichte schreibt, welches
-         </pb><pb n=“5“/>
+         <pb/><pb n="5"/>
          Zusammenspiel der Kräfte erst dieses theatralische Ganze formt und
          seinen Epochenausdruck bedingt. Nur wer solche Überlegungen an 
          wichtigen Beispielen mit wissenschaftlichen Mitteln angestellt hat,
@@ -260,7 +261,7 @@
          </p><shift>Das von Prof. Kindermann geleitete [gesperrt] Hauptseminar [/gesperrt], also</shift>
          der kleinere Kreis der schon reiferen Studierenden der Theater-
          wissenschaft, befaßte sich mit der [breit] „Geschichte des deutschen
-         Spielplans vom 18. Jahrhunderts bis zur Gegenwart“ [breit/].
+         Spielplans vom 18. Jahrhunderts bis zur Gegenwart" [breit/].
          Die Spielplanforschung war lange vernachlässigt oder nur schema-
          tisch betrieben worden. Ihr wird gerade in der Wiener Schule be-
          sonderes Augenmerk zugewandt, weil das Profil jedes Theaters von
@@ -282,12 +283,14 @@
          über praktische [gesperrt] Dramaturgie [/gesperrt] und eines über [gesperrt] Filmkunde [/gesperrt].<p>
          </p><shift>In seinem [gesperrt] Kolloquium über praktische Dramaturgie[/gesperrt]</shift>
          behandelte er die Komödie und die Tragödie als Grundlage der Schauspiel-
-         kunst; die Komödie illustrierte er an Holbergs „Jeppe von Berge“, die
-         Tragödie an Schillers „Maria Stuart“. Dr. Börge interpretierte die Komödie
+         kunst; die Komödie illustrierte er an Holbergs „Jeppe von Berge", die
+         Tragödie an Schillers „Maria Stuart". Dr. Börge interpretierte die Komödie
          aus dem Gesamtkunstwerk Holbergs. Die dramaturgischen Probleme
          der Aufführungsmöglichkeiten und notwendigen Striche wurden vom
-         </pb><pb n=“6“/>
-      </body>
-     
+         <pb/><pb n="6"/>
+      
+         </p>
+         </p>
+     </body>
   </text>
 </TEI>
