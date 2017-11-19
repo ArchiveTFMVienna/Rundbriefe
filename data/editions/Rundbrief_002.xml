@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main"> Digitale Edition Rundbriefe des Zentralinstitutes für
+               Theaterwissenschaft an der Universität Wien 1944-45</title>
+            <title type="sub">Digitale Edition des 2. Rundbriefs 1943</title>
+            <principal>
+               <rs ref="#sara tiefenbacher" type="person">Sara Tiefenbacher</rs>
+               <rs ref="#janina piech" type="person">Janina Piech</rs>
+            </principal>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <rs ref="#sara tiefenbacher" type="person">Sara Tiefenbacher</rs>
+               <rs ref="#janina piech" type="person">Janina Piech</rs>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                  <p> The (CC BY-SA 4.0)-License applies to this document. </p>
+                  <p> You are allowed to share (copy and redistribute the material in any medium or
+                     format) and adapt (remix, transform, and build upon the material) for any
+                     purpose, even commercially. </p>
+                  <p> You must give appropriate credit, provide a link to the license, and indicate
+                     if changes were made. You may do so in any reasonable manner, but not in any
+                     way that suggests the licensor endorses you or your use. </p>
+                  <p> ShareAlike — If you remix, transform, or build upon the material, you must
+                     distribute your contributions under the same license as the original. </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Archiv und Sammlungen des Instituts für Theater-, Film- und
+                     Medienwissenschaft der Universität Wien</institution>
+                  <repository>Nachlass Kindermann</repository>
+                  <idno>Signatur efef13 Schachtel X Mappe X</idno>
+               </msIdentifier>
+               <history>
+                  <origin when="1943-11"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="1"/>
+         <head type="main" style="text-align:center" >Rundbrief des</head>
+         <head type="main" style="text-align:center">Zentralinstituts für Theaterwissenschaft</head>
+         <head type="main" style="text-align:center">an der Universität Wien</head>
+         <head type="sub"><date when="1943-11">November 1943</date>
+            <num>No. 2</num> Erscheint jährlich viermal</head>
+         <div type="letter" n="1">
+            <salute>Liebe Kameraden!</salute>
+            <p>Seit wir Euch den ersten Rundbrief <ref target="http://d-nb.info/02158866X"></ref> sandten, ist in unserem
+               <orgName>Zentralinstitut<ref target="http://d-nb.info/gnd/10017549-1"></ref></orgName> viel Arbeit geleistet worden. Wir tun sie aber gerne,
+               weil wir wissen, daß all das eines Tages Euch zugute kommen wird,
+               wenn Ihr wieder heimkehrt. Dieser Gedanke macht uns all das
+               kriegsbedingte Schwere und Mühevolle leicht. Da wir aus Euren
+               Briefen wissen, wie sehr auch Euch der Gedanke an die künftige
+               Arbeit beschäftigt, hoffen wir, Euch eine Freude damit zu bereiten,
+               daß wir Euch vorerst berichten, was wir dafür vorbereiten konnten.
+               Zuerst fanden sich in den Sommerferien etwa zehn Studentinnen im
+               Arbeitseinsatz in unserem Institut ein und führten unter der Leitung
+               von Frl. Meyer den Verfasserkatalog der immer größer werdenden
+               Bücherei zu Ende. Dazu soll nun aber noch ein möglichst ins Ein-
+               zelne gehender Schlagwortkatalog treten, damit unsere Bibliothek
+               vielseitig und ohne viel Suchen benutzbar ist.</p>
+            <p>Unsere Bücherbestände wurden indes außerordentlich bereichert.
+               Zu der im ersten Rundbrief <ref target="http://d-nb.info/02158866X"></ref> erwähnten Buschbibliothek, einer thea-
+               tergeschichtlichen Leihgabe der Stadt Münster, im Umlauf von
+               3000 Bänden kam nun allmählich ein Eigenbesitz von bisher
+               7000 Bänden. Gerade in diesen Tagen konnten wir überdies aus
+               einem <geogName><geogFeat>alpen</geogFeat>ländischen</geogName> Schloß eine kostbare Bibliothek von
+               2500 Dramentexten (Spielbüchern) aus der Zeit <date from="1770" to="1830">von 1770 bis 1830</date>
+               dazu erwerben, so daß unser Eigenbesitz bald schon 10 000 Bände
+               erreicht.</p>
+          
+               
+            <pb n="2"/>
+          
+         </div>
+      </body>
+   </text>
+</TEI>
