@@ -59,7 +59,7 @@
          <div type="letter" n="1">
             <salute>Liebe Kameraden!</salute>
             <p>Seit wir Euch den ersten Rundbrief <ref target="http://d-nb.info/02158866X"></ref> sandten, ist in unserem
-               <orgName>Zentralinstitut<ref target="http://d-nb.info/gnd/10017549-1"></ref></orgName> viel Arbeit geleistet worden. Wir tun sie aber gerne,
+               <rs type="org" ref="#zentralinstitut">Zentralinstitut<ref target="http://d-nb.info/gnd/10017549-1"></ref></rs> viel Arbeit geleistet worden. Wir tun sie aber gerne,
                weil wir wissen, daß all das eines Tages Euch zugute kommen wird,
                wenn Ihr wieder heimkehrt. Dieser Gedanke macht uns all das
                kriegsbedingte Schwere und Mühevolle leicht. Da wir aus Euren
