@@ -74,7 +74,7 @@
                sind und während dieser Zeit studieren dürfen, Kriegerwitwen, einige aus
                gesundheitlichen Gründen vom Wehr- und Arbeitseinsatz Befreite und im sogenannten
                nebenberuflichen Studium einige weibliche Studierende, die tagsüber in der
-               Rüstungsindustrie arbeiten, <time>nachmittags ab 17 Uhr</time> aber dann Vorlesungen
+               Rüstungsindustrie arbeiten, <time notBefore="17:00:00">nachmittags ab 17 Uhr</time> aber dann Vorlesungen
                un Uebungen besuchen dürfen.</p>
             <pb n="2"/>
             <fw type="pageNum">- 2 -</fw>
