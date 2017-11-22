@@ -53,3 +53,10 @@ aufrecht erhalten wurde,
 ```
 
 To decide: where to store which information and what level of detail
+
+
+## conventions
+
+formal denomination of the archive: <institution>Archiv und Sammlungen des Instituts für Theater-, Film- und Medienwissenschaft der Universität Wien</institution>
+
+signature of the "Rundbriefe" is currently not steady, final <idno> will follow
