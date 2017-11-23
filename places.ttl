@@ -1,0 +1,373 @@
+@prefix ns1: <https://vocabs.acdh.oeaw.ac.at/schema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/185> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2779326> ;
+    ns1:hasLatitude 48.307060000000 ;
+    ns1:hasLongitude 16.078660000000 ;
+    ns1:hasTitle "Frauenhofen" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/323> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2778845> ;
+    ns1:hasLatitude 48.588990000000 ;
+    ns1:hasLongitude 15.653630000000 ;
+    ns1:hasTitle "Gars am Kamp" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/335> a ns1:Place ;
+    ns1:hasTitle "Gars und Thunau am Kamp" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/340> a ns1:Place ;
+    ns1:hasTitle "Gars - Thunau am Kamp" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/349> a ns1:Place ;
+    ns1:hasTitle "Gars-Thunau am Kamp" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/386> a ns1:Place ;
+    ns1:hasTitle "Hollabrunn, Thunau am Kamp" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/425> a ns1:Place ;
+    ns1:hasTitle "Eggenburg; Thunau" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/467> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/7871774> ;
+    ns1:hasLatitude 48.648960000000 ;
+    ns1:hasLongitude 15.830600000000 ;
+    ns1:hasTitle "Eggenburg" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/502> a ns1:Place ;
+    ns1:hasAlternativeTitle "Thunau am Kamp" ;
+    ns1:hasIdentifier <http://www.geonames.org/2763660> ;
+    ns1:hasLatitude 48.583330000000 ;
+    ns1:hasLongitude 15.650000000000 ;
+    ns1:hasTitle "Thunau" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/585> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/3333125> ;
+    ns1:hasLatitude 52.480480000000 ;
+    ns1:hasLongitude -1.898230000000 ;
+    ns1:hasTitle "Birmingham, England" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/586> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2654408> ;
+    ns1:hasLatitude 51.750000000000 ;
+    ns1:hasLongitude -0.750000000000 ;
+    ns1:hasTitle "Buckinghamshire, England" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/587> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/3054643> ;
+    ns1:hasLatitude 47.498010000000 ;
+    ns1:hasLongitude 19.039910000000 ;
+    ns1:hasTitle "Budapest, Ungarn" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/588> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/7532536> ;
+    ns1:hasLatitude 50.365200000000 ;
+    ns1:hasLongitude 18.876300000000 ;
+    ns1:hasTitle "Bytom" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/589> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2653941> ;
+    ns1:hasLatitude 52.200000000000 ;
+    ns1:hasLongitude 0.116670000000 ;
+    ns1:hasTitle "Cambridge, England" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/590> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2653228> ;
+    ns1:hasLatitude 53.190500000000 ;
+    ns1:hasLongitude -2.891890000000 ;
+    ns1:hasTitle "Chester, England" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/591> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2652618> ;
+    ns1:hasLatitude 51.889210000000 ;
+    ns1:hasLongitude 0.904210000000 ;
+    ns1:hasTitle "Colchester, England" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/592> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/721246> ;
+    ns1:hasLatitude 48.300000000000 ;
+    ns1:hasLongitude 20.733330000000 ;
+    ns1:hasTitle "Edelény, Ungarn" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/593> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/3333229> ;
+    ns1:hasLatitude 55.949730000000 ;
+    ns1:hasLongitude -3.193330000000 ;
+    ns1:hasTitle "Edinburgh, England" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/594> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/7871774> ;
+    ns1:hasLatitude 48.648960000000 ;
+    ns1:hasLongitude 15.830600000000 ;
+    ns1:hasTitle "Essex, England" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/595> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2762757> ;
+    ns1:hasLatitude 48.733330000000 ;
+    ns1:hasLongitude 15.950000000000 ;
+    ns1:hasTitle "Gars am Kamp, Unternalb" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/596> a ns1:Place ;
+    ns1:hasAlternativeTitle "Gars-Thunau am Kamp" ;
+    ns1:hasIdentifier <http://www.geonames.org/2763660> ;
+    ns1:hasLatitude 48.583330000000 ;
+    ns1:hasLongitude 15.650000000000 ;
+    ns1:hasTitle "Gars-Thunau" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/598> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2763660> ;
+    ns1:hasLatitude 48.583330000000 ;
+    ns1:hasLongitude 15.650000000000 ;
+    ns1:hasTitle "Grabung Thunau" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/599> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/6541868> ;
+    ns1:hasLatitude 42.771430000000 ;
+    ns1:hasLongitude 11.107930000000 ;
+    ns1:hasTitle "Grosseto, Italien" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/600> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2647554> ;
+    ns1:hasLatitude 51.000000000000 ;
+    ns1:hasLongitude -1.250000000000 ;
+    ns1:hasTitle "Hampshire, England" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/601> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2647554> ;
+    ns1:hasLatitude 51.000000000000 ;
+    ns1:hasLongitude -1.250000000000 ;
+    ns1:hasTitle "Hereford, England" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/602> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2647043> ;
+    ns1:hasLatitude 51.833330000000 ;
+    ns1:hasLongitude -0.250000000000 ;
+    ns1:hasTitle "Hertfordshire, England" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/603> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/7872886> ;
+    ns1:hasLatitude 48.561460000000 ;
+    ns1:hasLongitude 16.118130000000 ;
+    ns1:hasTitle "Hollabrunn" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/604> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/7872886> ;
+    ns1:hasLatitude 48.561460000000 ;
+    ns1:hasLongitude 16.118130000000 ;
+    ns1:hasTitle "Horn" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/605> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/3333155> ;
+    ns1:hasLatitude 51.467700000000 ;
+    ns1:hasLongitude -0.364690000000 ;
+    ns1:hasTitle "Hounslow Middlesex, England" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/606> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/7530863> ;
+    ns1:hasLatitude 51.747250000000 ;
+    ns1:hasLongitude 18.076060000000 ;
+    ns1:hasTitle "Kalisz, Polen" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/607> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2891122> ;
+    ns1:hasLatitude 54.321330000000 ;
+    ns1:hasLongitude 10.134890000000 ;
+    ns1:hasTitle "Kiel, Deutschland" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/608> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/7871497> ;
+    ns1:hasLatitude 46.638730000000 ;
+    ns1:hasLongitude 14.297300000000 ;
+    ns1:hasTitle "Klagenfurt" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/609> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2772458> ;
+    ns1:hasLatitude 48.583330000000 ;
+    ns1:hasLongitude 15.866670000000 ;
+    ns1:hasTitle "Limberg/Heidenstatt" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/610> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2643743> ;
+    ns1:hasLatitude 51.508530000000 ;
+    ns1:hasLongitude -0.125740000000 ;
+    ns1:hasTitle "London, England" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/611> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2693678> ;
+    ns1:hasLatitude 55.705840000000 ;
+    ns1:hasLongitude 13.193210000000 ;
+    ns1:hasTitle "Lund, Schweden" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/612> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/10177320> ;
+    ns1:hasLatitude 51.531740000000 ;
+    ns1:hasLongitude -0.268560000000 ;
+    ns1:hasTitle "Middlesex, England" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/613> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2867714> ;
+    ns1:hasLatitude 48.137430000000 ;
+    ns1:hasLongitude 11.575490000000 ;
+    ns1:hasTitle "München" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/614> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/5128581> ;
+    ns1:hasLatitude 40.714270000000 ;
+    ns1:hasLongitude -74.005970000000 ;
+    ns1:hasTitle "New York, USA" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/615> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2988507> ;
+    ns1:hasLatitude 48.853410000000 ;
+    ns1:hasLongitude 2.348800000000 ;
+    ns1:hasTitle "Paris" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/616> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/7872994> ;
+    ns1:hasLatitude 47.704860000000 ;
+    ns1:hasLongitude 16.190550000000 ;
+    ns1:hasTitle "Pitten" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/617> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/7871951> ;
+    ns1:hasLatitude 48.175980000000 ;
+    ns1:hasLongitude 16.047730000000 ;
+    ns1:hasTitle "Pressbaum" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/618> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2767521> ;
+    ns1:hasLatitude 48.750000000000 ;
+    ns1:hasLongitude 15.950000000000 ;
+    ns1:hasTitle "Retz" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/619> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/7872398> ;
+    ns1:hasLatitude 47.280290000000 ;
+    ns1:hasLongitude 14.796570000000 ;
+    ns1:hasTitle "Seckau, Steiermark" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/620> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2638077> ;
+    ns1:hasLatitude 53.382970000000 ;
+    ns1:hasLongitude -1.465900000000 ;
+    ns1:hasTitle "Sheffield" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/621> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/6541466> ;
+    ns1:hasLatitude 43.320040000000 ;
+    ns1:hasLongitude 11.332830000000 ;
+    ns1:hasTitle "Siena, Italien" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/622> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/7298666> ;
+    ns1:hasLatitude 50.961160000000 ;
+    ns1:hasLongitude -1.408570000000 ;
+    ns1:hasTitle "Chilworth Soton, England" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/623> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2513882> ;
+    ns1:hasLatitude 36.595750000000 ;
+    ns1:hasLongitude -4.637280000000 ;
+    ns1:hasTitle "Mijas, Spanien" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/624> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2764789> ;
+    ns1:hasLatitude 47.664870000000 ;
+    ns1:hasLongitude 14.340140000000 ;
+    ns1:hasTitle "Spital am Pyhrn, OÖ" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/625> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/6426555> ;
+    ns1:hasLatitude 48.271390000000 ;
+    ns1:hasLongitude 4.097500000000 ;
+    ns1:hasTitle "St. Julien-les-Villas, Frankreich" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/626> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2661646> ;
+    ns1:hasLatitude 47.473330000000 ;
+    ns1:hasLongitude 8.305920000000 ;
+    ns1:hasTitle "Stadtgemeinde Baden" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/627> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2636512> ;
+    ns1:hasLatitude 51.250000000000 ;
+    ns1:hasLongitude -0.333330000000 ;
+    ns1:hasTitle "Surrey, England" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/629> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2763660> ;
+    ns1:hasLatitude 48.583330000000 ;
+    ns1:hasLongitude 15.650000000000 ;
+    ns1:hasTitle "Thunau am Kamp/obere Holzwiese" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/630> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2763660> ;
+    ns1:hasLatitude 48.583330000000 ;
+    ns1:hasLongitude 15.650000000000 ;
+    ns1:hasTitle "Thunau am Kamp/Schanze" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/631> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/756135> ;
+    ns1:hasLatitude 52.229770000000 ;
+    ns1:hasLongitude 21.011780000000 ;
+    ns1:hasTitle "Warschau, Polen" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/632> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/7871309> ;
+    ns1:hasLatitude 48.160820000000 ;
+    ns1:hasLongitude 14.021640000000 ;
+    ns1:hasTitle "Wels" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/633> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2761367> ;
+    ns1:hasLatitude 48.208200000000 ;
+    ns1:hasLongitude 16.371690000000 ;
+    ns1:hasTitle "Wien" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/634> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2775260> ;
+    ns1:hasLatitude 48.209060000000 ;
+    ns1:hasLongitude 16.371350000000 ;
+    ns1:hasTitle "Wien Innere Stadt/Freyung" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/635> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2805615> ;
+    ns1:hasLatitude 49.793910000000 ;
+    ns1:hasLongitude 9.951210000000 ;
+    ns1:hasTitle "Würzburg" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/637> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2763660> ;
+    ns1:hasLatitude 48.583330000000 ;
+    ns1:hasLongitude 15.650000000000 ;
+    ns1:hasTitle "Thunau am Kamp/Holzwiese" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/65> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2763660> ;
+    ns1:hasLatitude 48.583330000000 ;
+    ns1:hasLongitude 15.650000000000 ;
+    ns1:hasTitle "Thunau am Kamp/Grundstück Rydlo" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/675> a ns1:Place ;
+    ns1:hasTitle "Thunau am Kamp" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/69> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2778845> ;
+    ns1:hasLatitude 48.588990000000 ;
+    ns1:hasLongitude 15.653630000000 ;
+    ns1:hasTitle "Gars am Kamp/Hornerstrasse 231" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/702> a ns1:Place ;
+    ns1:hasTitle "nan" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/87> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2760429> ;
+    ns1:hasLatitude 48.600000000000 ;
+    ns1:hasLongitude 16.433330000000 ;
+    ns1:hasTitle "Zwentendorf" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/95> a ns1:Place ;
+    ns1:hasTitle "Gars am Kamp, Unternalb/Retz, Horn, Wien Innere Stadt/Freyung" .

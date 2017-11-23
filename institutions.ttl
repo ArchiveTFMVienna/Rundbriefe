@@ -1,0 +1,348 @@
+@prefix ns1: <https://vocabs.acdh.oeaw.ac.at/schema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/119> a ns1:Organisation ;
+    ns1:hasAlternativeTitle "Institut für Mineralogie, Kristallographie und Strukturchemie" ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/10052676-7> ;
+    ns1:hasTitle "Institut für Mineralogie und Kristallographie, Universität Wien" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/15> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/1050802861> ;
+    ns1:hasTitle "OREA, ÖAW" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/152> a ns1:Organisation ;
+    ns1:hasTitle "Wasserführer Stockerau, Müllermeister Schönborn" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/157> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/5087870-0> ;
+    ns1:hasTitle "Museum Traismauer" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/162> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/1090460414> ;
+    ns1:hasTitle "Insitut für Kunstgeschichte, Universität Wien" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/173> a ns1:Organisation ;
+    ns1:hasAlternativeTitle "BM für Landesverteidigung" ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/16021703-9> ;
+    ns1:hasTitle "Bundesministerium für Landesverteidigung" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/179> a ns1:Organisation ;
+    ns1:hasTitle "NÖ Landesregierung" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/192> a ns1:Organisation ;
+    ns1:hasTitle "Valuation Branch, Vintry House, London" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/195> a ns1:Organisation ;
+    ns1:hasTitle "Paris" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/200> a ns1:Organisation ;
+    ns1:hasTitle "Sheffield" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/204> a ns1:Organisation ;
+    ns1:hasAlternativeTitle "BDA" ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/1088209181> ;
+    ns1:hasTitle "Bundesdenkmalamt" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/211> a ns1:Organisation ;
+    ns1:hasTitle "Wien" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/217> a ns1:Organisation ;
+    ns1:hasTitle "Würzburg" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/23> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/4292929-5> ;
+    ns1:hasTitle "Institut für Klassische Archäologie, Universität Mainz" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/27> a ns1:Organisation ;
+    ns1:hasAlternativeTitle "Institut für Urgeschichte und Historische Archäologie" ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/4527606-7> ;
+    ns1:hasTitle "Institut für Ur- und Frühgeschichte, Universität Wien" ;
+    ns1:isMember <https://id.acdh.oeaw.ac.at/thunau/institution/664> .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/273> a ns1:Organisation ;
+    ns1:hasTitle "Heereswirtschaftsanstalt I, Klosterneuburg" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/276> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/5201362-5> ;
+    ns1:hasTitle "Niederösterreichisches Landesmuseum" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/280> a ns1:Organisation ;
+    ns1:hasTitle "Gemeindeamt Thunau am Kamp" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/299> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/2014354-0> ;
+    ns1:hasTitle "Institut für Radiumforschung und Kernphysik, ÖAW" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/309> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/1035817756> ;
+    ns1:hasTitle "Archiv ÖBB" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/31> a ns1:Organisation ;
+    ns1:hasTitle "Archeo Prospections" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/312> a ns1:Organisation ;
+    ns1:hasTitle "OREA,ÖAW" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/315> a ns1:Organisation ;
+    ns1:hasTitle "Unbekannt" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/322> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/1072999293> ;
+    ns1:hasTitle "Kreisamt Krems" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/327> a ns1:Organisation ;
+    ns1:hasTitle "München" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/332> a ns1:Organisation ;
+    ns1:hasTitle "(München" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/334> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/108575345X> ;
+    ns1:hasTitle "Institut für Österreichische Dialekt- und Namenslexika, ÖAW" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/348> a ns1:Organisation ;
+    ns1:hasTitle "Krahuletz-Gesellschaft, Eggenburg" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/353> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/1041557-9> ;
+    ns1:hasTitle "Krahuletz Museum" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/368> a ns1:Organisation ;
+    ns1:hasTitle "Wels" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/373> a ns1:Organisation ;
+    ns1:hasTitle "Thunau" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/383> a ns1:Organisation ;
+    ns1:hasTitle "Amt der NÖ-Landesregierung" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/416> a ns1:Organisation ;
+    ns1:hasTitle "Institut für Ur- und Frühgeschichte" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/423> a ns1:Organisation ;
+    ns1:hasTitle "Krahuletz-Museum Eggenburg" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/433> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/1038649935> ;
+    ns1:hasTitle "BDA - Landeskonservatorat für NÖ" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/436> a ns1:Organisation ;
+    ns1:hasAlternativeTitle "OÖ. Landesmuseum" ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/1006323-7> ;
+    ns1:hasTitle "OÖ-Landesmuseum" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/446> a ns1:Organisation ;
+    ns1:hasTitle "Institut für Ur- und Frühgeschichte; BDA Abteilung für Finanzielle Belange" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/449> a ns1:Organisation ;
+    ns1:hasTitle "BM für Wissenschaft und Forschung; BDA Abteilung für Finanzielle Belange" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/453> a ns1:Organisation ;
+    ns1:hasTitle "Institut für Ur- und Frühgeschichte; Amt der Niederösterreichischen Landesregierung" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/456> a ns1:Organisation ;
+    ns1:hasTitle "BM für Wissenschaft und Forschung" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/465> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/1024641-1> ;
+    ns1:hasTitle "Krahuletz-Gesellschaft Eggenburg" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/495> a ns1:Organisation ;
+    ns1:hasTitle "Skriptenverlag der Österreichischen Hochschülerschaft Wien" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/506> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/10169286-9> ;
+    ns1:hasTitle "Bundesministerium für Unterricht" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/511> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/408486-X> ;
+    ns1:hasTitle "Militärkommando Niederösterreich" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/54> a ns1:Organisation ;
+    ns1:hasTitle "Geo Prospections" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/552> a ns1:Organisation ;
+    ns1:hasTitle "Niederösterreichische Landesregierung" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/562> a ns1:Organisation ;
+    ns1:hasTitle "Niederösterreichisches Landesregierung" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/575> a ns1:Organisation ;
+    ns1:hasTitle "Gruppenverpflegungsanstalt I, Klosterneuburg" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/61> a ns1:Organisation ;
+    ns1:hasTitle "nan" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/638> a ns1:Organisation ;
+    ns1:hasAlternativeTitle "Amt der NÖ-Landesregierung" ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/1087476887> ;
+    ns1:hasTitle "Amt der Niederösterreichischen Landesregierung" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/640> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/1016251-3> ;
+    ns1:hasTitle "Archeologicky Ustav Ceskoslovenske Akademie Ved" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/641> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/39718-0> ;
+    ns1:hasTitle "BDA Abteilung für Finanzielle Belange" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/642> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/4810201-5> ;
+    ns1:hasTitle "Bezirkshauptmannschaft Horn" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/643> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/1053479-9> ;
+    ns1:hasTitle "BG und BRG Judenburg" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/644> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/261044-9> ;
+    ns1:hasTitle "Botanisches Institut, Universität für Bodenkultur Wien" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/645> a ns1:Organisation ;
+    ns1:hasAlternativeTitle "BM für Wissenschaft und Forschung" ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/1008408-3> ;
+    ns1:hasTitle "Bundesministerium für Wissenschaft und Forschung" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/646> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/16075342-9> ;
+    ns1:hasTitle "Bundesvermessungsdienst" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/647> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/5344137-0> ;
+    ns1:hasTitle "City of London Archaeological Society" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/648> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/2161853-7> ;
+    ns1:hasTitle "Dekanat der Geisteswissenschaftlichen Fakultät der Universität Wien" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/649> a ns1:Organisation ;
+    ns1:hasAlternativeTitle "Gemeinde Gars am Kamp" ;
+    ns1:hasTitle "Gemeindeamt Gars am Kamp" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/650> a ns1:Organisation ;
+    ns1:hasTitle "Gruppenkommando I" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/651> a ns1:Organisation ;
+    ns1:hasTitle "Gutsverwaltung Buchberg, Wien/Gars am Kamp" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/652> a ns1:Organisation ;
+    ns1:hasTitle "Höbarth-Museum" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/653> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/1025283-6> ;
+    ns1:hasTitle "Inst. För arkeologi särskilt nordeuropeisk" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/654> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/4579824-2> ;
+    ns1:hasTitle "Institut für Geographie, Universität Wien" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/655> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/2155834-6> ;
+    ns1:hasTitle "Institut für Geophysik, Montanuniversität Leoben" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/656> a ns1:Organisation ;
+    ns1:hasAlternativeTitle "Anthropologiesches Institut" ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/41577-7> ;
+    ns1:hasTitle "Institut für Humanbiologie, Universität Wien" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/657> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/600796-X> ;
+    ns1:hasTitle "Institut für Paläonthologie, Universität Wien" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/658> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/10083991-5> ;
+    ns1:hasTitle "NHM, Anthropologische Abteilung" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/659> a ns1:Organisation ;
+    ns1:hasAlternativeTitle "Österreichische Akademie der Wissenschaften" ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/1001454-8> ;
+    ns1:hasTitle "ÖAW" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/660> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/1050802861> ;
+    ns1:hasTitle "OREA, Raum H. Friesinger; zukünftig Land NÖ" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/661> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/1050802861> ;
+    ns1:hasTitle "OREA, UK-Archiv" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/662> a ns1:Organisation ;
+    ns1:hasAlternativeTitle "State Archaeological Museum" ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/4762625-2> ;
+    ns1:hasTitle "Staatliches Archäologisches Museum Warschau" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/663> a ns1:Organisation ;
+    ns1:hasTitle "Telegraphenbauamt 6, Hollabrunn" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/665> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/1010793-9> ;
+    ns1:hasTitle "University of Reading" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/666> a ns1:Organisation ;
+    ns1:hasAlternativeTitle "Uniwersytet Śląski (Katowice). Instytut Historii" ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/5305031-9> ;
+    ns1:hasTitle "Universytet Slasky Instytut Historii" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/667> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/3511-7> ;
+    ns1:hasTitle "Univerzita Karlova" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/668> a ns1:Organisation ;
+    ns1:hasAlternativeTitle "Univerzita Komenského v Bratislave" ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/2025021-6> ;
+    ns1:hasTitle "Univerzita Komenskeho" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/669> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/1039309-2> ;
+    ns1:hasTitle "Uniwersytet Jagiellonski Instytut Archaologii" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/670> a ns1:Organisation ;
+    ns1:hasTitle "VW Händler und Werkstätte, Otto u. L. Weilguni, Wien" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/671> a ns1:Organisation ;
+    ns1:hasAlternativeTitle "Gars Innovativ" ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/10030107-1> ;
+    ns1:hasTitle "Wirtschaftsverein Gars Innovativ" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/672> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/16015392-X> ;
+    ns1:hasTitle "Zentralkasse der Volksbanken" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/673> a ns1:Organisation ;
+    ns1:hasSpatialCoverage <https://id.acdh.oeaw.ac.at/thunau/place/65> ;
+    ns1:hasTitle "tests" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/8> a ns1:Organisation ;
+    ns1:hasAlternativeTitle "Institut für Numismatik und Geldgeschichte" ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/2183384-9> ;
+    ns1:hasTitle "Institut für Numismatik, Universität Wien" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/84> a ns1:Organisation ;
+    ns1:hasAlternativeTitle "Institut für Ingenieurgeologie" ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/5348158-6> ;
+    ns1:hasTitle "Institut für Geologie, Universität Wien" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/99> a ns1:Organisation ;
+    ns1:hasAlternativeTitle "Interdisziplinäres Forschungsinstitut für Archäologie" ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/3063184-1> ;
+    ns1:hasTitle "VIAS, Universität Wien" .
+
+<https://id.acdh.oeaw.ac.at/thunau/institution/664> a ns1:Organisation ;
+    ns1:hasIdentifier <http://d-nb.info/gnd/2024703-5> ;
+    ns1:hasSpatialCoverage <https://id.acdh.oeaw.ac.at/thunau/place/633> ;
+    ns1:hasTitle "Universität Wien" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/633> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2761367> ;
+    ns1:hasLatitude 48.208200000000 ;
+    ns1:hasLongitude 16.371690000000 ;
+    ns1:hasTitle "Wien" .
+
+<https://id.acdh.oeaw.ac.at/thunau/place/65> a ns1:Place ;
+    ns1:hasIdentifier <http://www.geonames.org/2763660> ;
+    ns1:hasLatitude 48.583330000000 ;
+    ns1:hasLongitude 15.650000000000 ;
+    ns1:hasTitle "Thunau am Kamp/Grundstück Rydlo" .
