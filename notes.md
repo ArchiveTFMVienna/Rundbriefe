@@ -1,4 +1,4 @@
-## error
+## error (Janina)
 
 cannot push or pull, but can commit, the following error appears:
 
