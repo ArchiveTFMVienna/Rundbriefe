@@ -1,3 +1,9 @@
+## error
+
+cannot push or pull, but can commit, the following error appears:
+
+"git did not exit cleanly (exit code 1) (2047 ms @ 28.11.2017 14:39:58)"
+
 # some place to take notes...
 
 ## linebreaks
