@@ -59,7 +59,7 @@
          <div type="letter" n="1">
             <salute>Liebe Kameraden!</salute>
             <p>Seit wir Euch den ersten Rundbrief <ref target="http://d-nb.info/02158866X"></ref> sandten, ist in unserem
-               <orgName>Zentralinstitut<ref target="http://d-nb.info/gnd/10017549-1"></ref></orgName> viel Arbeit geleistet worden. Wir tun sie aber gerne,
+               <rs type="org" ref="#zentralinstitut">Zentralinstitut<ref target="http://d-nb.info/gnd/10017549-1"></ref></rs> viel Arbeit geleistet worden. Wir tun sie aber gerne,
                weil wir wissen, daß all das eines Tages Euch zugute kommen wird,
                wenn Ihr wieder heimkehrt. Dieser Gedanke macht uns all das
                kriegsbedingte Schwere und Mühevolle leicht. Da wir aus Euren
@@ -77,7 +77,7 @@
                3000 Bänden kam nun allmählich ein Eigenbesitz von bisher
                7000 Bänden. Gerade in diesen Tagen konnten wir überdies aus
                einem <geogName><geogFeat>alpen</geogFeat>ländischen</geogName> Schloß eine kostbare Bibliothek von
-               2500 Dramentexten (Spielbüchern) aus der Zeit <date from="1770" to="1830">von 1770 bis 1830</date>
+               2500 Dramentexten (Spielbüchern) aus der Zeit <date notBefore="1770-01-01" notAfter="1830-12-31">von 1770 bis 1830</date>
                dazu erwerben, so daß unser Eigenbesitz bald schon 10 000 Bände
                erreicht.</p>
             <p>Es versteht sich von selbst, daß parallel dazu auch unser Bilder-
@@ -89,7 +89,7 @@
             archiv Leuschke". Der heute 72-jährige Prof. <persName>Prof. Leuschke</persName> <geogName>(Dresden)</geogName> hat
             in mehr als 50-jähriger Arbeit über 60000 Theaterkritiken, Schau-
             spielerbiographien und Nekrologe aus Zeitungen und Zeitschriften
-            von <date>1800</date> bis <date>1943</date> gesammelt und wissenschaftlich genau beschriftet.
+            von <date notBefore="1800-01-01" notAfter="1943-12-31">1800 bis 1943</date> gesammelt und wissenschaftlich genau beschriftet.
             Dieses Theaterarchiv Leuschke wurde nun dankenswerterweise von</p>
                    
             <pb n="2"/>

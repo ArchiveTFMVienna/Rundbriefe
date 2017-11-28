@@ -1,3 +1,9 @@
+## error (Janina)
+
+cannot push or pull, but can commit, the following error appears:
+
+"git did not exit cleanly (exit code 1) (2047 ms @ 28.11.2017 14:39:58)"
+
 # some place to take notes...
 
 ## linebreaks
@@ -57,6 +63,6 @@ To decide: where to store which information and what level of detail
 
 ## conventions
 
-formal denomination of the archive: <institution>Archiv und Sammlungen des Instituts für Theater-, Film- und Medienwissenschaft der Universität Wien</institution>
+formal denomination of the archive: `<institution>`Archiv und Sammlungen des Instituts für Theater-, Film- und Medienwissenschaft der Universität Wien</institution>
 
-signature of the "Rundbriefe" is currently not steady, final <idno> will follow
+signature of the "Rundbriefe" is currently not steady, final `<idno>` will follow
