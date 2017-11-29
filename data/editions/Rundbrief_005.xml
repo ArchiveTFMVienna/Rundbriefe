@@ -1,18 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xmlns:tei="http://www.tei-c.org/ns/1.0">
       <fileDesc>
          <titleStmt>
             <title type="main"> Digitale Edition Rundbriefe des Zentralinstitutes für
                Theaterwissenschaft an der Universität Wien 1944-45</title>
             <title type="sub">Digitale Edition des 5. Rundbriefs 1944</title>
-            <principal><rs ref="#vicky_reiter" type="person">Vicky Reiter</rs></principal>
+            <principal>
+               <rs ref="#vicky_reiter" type="person">Vicky Reiter</rs>
+            </principal>
          </titleStmt>
          <publicationStmt>
-            <publisher><rs ref="#vicky_reiter" type="person">Vicky Reiter</rs></publisher>
+            <publisher>
+               <rs ref="#vicky_reiter" type="person">Vicky Reiter</rs>
+            </publisher>
             <availability>
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                   <p> The (CC BY-SA 4.0)-License applies to this document. </p>
@@ -41,6 +42,25 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <p>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+                        href="../indices/listperson.xml"
+                        xpointer="listperson">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be found</fallback>
+            </xi:include>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+                        href="../indices/listplace.xml"
+                        xpointer="listplace">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be found</fallback>
+            </xi:include>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+                        href="../indices/listorg.xml"
+                        xpointer="listorg">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be found</fallback>
+            </xi:include>
+         </p>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>
@@ -49,18 +69,17 @@
          <!-- underline stimmt ned ganz, weil nicht durchgängig unterstrichen -->
          <head type="sub" style="text-align:center">des Zentralinstituts für Theaterwissenschaft an
             der Universität <hi rend="letterspace">Wien</hi>.</head>
-         <head type="sub"><date when="1944-12">Dezember 1944.</date>
+         <head type="sub">
+            <date when="1944-12">Dezember 1944.</date>
             <num>No. 5</num> erscheint jährlich viermal</head>
          <div type="letter" n="1">
             <salute>Liebe Kameraden !</salute>
-            <p>Bald wird es <date when="--12-24" type="holiday" subtype="christmas"
-                  >Weihnachten</date>. Da wandern unsere Gedanken wieder besonders herzlich zu
+            <p>Bald wird es <date when="--12-24" type="holiday" subtype="christmas">Weihnachten</date>. Da wandern unsere Gedanken wieder besonders herzlich zu
                <!-- Lösung für Einzug d. 1. Zeile? --> Euch allen hinaus. Viele von Euch haben in
                ihren Antworten auf unseren letzten Rundbrief voll freundlicher Sorge gefragt, ob
                unser <orgName type="university" subtype="department">Zentralinstitut</orgName> vom
                totalen Kriegseinsatz schwerer betroffen wurde. Natürlich haben auch wir unseren
-               Tribut geleistet. Da aber die <orgName type="university" subtype="faculty"
-                  >Philosophische Fakutltät</orgName> der <orgName type="university">Wiener
+               Tribut geleistet. Da aber die <orgName type="university" subtype="faculty">Philosophische Fakutltät</orgName> der <orgName type="university">Wiener
                   Universität</orgName> weiter <!-- Kategorisierung? Uni > Fakultät > Institut? -->
                aufrecht erhalten wurde, durften auch wir unsere Arbeit im wesentlichen
                weiterführen.</p>
@@ -85,21 +104,17 @@
                   <placeName type="room">Kainzraum</placeName>, also dem eigenen Hörsal des
                Zentralinstituts in der <placeName type="building">Hofburg</placeName> statt, der zu
                diesem Zweck mit einem Projektionsapparat ausgestattet wurde.</p>
-            <p>Viele von den Fernbetreuten - und ihre Anzahl ist indessen auf <num type="cardinal"
-                  >399</num> gestiegen, weil nach einem Erlass des
+            <p>Viele von den Fernbetreuten - und ihre Anzahl ist indessen auf <num type="cardinal">399</num> gestiegen, weil nach einem Erlass des
                   <roleName>Reichserziehungsministers</roleName> auch die zum Rüstungseinsatz
                Einberufenen fernbetreut werden sollen - fragten bei uns an, ob <orgName>unser
-                  Institut</orgName> bei den Luftangriffen auf <placeName type="city"
-                  >Wien</placeName> Schaden genommen habe. Gottlob ist das bisher nicht in
+                  Institut</orgName> bei den Luftangriffen auf <placeName type="city">Wien</placeName> Schaden genommen habe. Gottlob ist das bisher nicht in
                erheblichem Masse der Fall gewesen. Am <date when="1944-09-10">10. September
-                  1944</date> waren freilich zwei schwere Bomben auf den altehrwürdigen <placeName
-                  type="square">Michaelerplatz</placeName>, dicht vor unseren Fenstern,
+                  1944</date> waren freilich zwei schwere Bomben auf den altehrwürdigen <placeName type="square">Michaelerplatz</placeName>, dicht vor unseren Fenstern,
                niedergegangen. Da gab es nun gar viele zerbrochene Fensterscheiben und aus den
                Angeln gehobene Fensterrahmen. Aber auch dieser Schaden ist dank der unermüdlichen
                Selbsthilfe unserer Assistentinnen und Studierenden zum grössten Teil wieder behoben.
-               Auch das <placeName type="building">Burgtheater</placeName> und die <placeName
-                  type="building">Staatsoper</placeName> stehen noch unversehrt. <date
-                  when="1944-11-12">(12.XII.1944)</date></p>
+               Auch das <placeName type="building">Burgtheater</placeName> und die <placeName type="building">Staatsoper</placeName> stehen noch unversehrt. <date when="1944-11-12">(12.XII.1944)</date>
+            </p>
             <p>Sehr herzlich begrüssen wir nun alle die neu hinzugekommenen Fernbetreuten - die an
                der Front und die in der Rüstung - und bitten sie, sich unserm Kreis so eng
                einzufügen, wie dies bisher schon fast alle die andern taten, mit denen wir nun in
@@ -110,39 +125,40 @@
                <fw type="pageNum">- 3 -</fw> bei ihrer Wiederkehr dort wieder beginnen können, wo
                sie einmal aufhören mussten.</p>
             <p>In diesem <date>Wintersemester 1944/45</date> hält <hi rend="underline">
-                  <roleName type="degree" full="abb">Prof.</roleName><persName>
-                     Kindermann</persName></hi> ein dreistündiges Hauptkolleg über <hi
-                  rend="underline">"Das deutsche und europäische Barockheater"</hi>. Im Proseminar
+                  <roleName type="degree" full="abb">Prof.</roleName>
+                  <persName>
+                     Kindermann</persName>
+               </hi> ein dreistündiges Hauptkolleg über <hi rend="underline">"Das deutsche und europäische Barockheater"</hi>. Im Proseminar
                wird diesmal die <hi rend="underline">Geschichte des Bühnenbildes</hi> in einer Reihe
                von Referaten durchgearbeitet, die vom Theater der griechischen Antike bis zum
-               deutschen Gegenwartstheater führen. Und im Hauptseminar gelten die Referate dem <hi
-                  rend="underline">Wesen und der Geschichte der Dramaturgie</hi>, wobei ebenfalls
+               deutschen Gegenwartstheater führen. Und im Hauptseminar gelten die Referate dem <hi rend="underline">Wesen und der Geschichte der Dramaturgie</hi>, wobei ebenfalls
                die Entwicklungslinien von <persName>Aristoteles</persName> bis zu den allerjüngsten
                dramaturgischen Bemühungen gezogen werden. Wir werden Euch dann im nächsten
                Rundbrief, zu <date>Semesterende</date>, genauere Berichte und Inhaltsangaben über
                den Verlauf des Hauptkollegs und der Seminare vorlegen.</p>
-            <p><roleName type="degree">Dozent</roleName>
-               <roleName type="degree" full="abb">Dr.</roleName><persName>Börge</persName> hält
-               diesmal sein dramaturgisches Kolloquium über <hi rend="underline"
-                  >"Rollenpsychologie"</hi>. Daneben hält er ein filmkundliches Kolloqium über den
+            <p>
+               <roleName type="degree">Dozent</roleName>
+               <roleName type="degree" full="abb">Dr.</roleName>
+               <persName>Börge</persName> hält
+               diesmal sein dramaturgisches Kolloquium über <hi rend="underline">"Rollenpsychologie"</hi>. Daneben hält er ein filmkundliches Kolloqium über den
                   <hi rend="underline">"Film als Gesamtkunstwerk"</hi>. Dazu kommt seine einstündige
                Vorlesung über <hi rend="underline">"Die Bühnengestalt der klassischen Hauptwerke des
                   deutschen Spielplans".</hi> Es handelt sich um eine zyklische Vorlesung deren
                erster Teil in diesem Semester mit der Entwicklung von <persName>Kalidasa</persName>
                bis <persName>Shakespeare</persName> befasst ist.</p>
-            <p><hi rend="underline"><roleName full="abb"
-                     >Prof.</roleName><persName>Niederführ</persName></hi> widmete sein in zwei
+            <p>
+               <hi rend="underline">
+                  <roleName full="abb">Prof.</roleName>
+                  <persName>Niederführ</persName>
+               </hi> widmete sein in zwei
                Stufen durchgeführtes Kolloquium über praktische Bühnenkunde diesmal Problemen der
-                  <hi rend="underline">Regiebuch-Gestaltung und</hi> des <hi rend="underline"
-                  >Spielplan - Aufbaues.</hi> Auch über den Verlauf der Vorlesungen und Uebungen von
+                  <hi rend="underline">Regiebuch-Gestaltung und</hi> des <hi rend="underline">Spielplan - Aufbaues.</hi> Auch über den Verlauf der Vorlesungen und Uebungen von
                   <roleName>Dozent</roleName>
                <persName>Börge</persName> und <persName>Prof. Niederführ</persName> werden wir im
                nächsten Rundbrief genau berichten.</p>
-            <p>Neu augenommen wurde für einen engen Kreis reifster Studierender ein <hi
-                  rend="underline">Arbeitskreis über Prinzi- <pb n="4"/>
+            <p>Neu augenommen wurde für einen engen Kreis reifster Studierender ein <hi rend="underline">Arbeitskreis über Prinzi- <pb n="4"/>
                   <fw type="pageNum">- 4 -</fw>pien der Regie,</hi> den der
-                  <roleName>Oberregisseur</roleName> des <placeName type="building"
-                  >Burgtheaters</placeName>
+                  <roleName>Oberregisseur</roleName> des <placeName type="building">Burgtheaters</placeName>
                <persName>Herbert Waniek</persName> leitet. Er setzte überaus lebending mit einem
                köstlichen Regie-Experiment ein und verspricht viel Gutes für unsere
                Institutsmitglieder. Wir geben im nächsten Rundbrief dann einen Sonderbericht über
@@ -152,25 +168,27 @@
                im <date when="--01">Januar</date> beginnen. Doch wurde wenigstens ein Vortrag schon
                vorweggenommen, der zugleich als Sonderveranstaltung galt, ein Vortrag von dem
                bekannten <roleName>Bühnenbildner</roleName>
-               <persName>Prof. <hi rend="underline">Niedermoser</hi></persName> (<orgName
-                  type="university">Reichshochschule für angewandte Kunst</orgName>), von dem unten
+               <persName>Prof. <hi rend="underline">Niedermoser</hi>
+               </persName> (<orgName type="university">Reichshochschule für angewandte Kunst</orgName>), von dem unten
                gleich genauer die Rede sein wird.</p>
             <p>Unsere besonderen Veranstaltungen werden nun, im Zeichen des totalen Kriegseinsatzes,
                natürlich nur mehr im engsten Rahmen unseres Instituts, also auch in unserem
                   <placeName type="room">Kainzraum</placeName>, durchgeführt. So fang in diesem
                Rahmen anlässlich des <date type="occasion">450.Geburtstages</date> des grossen
                   <roleName>Meistersingers von Nürnberg</roleName>
-               <!-- roleName passt eigentlich nicht... --> eine wohlgelungene <hi rend="underline"
-                  >Hans-Sachsfeier</hi> am <date when="1944-11-21">21. November 1944</date> statt.Zu
-               Beginn sprach <persName>Hilde <hi rend="underline">Weinberger</hi></persName> (die
+               <!-- roleName passt eigentlich nicht... --> eine wohlgelungene <hi rend="underline">Hans-Sachsfeier</hi> am <date when="1944-11-21">21. November 1944</date> statt.Zu
+               Beginn sprach <persName>Hilde <hi rend="underline">Weinberger</hi>
+               </persName> (die
                bekannte junge <roleName>Vortragskünstlerin</roleName>, die <orgName>unserm
                   Institut</orgName> als Mitglied angehört) <persName>Goethes</persName> Hymus
-                  <title>"Hans Sachsens poetische Sendung"</title>. Dann nahm <roleName full="abb"
-                  >Prof.</roleName>
-               <hi rend="underline"><persName>Kindermann</persName></hi> das Wort zu seinem
+                  <title>"Hans Sachsens poetische Sendung"</title>. Dann nahm <roleName full="abb">Prof.</roleName>
+               <hi rend="underline">
+                  <persName>Kindermann</persName>
+               </hi> das Wort zu seinem
                Einführungsvortrag über <title>"Hans Sachs und das deutsche Theater"</title>, in dem
                er etwa ausführte:</p>
-            <q type="spoken"><p>"Nur wenige deutsche Dramatiker können das Recht für sich in
+            <q type="spoken">
+               <p>"Nur wenige deutsche Dramatiker können das Recht für sich in
                   Anspruch nehmen, in jedem Sinn Volksdichter gewesen zu sein, also Dichter aus der
                   Mitte des Volkes und Dichter zugleich für alles Volk. Unter diesen wenigen aber
                   nimmt <persName>Hans Sachs</persName>, dessen <date type="occasion">450.
@@ -190,7 +208,8 @@
                   Menschlichkeit.</p>
                <p>Fragen wir uns nach dem Warum dieser beglückenden Dauer inmitten all des
                   flüchtigen Wechsels der Erscheinungen, dann fällt die Antwort nicht ganz so
-                  einfach aus, als es im ersten Augenblick anmuten möchte.</p></q>
+                  einfach aus, als es im ersten Augenblick anmuten möchte.</p>
+            </q>
          </div>
          <div type="letter" n="2">
             <fw type="pageNum">-26-</fw>
@@ -217,8 +236,8 @@
                Abend) hat bewiesen, welche Freude und Anregung uns die Gestaltung dieser Lesung
                geben kann.</p>
             <p>Nun bitte ich Euch, liebe Kameraden, nicht ungehalten zu sein, dass ich mit dem
-               Briefwechsel Front und Heimat nicht so einsetzen kann, wie es <pb n="27"/><fw
-                  type="pageNum">- 27 -</fw> mir im letzten Semester vorgeschwebt hat. Aber die
+               Briefwechsel Front und Heimat nicht so einsetzen kann, wie es <pb n="27"/>
+               <fw type="pageNum">- 27 -</fw> mir im letzten Semester vorgeschwebt hat. Aber die
                geringe Anzahl der Studierenden und die zunehmende Anzahl der fernbetreuten Kameraden
                lassen diesen Briefwechsel im gedachten Ausmass nicht zur Durchführung gelangen. ich
                bin jedoch nach wie vor bemühr <!-- sic - das wurde wohl nicht korrigiert -->, diese
@@ -227,9 +246,12 @@
                ermöglicht, trotzdem ein recht <date type="occasion" subtype="christmas">frohes
                   Fest</date> wünschen.</p>
             <salute rend="letterspace">Heil Hitler!</salute>
-            <signed style="text-align:center"
-                  >Euer<lb/><roleName>Fachschaftsleiter</roleName><lb/><persName>A.
-               Zeckl</persName></signed>
+            <signed style="text-align:center">Euer<lb/>
+               <roleName>Fachschaftsleiter</roleName>
+               <lb/>
+               <persName>A.
+               Zeckl</persName>
+            </signed>
          </div>
       </body>
    </text>

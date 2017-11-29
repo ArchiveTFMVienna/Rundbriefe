@@ -4,7 +4,7 @@
         <filters directoryPatterns="" filePatterns="rb.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
             <serialized version="18.1" xml:space="preserve">
-                <map>
+                <serializableOrderedMap>
                     <entry>
                         <String>enable.parser.caching</String>
                         <Boolean>false</Boolean>
@@ -16,21 +16,6 @@
                     <entry>
                         <String>scenario.associations</String>
                         <scenarioAssociation-array>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>data/editions/Rundbrief_001.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>xinclude</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>data/editions/</String>
@@ -95,10 +80,10 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>${pd}/data/tmp/${cfne}</File>
+                                    <File>${currentFileURL}</File>
                                 </field>
                                 <field name="outputResource">
-                                    <String>${pd}/data/tmp/${cfne}</String>
+                                    <String>${currentFileURL}</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
@@ -143,7 +128,7 @@
                         <String>validation.use-schema-even-if-dtd-specified.v7</String>
                         <Boolean>false</Boolean>
                     </entry>
-                </map>
+                </serializableOrderedMap>
             </serialized>
         </options>
     </meta>
