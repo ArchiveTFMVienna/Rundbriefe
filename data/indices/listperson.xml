@@ -35,7 +35,7 @@
                   <idno></idno>
                </person>
                <person xml:id="tiefenbacher_sara">
-                  <persName ref=" https://orcid.org/0000-0002-6300-4805 ">
+                  <persName ref="https://orcid.org/0000-0002-6300-4805 ">
                      <surname>Tiefenbacher</surname>
                      <forename>Sara</forename>
                   </persName>
