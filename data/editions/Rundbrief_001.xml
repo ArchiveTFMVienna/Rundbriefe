@@ -10,12 +10,12 @@
                Theaterwissenschaft an der Universität Wien 1943-45</title>
             <title type="sub">Digitale Edition des 1. Rundbriefs 1943</title>
             <principal>
-               <rs ref="#patrick_aprent" type="person">Patrick Aprent</rs>
+               <rs ref="#aprent_patrick" type="person">Patrick Aprent</rs>
             </principal>
          </titleStmt>
          <publicationStmt>
             <publisher>
-               <rs ref="#patrick_aprent" type="person">Patrick Aprent</rs>
+               <rs ref="#aprent_patrick" type="person">Patrick Aprent</rs>
             </publisher>
             <availability>
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
@@ -72,8 +72,8 @@
             Heimkehrenden, verrichten.</p>
          <p>Mit dem vorliegenden Rundbrief nehmen wir eine erste Fühlung mit all den fernzubetreuenden 
             Kameraden auf und begrüßen Sie herzlich als fachlich Gleichstrebende. Wir drucken 
-            Teile aus den Reden des Rektors der Universität Wien, Univ.-Prof. Dr. Pernkopf, und 
-            des Lehrstuhlinhabers und Institutsdirektors, Univ.-Prof. Dr. Heinz Kindermann<name type="person" ref="#heinz_kindermann">Heinz Kindermann</name>, 
+            Teile aus den Reden des Rektors der Universität Wien, <name type="person" ref="#pernkopf_eduard">Univ.-Prof. Dr. Pernkopf</name>, und 
+            des Lehrstuhlinhabers und Institutsdirektors, Univ.-Prof. Dr. <name type="person" ref="#kindermann_heinz">Heinz Kindermann</name>, 
             anläßlich der am 25. Mai 1943 stattgefundenen Eröffnung des Zentralinstituts für 
             Theaterwissenschaft ab. Sie geben auch auf viele der Fragen Antwort, die in den Briefen 
             von der Front immer wieder an uns gestellt werden.</p>
@@ -95,7 +95,8 @@
             der Wiener Reichsstatthalterei, besonders dem nun zur Wehrmacht einberufenen 
             Generalkulturreferenten Thomas, der auch sonst in all den Monaten des Entstehens keine 
             Mühe scheute, um alle die vielen kriegsbedingten Schwierigkeiten aus dem Weg zu räumen. 
-            Man tritt vom <placeName type="square">Michaelerplatz</placeName> her (auf dem einst das alte Burgtheater stand) in die 
+            Man tritt vom <placeName type="square">Michaelerplatz</placeName> her 
+            (auf dem einst das alte Burgtheater stand) in die 
             gewaltige Michaelerkuppel und wendet sich dort rechter Hand zur Batthianystiege. Hier 
             stehen sechs festlich-hohe Räume mit alten olivgrünen Hoftapeten, reichen Kristalllustern, 
             weißen Kachelöfen und großen Rundbogenfenstern nach dem Michaelerplatz zur Verfügung. 
