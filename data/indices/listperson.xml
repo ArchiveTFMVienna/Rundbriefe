@@ -40,6 +40,18 @@
                      <forename>Sara</forename>
                   </persName>
                </person>
+               <person xml:id="aprent_patrick">
+                  <persName ref="https://orcid.org/0000-0002-0359-5981">
+                     <surname>Aprent</surname>
+                     <forename>Patrick</forename>
+                  </persName>
+               </person>
+               <person xml:id="piech_janina">
+                  <persName ref="https://orcid.org/0000-0002-0791-2323">
+                     <surname>Piech</surname>
+                     <forename>Janina</forename>
+                  </persName>
+               </person>
             </listPerson>
          </p>
       </body>
