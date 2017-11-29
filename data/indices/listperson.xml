@@ -21,7 +21,7 @@
          <p>
             <listPerson>
                <person xml:id="wulf_malte">
-                  <persName>
+                  <persName ref="https://orcid.org/0000-0001-8706-4178">
                      <surname>Wulf</surname>
                      <forename>Malte</forename>
                   </persName>
