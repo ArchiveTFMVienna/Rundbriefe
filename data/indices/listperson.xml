@@ -45,6 +45,12 @@
                      <forename full="abb">Janina</forename>
                   </persName>
                   </person>
+               <person xml:id="kindermann_heinz">
+                  <persName ref="http://d-nb.info/gnd/118562193">
+                     <surname>Kindermann</surname>
+                     <forename>Heinz</forename>
+                  </persName>
+               </person>
             </listPerson>
          </p>
       </body>
