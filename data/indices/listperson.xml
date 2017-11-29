@@ -34,6 +34,12 @@
                   </persName>
                   <idno></idno>
                </person>
+               <person xml:id="piech_janina">
+                  <persName ref="https://orcid.org/0000-0002-0791-2323">
+                     <surname>Piech</surname>
+                     <forename full="abb">Janina</forename>
+                  </persName>
+                  </person>
             </listPerson>
          </p>
       </body>
