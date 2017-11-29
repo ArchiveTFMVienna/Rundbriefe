@@ -20,10 +20,10 @@
       <body>
          <p>
             <listPerson>
-               <person xml:id="malte_wulf">
+               <person xml:id="wulf_malte">
                   <persName>
-                     <surname>Malte</surname>
-                     <forename>Wulf</forename>
+                     <surname>Wulf</surname>
+                     <forename>Malte</forename>
                   </persName>
                   <idno type="URL">add some</idno>
                </person>
