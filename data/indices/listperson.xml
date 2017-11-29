@@ -28,11 +28,10 @@
                   <idno type="URL">add some</idno>
                </person>
                <person xml:id="reiter_vicky">
-                  <persName>
+                  <persName ref="https://orcid.org/0000-0002-7903-7353">
                      <surname>Reiter</surname>
                      <forename full="abb">Vicky</forename>
                   </persName>
-                  <idno></idno>
                </person>
             </listPerson>
          </p>
