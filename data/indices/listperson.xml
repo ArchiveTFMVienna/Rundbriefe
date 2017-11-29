@@ -27,6 +27,13 @@
                   </persName>
                   <idno type="URL">add some</idno>
                </person>
+               <person xml:id="reiter_vicky">
+                  <persName>
+                     <surname>Reiter</surname>
+                     <forename full="abb">Vicky</forename>
+                  </persName>
+                  <idno></idno>
+               </person>
             </listPerson>
          </p>
       </body>
