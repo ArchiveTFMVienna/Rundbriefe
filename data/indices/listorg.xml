@@ -19,7 +19,7 @@
     <text>
         <body>
             <p>
-                <listOrg>
+                <listOrg xml:id="listorg">
                     <org xml:id="zentralinstitut">
                         <orgName>Zentralinstitut</orgName>
                         <orgName type="alt">Zentralinstitut für Theater</orgName>
