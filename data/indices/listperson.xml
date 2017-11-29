@@ -20,12 +20,36 @@
       <body>
          <p>
             <listPerson>
-               <person xml:id="malte_wulf">
-                  <persName>
-                     <surname>Malte</surname>
-                     <forename>Wulf</forename>
+               <person xml:id="wulf_malte">
+                  <persName ref="https://orcid.org/0000-0001-8706-4178">
+                     <surname>Wulf</surname>
+                     <forename>Malte</forename>
                   </persName>
                   <idno type="URL">add some</idno>
+               </person>
+               <person xml:id="reiter_vicky">
+                  <persName ref="https://orcid.org/0000-0002-7903-7353">
+                     <surname>Reiter</surname>
+                     <forename full="abb">Vicky</forename>
+                  </persName>
+               </person>
+		<person xml:id="aprent_patrick">
+                  <persName ref="https://orcid.org/0000-0002-0359-5981">
+                     <surname>Aprent</surname>
+                     <forename>Patrick</forename>
+                  </persName>
+               </person>
+               <person xml:id="piech_janina">
+                  <persName ref="https://orcid.org/0000-0002-0791-2323">
+                     <surname>Piech</surname>
+                     <forename full="abb">Janina</forename>
+                  </persName>
+                  </person>
+               <person xml:id="kindermann_heinz">
+                  <persName ref="http://d-nb.info/gnd/118562193">
+                     <surname>Kindermann</surname>
+                     <forename>Heinz</forename>
+                  </persName>
                </person>
             </listPerson>
          </p>
