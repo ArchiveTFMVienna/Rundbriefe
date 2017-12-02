@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+   <teiHeader xmlns:tei="http://www.tei-c.org/ns/1.0">
       <fileDesc>
          <titleStmt>
             <title type="main"> Digitale Edition Rundbriefe des Zentralinstitutes für
@@ -47,19 +43,40 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <p>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+                        href="../indices/listperson.xml"
+                        xpointer="listperson">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be found</fallback>
+            </xi:include>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+                        href="../indices/listplace.xml"
+                        xpointer="listplace">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be found</fallback>
+            </xi:include>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+                        href="../indices/listorg.xml"
+                        xpointer="listorg">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be found</fallback>
+            </xi:include>
+         </p>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>
          <pb n="1"/>
-         <head type="main" style="text-align:center" >Rundbrief des</head>
+         <head type="main" style="text-align:center">Rundbrief des</head>
          <head type="main" style="text-align:center">Zentralinstituts für Theaterwissenschaft</head>
          <head type="main" style="text-align:center">an der Universität Wien</head>
-         <head type="sub"><date when="1943-11">November 1943</date>
+         <head type="sub">
+            <date when="1943-11">November 1943</date>
             <num>No. 2</num> Erscheint jährlich viermal</head>
          <div type="letter" n="1">
             <salute>Liebe Kameraden!</salute>
-            <p>Seit wir Euch den ersten Rundbrief <ref target="http://d-nb.info/02158866X"></ref> sandten, ist in unserem
-               <rs type="org" ref="#zentralinstitut">Zentralinstitut<ref target="http://d-nb.info/gnd/10017549-1"></ref></rs> viel Arbeit geleistet worden. Wir tun sie aber gerne,
+            <p>Seit wir Euch den ersten Rundbrief <ref target="http://d-nb.info/02158866X"/> sandten, ist in unserem
+               <rs type="org" ref="#zentralinstitut">Zentralinstitut<ref target="http://d-nb.info/gnd/10017549-1"/>
+               </rs> viel Arbeit geleistet worden. Wir tun sie aber gerne,
                weil wir wissen, daß all das eines Tages Euch zugute kommen wird,
                wenn Ihr wieder heimkehrt. Dieser Gedanke macht uns all das
                kriegsbedingte Schwere und Mühevolle leicht. Da wir aus Euren
@@ -73,11 +90,12 @@
                zelne gehender Schlagwortkatalog treten, damit unsere Bibliothek
                vielseitig und ohne viel Suchen benutzbar ist.</p>
             <p>Unsere Bücherbestände wurden indes außerordentlich bereichert.
-               Zu der im ersten Rundbrief <ref target="http://d-nb.info/02158866X"></ref> erwähnten Buschbibliothek, einer thea
+               Zu der im ersten Rundbrief <ref target="http://d-nb.info/02158866X"/> erwähnten Buschbibliothek, einer thea
                tergeschichtlichen Leihgabe der Stadt Münster, im Umlauf von
                3000 Bänden kam nun allmählich ein Eigenbesitz von bisher
                7000 Bänden. Gerade in diesen Tagen konnten wir überdies aus
-               einem <geogName><geogFeat>alpen</geogFeat>ländischen</geogName> Schloß eine kostbare Bibliothek von
+               einem <geogName>
+                  <geogFeat>alpen</geogFeat>ländischen</geogName> Schloß eine kostbare Bibliothek von
                2500 Dramentexten (Spielbüchern) aus der Zeit <date notBefore="1770-01-01" notAfter="1830-12-31">von 1770 bis 1830</date>
                dazu erwerben, so daß unser Eigenbesitz bald schon 10 000 Bände
                erreicht.</p>
@@ -87,7 +105,8 @@
             sammen.</p>
             <p>Die wichtigste Erwerbung aber, die bald schon ein Anziehungs
             punkt für viele Forscher und Dissertanten sein wird, ist das "Theater-
-            archiv Leuschke". Der heute 72-jährige Prof. <persName>Prof. Leuschke</persName> <geogName>(Dresden)</geogName> hat
+            archiv Leuschke". Der heute 72-jährige Prof. <persName>Prof. Leuschke</persName> 
+               <geogName>(Dresden)</geogName> hat
             in mehr als 50-jähriger Arbeit über 60000 Theaterkritiken, Schau
             spielerbiographien und Nekrologe aus Zeitungen und Zeitschriften
             von <date notBefore="1800-01-01" notAfter="1943-12-31">1800 bis 1943</date> gesammelt und wissenschaftlich genau beschriftet.
@@ -107,9 +126,12 @@
             die nötige Schlagwortkartei zu erarbeiten, die dann rund 300 000 Zet
             tel umfassen wird.</p>
             <p>Auch die rein wissenschaftlichen Arbeiten des Instituts sind gut
-               vorwärtsgekommen. Der Direktor des <rs type="org" ref="#zentralinstitut">Zentralinstituts<ref target="http://d-nb.info/gnd/10017549-1"></ref></rs> hat zusammen
-               mit den beiden Assistentinnen, <persName>Frl. Dietrich<ref target="http://d-nb.info/gnd/119242788"></ref></persName> und <persName>Frl. Schiffer</persName>, sowie
-               mit <persName>Herrn Ullrich</persName>, den der <orgName>Verlag Matthiesen</orgName> eigens dem <rs type="org" ref="#zentralinstitut">Zentralinstitut<ref target="http://d-nb.info/gnd/10017549-1"></ref></rs> dafür zuteilte, die Grundlage für das künftige Sachwörter
+               vorwärtsgekommen. Der Direktor des <rs type="org" ref="#zentralinstitut">Zentralinstituts<ref target="http://d-nb.info/gnd/10017549-1"/>
+               </rs> hat zusammen
+               mit den beiden Assistentinnen, <persName>Frl. Dietrich<ref target="http://d-nb.info/gnd/119242788"/>
+               </persName> und <persName>Frl. Schiffer</persName>, sowie
+               mit <persName>Herrn Ullrich</persName>, den der <orgName>Verlag Matthiesen</orgName> eigens dem <rs type="org" ref="#zentralinstitut">Zentralinstitut<ref target="http://d-nb.info/gnd/10017549-1"/>
+               </rs> dafür zuteilte, die Grundlage für das künftige Sachwörter
             buch der Theaterwissenschaft geschaffen, als sie ein rund 1800 Zettel
             umfassendes Stichwörterverzeichnis für die nun zu verfassenden Ar
             tikel des Lexikons erarbeiteten. Bald schon werden diese Themen an

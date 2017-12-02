@@ -1,16 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xmlns:tei="http://www.tei-c.org/ns/1.0">
       <fileDesc>
          <titleStmt>
             <title type="main">Digitale Edition Rundbriefe des Zentralinstitutes für
                Theaterwissenschaft an der Universität Wien 1944-45</title>
             <title type="sub">Digitale Edition des 3. Rundbriefs 1944</title>
             <principal>
-               <rs type="person" ref="#malte_wulf">Malte Wulf</rs></principal>
+               <rs type="person" ref="#malte_wulf">Malte Wulf</rs>
+            </principal>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -31,7 +29,7 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <bibl></bibl>
+            <bibl/>
             <msDesc>
                <msIdentifier>
                   <institution>Archiv Institut Theater- Film- und Medienwissenschaften</institution>
@@ -44,15 +42,36 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
+      <encodingDesc>
+         <p>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+                        href="../indices/listperson.xml"
+                        xpointer="listperson">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be found</fallback>
+            </xi:include>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+                        href="../indices/listplace.xml"
+                        xpointer="listplace">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be found</fallback>
+            </xi:include>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+                        href="../indices/listorg.xml"
+                        xpointer="listorg">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be found</fallback>
+            </xi:include>
+         </p>
+      </encodingDesc>
+   </teiHeader>
   <text>
       <body>
          <pb n="1"/>
          <fw type="pageNum">1</fw>
          <head type="main" style="text-align:center" rend="underline">Rundbrief</head>
         <head type="sub" style="text-align:center">des <orgName type="university" subtype="faculty">Zentralinstituts für Theaterwissenschaft</orgName> an
-          der <orgName type="university">Universität <hi rend="letterspace">Wien</hi></orgName>.</head>
-         <head type="sub"><date when="1944-03">März 1944.</date>
+          der <orgName type="university">Universität <hi rend="letterspace">Wien</hi>
+            </orgName>.</head>
+         <head type="sub">
+            <date when="1944-03">März 1944.</date>
             <num>No. 5</num> erscheint jährlich viermal</head>
          <div type="letter" n="1">
             <salute>Liebe Kameraden!</salute>
@@ -76,7 +95,8 @@
                <lb/>arbeiten werden.</p>
              <p>Nun wollen wir Euch zunächst wieder berichten, was wir in
                <lb/>der Zwischenzeit getrieben und gearbeitet haben.</p>
-             <p><persName>Prof. Kindermann</persName> hielt eine dreistündige Hauptvorlesung
+             <p>
+               <persName>Prof. Kindermann</persName> hielt eine dreistündige Hauptvorlesung
                <lb/>über „Das deutsche und europäische Theater des Mittelalters“.</p>
              <p>Er führte vorerst in das Kultspiel der Germanen ein und zeigte sowohl
                <lb/>die starken Wirkungsenergien, die von dorther in das deutsche Theater
@@ -96,7 +116,8 @@
             <p>traten die theatralischen Möglichkeiten aller großen Nationalkulturen noch
                <lb/>als Gleichstrebende nebeneinander. Die gleiche lateinische Sprache, die
                <lb/>gleichen liturgischen Voraussetzungen schienen im ersten Augenblick in
-               <lb/><geogName>Deutschland</geogName> und in <geogName>Frankreich</geogName>, in <geogName>England</geogName> und in <geogName>Italien</geogName> oder <geogName>Spanien</geogName>
+               <lb/>
+               <geogName>Deutschland</geogName> und in <geogName>Frankreich</geogName>, in <geogName>England</geogName> und in <geogName>Italien</geogName> oder <geogName>Spanien</geogName>
                <lb/>genau die gleichen theatralischen Formen hervorzubringen. Aber es han-
                <lb/>delte sich lediglich um jene geschichtliche Minute der scheinbaren Gleich-
                <lb/>wertigkeit und Gleichberechtigung, die im Augenblick knapp vor dem
@@ -119,7 +140,8 @@
                <lb/>freude in <geogName>Frankreich</geogName> genau so wie in <geogName>Deutschland</geogName>, in <geogName>Italien</geogName> und <geogName>Spanien</geogName>
                <lb/>genau so wie in <geogName>England</geogName> und in den <geogName>Niederlanden</geogName>. Und wiewohl es nun
                <lb/>überall die Patrizier und Meister mit Stolz erfüllte, einmal im Jahr als
-               <lb/><persName>Herodes</persName> oder als <persName>Pilatus</persName> verkleidet vor all die Mitbürger hintreten und
+               <lb/>
+               <persName>Herodes</persName> oder als <persName>Pilatus</persName> verkleidet vor all die Mitbürger hintreten und
                <lb/>dabei die Bürgersehnsucht nach der Herrscherwürde, vielleicht sogar nach
                <lb/>dem Tyrannengestus auswirken zu können; und wiewohl es überall den
                <lb/>Handwerksburschen die gleiche Freude machte, als wilde Teufelsgestalten
@@ -156,7 +178,8 @@
                <lb/>ineinander übergleiten. Die Spanier kennen die komische Person sogar
                <lb/>bei der Aufführung in der <orgName type="church">Kirche</orgName>. Das französische und italienische Spiel
                <lb/>trennen die ernsten und die komischen Szenen scharf voneinander. In
-               <lb/><geogName>Deutschland</geogName>, in <geogName>England</geogName> und in <geogName>Spanien</geogName> bildet jede einzelne Landschaft
+               <lb/>
+               <geogName>Deutschland</geogName>, in <geogName>England</geogName> und in <geogName>Spanien</geogName> bildet jede einzelne Landschaft
                <lb/>ihre eigenen und mit besonderen Szenen und Gestalten ausgestatteten
                <lb/>Spielformen aus. In <geogName>Frankreich</geogName> war damals schon alles in <geogName>Paris</geogName>, in <geogName>Italien</geogName>
                <lb/>alles in <geogName>Florenz</geogName> zentralisiert. Die Provinz hatte nur nachzuahmen.</p>
@@ -180,7 +203,8 @@
                <lb/>Wert sorgen.</p>
            <p>In <geogName>Deutschland</geogName>, in den <geogName>Niederlanden</geogName> und in <geogName>England</geogName> wirken bei der
                <lb/>Verweltlichung viele Formen des Kultspieles der Germanen nach; in
-             <lb/><geogName>Frankreich</geogName>, <geogName>Italien</geogName> und <geogName>Spanien</geogName> kehrt schon gar manche Spielform in das
+             <lb/>
+               <geogName>Frankreich</geogName>, <geogName>Italien</geogName> und <geogName>Spanien</geogName> kehrt schon gar manche Spielform in das
                <lb/>Amphitheater der Antike zurück oder holt sonst aus der Motiven- und
                <lb/>Auffassungswelt der Antike früh schon seine Anregungen.</p>
             <p>So bildet trotz des scheinbar gemeinsamen Ausgangsortes jede der
@@ -205,7 +229,8 @@
                   <lb/>raden ein Skriptum: „Geschichte der deutschen Regie“ zusammen-
                   <lb/>stellen zu können. </p>
                  <p>In den Seminarübungen der Unterstufe war von
-                  <lb/><persName>Prof. Kindermann</persName> das Thema „Deutsche Schauspiel-
+                  <lb/>
+               <persName>Prof. Kindermann</persName> das Thema „Deutsche Schauspiel-
                   <lb/>kunst des 19. Jahrhunderts“ angesetzt worden. In einer
                   <lb/>Fülle von Referaten, die meist von Bilddemonstrationen begleitet
                   <lb/>waren, wurden da die wichtigsten Vertreter der deutschen Schau-
@@ -216,7 +241,8 @@
                   <lb/>Schauspielkunst analysiert. Auch hier entstand so das Wandelbild
                   <lb/>eines großen Zusammenhangs und eines allmählich sich heraus-
                   <lb/>kristallisierenden, freilich vielschichtigen Jahrhundertgepräges.</p>
-                <p><persName>Doz. Börge</persName> hielt sowohl ein Kolloquium über praktische
+                <p>
+               <persName>Doz. Börge</persName> hielt sowohl ein Kolloquium über praktische
                   <lb/>Dramaturgie als auch eine Einführung in die Filmkunde.</p>
                 <p>Zunächst das Kolloquium über Praktische Dramaturgie:</p>
                 <p>1. Wir haben uns erst klar gemacht, welche Position das Fach
@@ -228,7 +254,8 @@
                   <lb/>Wir haben uns eingehend mit den Problemen, die hierin erörtert sind,
                   <lb/>besonders „Dramatische Kunst als Sonderkunst“, beschäftigt. Als Grund-
                   <lb/>text haben wir „Hanneles Himmelfahrt“ betrachtet, weil gerade dieses
-                  <lb/>Traumdrama im <orgName type="theatre"><geogName>Schönbrunner</geogName> Schloßtheater</orgName> von <persName>Dr. Börge</persName> inszeniert
+                  <lb/>Traumdrama im <orgName type="theatre">
+                  <geogName>Schönbrunner</geogName> Schloßtheater</orgName> von <persName>Dr. Börge</persName> inszeniert
                   <lb/>worden ist. Von diesem Texte aus haben wir unsere konkreten Beispiele
                   <lb/>geholt. Wir haben gesehen, wie es die Aufgabe des praktischen Drama-
                   <lb/>turgen ist, eng zusammenzuarbeiten mit dem Regisseur und dem Bühnen-
@@ -325,7 +352,8 @@
                   <lb/>vielen anderen Beziehungen. Zum Beispiel rein mimisch. Man denke an
                   <lb/>die Nahbilder, die es im Theater gar nicht gibt, usw., usw.</p>
                 <p>Der Leiter der Theaterabteilung der <orgName type="college">Reichshochschule für Musik</orgName>,
-                  <lb/><persName>Prof. Dr. Hans Niederführ</persName>, brachte in seinem Kolloquium in
+                  <lb/>
+               <persName>Prof. Dr. Hans Niederführ</persName>, brachte in seinem Kolloquium in
                   <lb/>13 Vorlesungen, bzw. Übungsstunden über praktische Bühnen-
                   <lb/>kunde zunächst grundsätzliche Auseinandersetzungen über Theater-
                   <lb/>wissenschaft und Bühnenpraxis in ihrer Polarität und stellte die
@@ -356,14 +384,16 @@
                  <lb/>ist noch nicht abgeschlossen. Die letzten Proben werden während der
                  <lb/>Semesterferien zugängig sein.</p>
                <p>Praktische Vorführungen bühnentechnischer Einrichtungen und Hilfs-
-                 <lb/>mittel im <orgName type="theatre"><geogName>Schönbrunner</geogName> Schloßtheater</orgName> bildeten eine weitere Ergänzung
+                 <lb/>mittel im <orgName type="theatre">
+                  <geogName>Schönbrunner</geogName> Schloßtheater</orgName> bildeten eine weitere Ergänzung
                  <lb/>und Abrundung.</p>
                <p>Ganz besonderen Anklang fand eine Neueinrichtung dieses
                  <lb/>Semesters, die „Ringvorlesung“. Sie wurde diesmal für künf-
                  <lb/>tige Kunstbetrachter abgehalten, wird im nächsten Semester für
                  <lb/>künftige Dramaturgen und im übernächsten für künftige Regis-
                  <lb/>seure veranstaltet. Die diesmalige Ringvorlesung führte an alle
-                 <lb/><geogName>Wiener</geogName> Hochschulen, weil alle sich mit dem Theater befassen, und
+                 <lb/>
+               <geogName>Wiener</geogName> Hochschulen, weil alle sich mit dem Theater befassen, und
                  <lb/>gewährte Einblick in alle die Werkstätten der am theatralischen
                  <lb/>Prozeß mitwirkenden, und zwar immer im Hinblick auf das, was
                  <lb/>der Kunstbetrachter davon wissen muß. Sie begann am <orgName type="university" subtype="faculty">Zentral-
@@ -395,7 +425,8 @@
                  <lb/>wurden in diesem Wintersemester erfolgreich, d. h. jedesmal unter
                  <lb/>Teilnahme von 600 bis 700 Besuchern fortgesetzt. Wie schon im
                  <lb/>zweiten Rundbrief berichtet, sprach da im November Staatsschau-
-                 <lb/>spieler <persName>Friedrich Kayssler</persName> vom <orgName type="theatre">Staatlichen Schauspielhaus <geogName>Berlin</geogName></orgName>
+                 <lb/>spieler <persName>Friedrich Kayssler</persName> vom <orgName type="theatre">Staatlichen Schauspielhaus <geogName>Berlin</geogName>
+               </orgName>
                  <lb/>über das Wesen der Schauspielkunst. Wir lassen hier
                  <lb/>einen kurzen Ausschnitt aus diesem Vortrag folgen:</p>
 
@@ -488,10 +519,12 @@
                  <lb/>Kunst gekommen ist: die Stunde für die Menschen, im Innersten zuein-
                  <lb/>ander zu finden.</p>
                <p>Im Dezember nahm <persName>Prof. Pirchan</persName>, Leiter der <orgName type="college" subtype="field">Meisterklasse
-                 <lb/>für Bühnenbildnerei</orgName> an der <orgName type="college"><geogName>Wiener</geogName> Akademie der bildenden
+                 <lb/>für Bühnenbildnerei</orgName> an der <orgName type="college">
+                  <geogName>Wiener</geogName> Akademie der bildenden
                  <lb/>Künste</orgName>, das Wort zu einem in den Entwicklungsgang einführenden
                  <lb/>Lichtbildervortrag „Die Künste des Bühnenbildes“. Das
-                 <lb/><orgName type="newspaper">„Neue Wiener Tagblatt“</orgName> berichtete darüber u. a.:</p>
+                 <lb/>
+               <orgName type="newspaper">„Neue Wiener Tagblatt“</orgName> berichtete darüber u. a.:</p>
                <p>Es gibt noch keine Kunstgeschichte des Bühnenbildes. Vielleicht des-
                  <lb/>halb, weil hier Kunst und Technik so eng verschwistert sind, ähnlich wie
                  <lb/>beim Film, daß der Impuls zum Fortschritt jeweils viel stärker aus der
@@ -523,10 +556,13 @@
                  <lb/>Beispiel von Quarzdampflampen bestrahlt, einer wirkungsvollen transparen-
                  <lb/>ten Wirkung fähig sind, immer größere Bedeutung zu.</p>
                <p>Im Januar sprach der weit über <geogName>Deutschland</geogName> hinaus bekannte
-                 <lb/>Oberspielleiter der <orgName type="theatre"><geogName>Wiener</geogName> Staatsoper</orgName> <persName>Oskar Fritz Schuh</persName> über
+                 <lb/>Oberspielleiter der <orgName type="theatre">
+                  <geogName>Wiener</geogName> Staatsoper</orgName> 
+               <persName>Oskar Fritz Schuh</persName> über
                  <lb/> „Probleme der modernen Opernregie“. Aus dem viel-
                  <lb/>diskutierten, sehr programmatisch gehaltenen Vortrag, der im Rah-
-                 <lb/>men der Schriften des <orgName type="university" subtype="faculty">Zentralinstituts</orgName> im <orgName type="publisher"><persName>Wilhelm-Frick</persName>-Verlag</orgName>
+                 <lb/>men der Schriften des <orgName type="university" subtype="faculty">Zentralinstituts</orgName> im <orgName type="publisher">
+                  <persName>Wilhelm-Frick</persName>-Verlag</orgName>
                  <lb/>(<geogName>Wien</geogName>) erscheinen wird, geben wir hier zur ersten Orientierung
                  <lb/>einen kleinen Ausschnitt:</p>
                <p>Allmählich hat sich doch die Meinung mehr und mehr durchgesetzt,
@@ -599,7 +635,8 @@
                  <lb/>immer war es so, daß nur von den neuen Werken her das Theater seine
                  <lb/>Blutzufuhr bekommen hat.</p>
                <p>Im Februar schließlich ergänzte <persName>Prof. Gregor</persName>, der Direktor
-                 <lb/>der <orgName type="library" subtype="field">Theatersammlung</orgName> der <orgName type="library"><geogName>Wiener</geogName> Nationalbibliothek</orgName>, dieses Thema
+                 <lb/>der <orgName type="library" subtype="field">Theatersammlung</orgName> der <orgName type="library">
+                  <geogName>Wiener</geogName> Nationalbibliothek</orgName>, dieses Thema
                  <lb/>durch seinen von musikalischen Beispielen begleiteten Lichtbilder-
                  <lb/>vortrag "Probleme des Bühnenbildes der Oper".
                  <lb/>Auch von diesem überaus anschaulichen und sehr persönlich gehal-
@@ -630,14 +667,16 @@
                  <lb/>wenig Gesetze dafür aufstellen wie für jedes andere Gebiet der Kunst,
                  <lb/>dessen Schöpfungen uns überraschen und hinreißen. Der große Künstler,
                  <lb/>der sich ganz in <persName>Wagner</persName> vertieft, wird auch sicherlich ein Bühnenbild
-                 <lb/><persName>Wagners</persName> finden, ohne die geschichtlichen Voraussetzungen zu kennen. Er
+                 <lb/>
+               <persName>Wagners</persName> finden, ohne die geschichtlichen Voraussetzungen zu kennen. Er
                  <lb/>wird es, weil er dem gemeinsamen Urgrund aller Funktionen des Musik-
                  <lb/>dramas, auch seiner bildlichen auf der Bühne, nahe ist. Auch ich hatte
                  <lb/>das Glück, mich diesem schöpferischen Prinzip nahe zu fühlen - durch
                  <lb/>meine drei gemeinsamen Arbeiten mit Meister <persName>Strauß</persName>, und ich möchte das
                  <lb/>Paradoxon wagen: Nicht nur die Musik, auch das Bühnenbild ist von ihm
                  <lb/>geschaffen. Ich denke an jene Stelle des "Friedenstag", jener Oper, die in
-                 <lb/><geogName>Wien</geogName> nur ein einzigesmal erklang, und dies am 75. Geburtstag des Meisters
+                 <lb/>
+               <geogName>Wien</geogName> nur ein einzigesmal erklang, und dies am 75. Geburtstag des Meisters
                  <lb/>und in Anwesenheit des Führers. Es ist bekannt, daß die szenische Vor-
                  <lb/>aussetzung des Stückes eine belagerte Zitadelle ist, deren heroische Insassen
                  <lb/>eben im Begriff sind, die Festung und sich selbst in die Luft zu sprengen,
@@ -661,7 +700,8 @@
                  <lb/>mächtigen Chor (<persName>Prof. Mahnke</persName> in <geogName>Dresden</geogName>). Wesentlich größer noch ist
                  <lb/>die szenische Aufgabe, die der Schluß der bukolischen Oper "Daphne"
                  <lb/>dem Bühnenkünstler stellt. Vor unsern Augen, der Sage getreu, soll
-                 <lb/><persName>Daphne</persName> in den Lorbeer verwandelt werden. Diese Metamorphose ist nicht
+                 <lb/>
+               <persName>Daphne</persName> in den Lorbeer verwandelt werden. Diese Metamorphose ist nicht
                  <lb/>nur der Dichtung, sie ist auch der Bühne nicht neu. Schon der hellenistisch-</p>
             
                <pb n="13"/>
@@ -677,7 +717,8 @@
                  <lb/>fache, im Grund aber überzeugende Wirkung, denn sie ist ganz und gar
                  <lb/>vom stärksten aller Theaterstile getragen. Sie muß auch bei voller Beleuch-
                  <lb/>tung erfolgt sein, denn der Marquis, der im Ballett <persName>Ludwigs XIV.</persName> den
-                 <lb/><persName>Apollo</persName> gab, nahm einmal seiner <persName>Daphne</persName>, einem <persName>Fräulein von Verpré</persName>,
+                 <lb/>
+               <persName>Apollo</persName> gab, nahm einmal seiner <persName>Daphne</persName>, einem <persName>Fräulein von Verpré</persName>,
                  <lb/>einen Zweig ab und flocht sich eine Krone daraus.</p>
                <p>Solche stilistische Erwägungen sind <persName>Richard Strauß</persName> ganz fremd. it
                  <lb/>der Zielsicherheit des großen Dramatikers drängt er nach dem Unbeding-
@@ -686,7 +727,8 @@
                  <lb/>Hintergrund, plötzlich bleibt sie festgebannt. Dann, nach ihrem letzten
                  <lb/>Sehnsuchtsruf an die geschwisterliche Natur: "Daphne unsichtbar, an
                  <lb/>ihrer Stelle erhebt sich der Baum." Von hier ab gibt es nur "Stimme der
-                 <lb/><persName>Daphne</persName>", einzelne Worte, schließlich nur Töne, die sich schon dem Blät-
+                 <lb/>
+               <persName>Daphne</persName>", einzelne Worte, schließlich nur Töne, die sich schon dem Blät-
                  <lb/>terrauschen vermählen. ... Wieder soll das Unbeschreibliche getan sein.
                  <lb/>Und diesmal scheint der Meister wirklich das Gefühl gehabt zu haben,
                  <lb/>daß er ein wenig viel forderte, denn er schrieb an den Rand meines Text-
@@ -704,7 +746,8 @@
                  <lb/>einem der nächsten Rundbriefe beifügen zu können.</p>
                <p>Weiters hatte das <orgName type="university" subtype="faculty">Zentralinstitut</orgName> selbst den Senior der deut-
                  <lb/>schen Theaterwissenschaft, <persName>Prof. Arthur Kutscher</persName> (<geogName>München</geogName>),
-                 <lb/>gebeten, im Auditorium maximum der <orgName type="university"><geogName>Wiener</geogName> Universität</orgName> über
+                 <lb/>gebeten, im Auditorium maximum der <orgName type="university">
+                  <geogName>Wiener</geogName> Universität</orgName> über
                  <lb/>"100 Jahre Faust auf der deutschen Bühne" zu spre-
                  <lb/>chen, und es hatte den nun 78jährigen Dramatiker <persName>Max Halbe</persName>
                  <lb/>eingeladen, im <persName>Kainz</persName>saal des <orgName type="university" subtype="faculty">Zentralinstituts</orgName> aus seinen auto-
@@ -723,9 +766,11 @@
                  <lb/>bleme der Regie und des Bühnenbildes überhaupt vorüberziehen und ord-
                  <lb/>nete die so gewonnenen Eindrücke um entscheidende Brennpunkte in die
                  <lb/>Theatergeschichte ein.</p>
-               <p><persName>Max Halbe</persName>, der uns allen bekannte und liebgewordene Dichter, las               
+               <p>
+               <persName>Max Halbe</persName>, der uns allen bekannte und liebgewordene Dichter, las               
                  <lb/>aus seinen autobiographischen Werken. Der Direktor des <orgName type="university" subtype="faculty">Zentralinstituts</orgName>,
-                 <lb/><persName>Univ.-Prof. Dr. Heinz Kindermann</persName>, umriß einleitend das Werk des Dich-
+                 <lb/>
+               <persName>Univ.-Prof. Dr. Heinz Kindermann</persName>, umriß einleitend das Werk des Dich-
                  <lb/>ters und stellte vor allem die in dem <geogName>weichselländischen</geogName> Boden verwurzel-
                  <lb/>te Natur <persName>Halbes</persName> in den Vordergrund, die von hier aus weithin Kräfte
                  <lb/>des alldeutschen Raumes gestalten konnte. Vor allem seien in den beiden
@@ -736,7 +781,8 @@
                  <lb/>die Zeiten der "Jugend" inmitten der <geogName>Berliner</geogName> Theaterkämpfe, der <orgName type="theatre">Freien
                  <lb/>Volksbühne</orgName>, des <orgName type="theatre">Residenztheaters</orgName>, Namen wie <persName>Brahm</persName>, <persName>Laudenthal</persName>, <persName>Schleu-
                  <lb/>ther</persName> klangen auf und gewannen Leben. Der zweite Teil schloß die Ur-
-                 <lb/>aufführung des "Stroms" im <orgName type="theatre"><geogName>Wiener</geogName> Burgtheater</orgName> ein und schilderte die
+                 <lb/>aufführung des "Stroms" im <orgName type="theatre">
+                  <geogName>Wiener</geogName> Burgtheater</orgName> ein und schilderte die
                  <lb/>Bedeutung, die dieses Theater in <geogName>Deutschland</geogName> stets besaß. Beide Vorträge
                  <lb/>wurden mit starkem Beifall aufgenommen.</p>
                <p>Ganz besonders eindrucksvoll war der Vortrag des bekannten
@@ -749,7 +795,8 @@
                <p>Was verbindet den Ringelreihen der Kinder moderner Großstädte
                  <lb/>mit dem Chor der attischen Tragödie? Gibt es einen gleichen Ausgangs-
                  <lb/>punkt in beiden Gestaltungsformen und wo ist er anzusetzen?</p>
-               <p><persName>Prof. Trier</persName> ging in seinem Vortrag von alten und neuen Wort-
+               <p>
+               <persName>Prof. Trier</persName> ging in seinem Vortrag von alten und neuen Wort-
                  <lb/>prägungen theatralischer Erlebnisse aus und zeigte ihre Wurzel im uralten,
                  <lb/>bäuerlichen und gemeinschaftsgetragenen Daseinskreis von Sippe und
                  <lb/>politischer Genossenschaft. Das theatralische Geschehen steht dem Alltag
@@ -805,7 +852,8 @@
                  <lb/>Anregung geben, Traditionen zu halten und neue Wege zu suchen, um
                  <lb/>der Nation das Theater als Kraftquell und Bindeglied zu erhalten.</p>
                 <p>Auch die unter der Leitung des Kameraden <persName>Ulrich</persName> stehende
-                 <lb/><orgName type="university" subtype="field">Fachschaft für Theaterwissenschaft</orgName> hat diesmal begonnen, eine Reihe
+                 <lb/>
+               <orgName type="university" subtype="field">Fachschaft für Theaterwissenschaft</orgName> hat diesmal begonnen, eine Reihe
                  <lb/>erfolgreicher Veranstaltungen durchzuführen. So sprach in ihrem
                  <lb/>Rahmen der Schriftsteller <persName>Ernst Wurm</persName> über "<persName>Heinrich
                  <lb/>George</persName> und <persName>Gustaf Gründgens</persName>". <persName>Dr. Otto Horny</persName> be-
@@ -821,14 +869,16 @@
                <fw type="pageNum">16</fw>
                 <p>machen. So entstand vor den Zuhörern eines Vortrages, den <persName>Ernst Wurm</persName>
                  <lb/>im <orgName type="university" subtype="faculty">Zentralinstitut für Theaterwissenschaft</orgName> über <persName>Heinrich George</persName> und
-                 <lb/><persName>Gustaf Gründgens</persName> hielt, das plastische Bild einer darstellerischen Gegen-
+                 <lb/>
+               <persName>Gustaf Gründgens</persName> hielt, das plastische Bild einer darstellerischen Gegen-
                  <lb/>sätzlichkeit, die <persName>Wurm</persName> durch die Begriffe Körper und Intellekt kenn-
                  <lb/>zeichnete: auf der einen Seite die erdgebundene, vitale, erruptive Schau-
                  <lb/>spielernatur <persName>Georges</persName>, auf der anderen das von einer scharf profilierten
                  <lb/>Geistigkeit bestimmte, einer mathematisch-musikalischen Rhythmik ent-
                  <lb/>springende Darstellungsvermögen <persName>Gustaf Gründgens</persName>'. Das Gemeinsame an
                  <lb/>diesen zwei hervorragenden Vertretern deutscher Schauspielkunst sieht
-                 <lb/><persName>Wurm</persName> in der beiden geschenkten Gabe der Faszination, die sie zum
+                 <lb/>
+               <persName>Wurm</persName> in der beiden geschenkten Gabe der Faszination, die sie zum
                  <lb/>belebenden, mitreißenden Mittelpunkt der Aufführungen macht, in denen
                  <lb/>sie mitwirken, da <persName>George</persName> und <persName>Gründgens</persName> ihre ganze Persönlichkeit in den
                  <lb/>Prozeß der darstellenden Kunst stellen; Leistungen, die kaum einen Leer-
@@ -839,7 +889,8 @@
                  <lb/>Beifall aufgenommen.</p>
                 <p>Ein ganz besonderes Erlebnis war eine im Saal des Studenten-
                  <lb/>werks von der <orgName type="university" subtype="field">Fachschaft</orgName> durchgeführte Veranstaltung, bei der die
-                 <lb/>von <geogName>Bayreuth</geogName> und der <orgName type="theatre"><geogName>Wiener</geogName> Staatsoper</orgName> her berühmte Kammer-
+                 <lb/>von <geogName>Bayreuth</geogName> und der <orgName type="theatre">
+                  <geogName>Wiener</geogName> Staatsoper</orgName> her berühmte Kammer-
                  <lb/>sängerin <persName>Prof. Anna Bahr-Mildenburg</persName> über "Musikali-
                  <lb/>sche Darstellungskunst von <persName>Gluck</persName> bis <persName>Richard
                  <lb/>Strauß</persName>" sprach und diese Darlegungen mit einer Fülle zum Teil
@@ -857,8 +908,10 @@
                  <lb/>unter die jungen Menschen, um ihnen aus dem überreichen Schatz ihres
                  <lb/>Wissens und ihrer Erfahrung einiges mitzuteilen!</p>
                 <p>Ein schöner Abend vereinigte am Samstag die Meisterin mit Hörern
-                 <lb/>der <orgName type="university"><geogName>Wiener</geogName> Universität</orgName>. "Musikdramatische Darstellung von <persName>Gluck</persName> bis
-                 <lb/><persName>Richard Strauß</persName>" war ihr Vortrag betitelt. Ein Vortrag der <persName>Mildenburg</persName>
+                 <lb/>der <orgName type="university">
+                  <geogName>Wiener</geogName> Universität</orgName>. "Musikdramatische Darstellung von <persName>Gluck</persName> bis
+                 <lb/>
+               <persName>Richard Strauß</persName>" war ihr Vortrag betitelt. Ein Vortrag der <persName>Mildenburg</persName>
                  <lb/>enthält nur ganz wenige theoretische Erklärungen, er führt sofort mitten
                  <lb/>in das lebendige Theater hinein. An praktischen Beispielen in großer
                  <lb/>Zahl erläutert sie ihre Lehrmethode, die, auf eine knappe Formel gebracht,
@@ -871,8 +924,10 @@
                
                <pb n="17"/>
                <fw type="pageNum">17</fw>
-                 <lb/><persName>Elsa</persName>, <persName>Elisabeth</persName>, aber auch den <persName>Wotan</persName>, verkörpert, oder die <persName>Santuzza</persName>,
-                 <lb/><persName>Elektra</persName>, <persName>Iphigenie</persName>, den <persName>Tamino</persName> oder den <persName>Max</persName> aus dem "Freischütz".
+                 <lb/>
+               <persName>Elsa</persName>, <persName>Elisabeth</persName>, aber auch den <persName>Wotan</persName>, verkörpert, oder die <persName>Santuzza</persName>,
+                 <lb/>
+               <persName>Elektra</persName>, <persName>Iphigenie</persName>, den <persName>Tamino</persName> oder den <persName>Max</persName> aus dem "Freischütz".
                  <lb/>Immer erschließt sie eine Gestalt restlos und bis auf den Grund. Jubel-
                  <lb/>stürme, die immer wieder um Zugaben baten, umbrausten die Meisterin,
                  <lb/>die, ihrer Jahre spottend, immer wieder Neues zu geben wußte. Junge
@@ -882,7 +937,8 @@
                 <p>Ein Vortrag des Schriftstellers <persName>Dr. Handl</persName> über <persName>Kainz</persName> schließt
                  <lb/>diese Reihe ab.</p>
                 <p>Zum erstenmal in diesem Semester war es den Mitgliedern des
-                 <lb/><orgName type="university" subtype="faculty">Zentralinstituts</orgName> vergönnt, an einigen Proben des <orgName type="theatre">Burgtheaters</orgName> und
+                 <lb/>
+               <orgName type="university" subtype="faculty">Zentralinstituts</orgName> vergönnt, an einigen Proben des <orgName type="theatre">Burgtheaters</orgName> und
                  <lb/>des <orgName type="theatre">Josefstädter Theaters</orgName> teilzunehmen. So machten sie in Anwesen-
                  <lb/>heit des Dichters die Hauptprobe zur Uraufführung von <persName>Gerhart
                  <lb/>Hauptmanns</persName> "Iphigenie in Aulis" im <orgName type="theatre">Burgtheater</orgName> mit, wohn-
@@ -896,7 +952,8 @@
                  <lb/>dem <persName>Beethovens</persName> "Eroica" zum erstenmal erklungen war) und eine
                  <lb/>überaus geglückte, szenisch ausgestaltete und musikalisch (<persName>Schu-
                  <lb/>mann</persName>) umrahmte Rezitationsaufführung von <persName>Hebbels</persName> recht wenig
-                 <lb/>bekanntem Drama "Michel Angelo" im <orgName type="theatre"><geogName>Schönbrunner</geogName> Schloß-
+                 <lb/>bekanntem Drama "Michel Angelo" im <orgName type="theatre">
+                  <geogName>Schönbrunner</geogName> Schloß-
                  <lb/>theater</orgName> (durchgeführt von der Schauspielschule des Burgtheaters,
                  <lb/>Leitung Burgschauspieler <persName>Volters</persName>, der selbst die <persName>Michel-Angelo</persName>-
                  <lb/>Partie übernommen hatte) waren den Mitgliedern des <orgName type="university" subtype="faculty">Zentral-
@@ -909,12 +966,14 @@
                  <lb/>im nächsten Rundbrief genauer schildern.</p>
                 <p>Im <persName>Baron-Berger</persName>-Zimmer des <orgName type="university" subtype="faculty">Zentralinstituts</orgName> ist die erste
                  <lb/>theatergeschichtliche Dokumentar-Plastik des Bildhauers
-                 <lb/><persName>Kauer</persName> aufgestellt worden. Es handelt sich um eine nach neuem
+                 <lb/>
+               <persName>Kauer</persName> aufgestellt worden. Es handelt sich um eine nach neuem
                  <lb/>Verfahren hergestellte, geradezu atmend getreue Lebendplastik des
                  <lb/>Schauspielers <persName>Wiemann</persName> in der Rolle des <persName>Empedokles</persName>. Eine
                  <lb/>Reihe weiterer derartiger Lebendplastiken sind nun in Auftrag ge-
                  <lb/>geben, vielfach auch zwei Darsteller in der gleichen Rolle, etwa
-                 <lb/><persName>Tressler</persName> (<orgName type="theatre">Burgtheater</orgName>) und <persName>Köck</persName> (Exlbühne) in der Rolle des
+                 <lb/>
+               <persName>Tressler</persName> (<orgName type="theatre">Burgtheater</orgName>) und <persName>Köck</persName> (Exlbühne) in der Rolle des
                  <lb/>alten <persName>Grutz</persName> in <persName>Schönherrs</persName> "Erde" usf. Noch nach hundert Jahren
                  <lb/>werden nun die Theaterwissenschaftler sagen können, wie die Maske</p>
            
@@ -928,7 +987,8 @@
                  <lb/>und <geogName>Wiener</geogName> Aufführungen, viele Theaterzettel und zwei wichtige,
                  <lb/>uns anvertraute Schauspieler-Tagebücher der entscheidungsreichen
                  <lb/>Jahre 1809 und 1810 zu erwähnen. Das <orgName type="archive">"Theater-Archiv
-                 <lb/><persName>Leuschke</persName>"</orgName>, diese uns überantwortete Sammlung von 60.000
+                 <lb/>
+                  <persName>Leuschke</persName>"</orgName>, diese uns überantwortete Sammlung von 60.000
                  <lb/>Theaterkritiken und Schauspielerbiographien, wurde nun von <persName>Fräu-
                  <lb/>lein Dr. Zirnig</persName> chronologisch geordnet. Schon stehen all die
                  <lb/>stolzen schwarzen Pappkartons in Reih und Glied da und bald schon
@@ -952,7 +1012,8 @@
                  <lb/>liegen. Indes ist <persName>Prof. Kindermanns</persName> Arbeit "Hölderlin und
                  <lb/>das deutsche Theater" in einer Schriftenreihe des <orgName type="university" subtype="faculty">Zentral-
                  <lb/>instituts</orgName> im Verlag <persName>Frick</persName> (<geogName>Wien</geogName>) erschienen. Dank einer Stiftung
-                 <lb/>des <orgName type="university" subtype="field">Fernbetreuungsreferats</orgName> unserer <orgName type="university"><geogName>Wiener</geogName> Universität</orgName> (<persName>Prof. Mei-
+                 <lb/>des <orgName type="university" subtype="field">Fernbetreuungsreferats</orgName> unserer <orgName type="university">
+                  <geogName>Wiener</geogName> Universität</orgName> (<persName>Prof. Mei-
                  <lb/>ster</persName>) können wir Euch ein Exemplar dieses Büchleins zugleich mit
                  <lb/>diesem Rundbrief senden. Dies geschieht nicht nur, um Euch die
                  <lb/>Lektüre dieser Arbeit zu ermöglichen, sondern um Euch auch die
@@ -969,13 +1030,17 @@
                <pb n="19"/>
                <fw type="pageNum">19</fw>
                 <p>Theaterwissenschaftlern, Bühnenkünstlern und Studenten aus ganz
-                 <lb/><geogName>Deutschland</geogName>, aber auch aus zahlreichen befreundeten Nationen. So
+                 <lb/>
+               <geogName>Deutschland</geogName>, aber auch aus zahlreichen befreundeten Nationen. So
                  <lb/>hatten wir in der letzten Zeit Besuche aus <geogName>Ungarn</geogName>, der <geogName>Slowakei</geogName>,
-                 <lb/><geogName>Kroatien</geogName>, <geogName>Griechenland</geogName>, <geogName>Bulgarien</geogName>, <geogName>Dänemark</geogName>, <geogName>Finnland</geogName>, der
-                 <lb/><geogName>Schweiz</geogName> usf.</p>
+                 <lb/>
+               <geogName>Kroatien</geogName>, <geogName>Griechenland</geogName>, <geogName>Bulgarien</geogName>, <geogName>Dänemark</geogName>, <geogName>Finnland</geogName>, der
+                 <lb/>
+               <geogName>Schweiz</geogName> usf.</p>
                 <p>Zu unserer großen Freude besichtigte Reichsminister <persName>Rust</persName> vor
                  <lb/>einiger Zeit das <orgName type="university" subtype="faculty">Zentralinstitut</orgName> sehr eingehend. Auch Ministerialrat
-                 <lb/><persName>Dr. Frey</persName>, unser zuständiger Referent im <orgName type="ministery">Reichserziehungsmini-
+                 <lb/>
+               <persName>Dr. Frey</persName>, unser zuständiger Referent im <orgName type="ministery">Reichserziehungsmini-
                  <lb/>sterium</orgName>, hat das <orgName type="university" subtype="faculty">Institut</orgName> schon inspiziert. Viele bedeutende Bühnen-
                  <lb/>künstler, darunter auch <persName>Paula Wessely</persName> und <persName>Friedrich Kayssler</persName>, waren
                  <lb/>bei uns. <persName>Prof. Kutscher</persName> (München), <persName>Prof. de Boor</persName> (Zürich), <persName>Dr. Max
@@ -985,9 +1050,12 @@
                  <lb/>der ständig Mitarbeitenden gewachsen. In die Reihe der wissen-
                  <lb/>schaftlichen Hilfskräfte trat neben unseren bisherigen bewährten
                  <lb/>Assistentinnen <persName>Frl. Dietrich</persName> und <persName>Frl. Schiffer</persName> noch die schon
-                 <lb/>erwähnte Verwalterin des <orgName type="archive"><persName>Leuschke</persName>-Archivs</orgName> <persName>Frl. Dr. Zirnig</persName>. <persName>Frl.
+                 <lb/>erwähnte Verwalterin des <orgName type="archive">
+                  <persName>Leuschke</persName>-Archivs</orgName> 
+               <persName>Frl. Dr. Zirnig</persName>. <persName>Frl.
                  <lb/>Architekt Beck</persName> betreut nach wie vor die Bühnenbildmodelle.
-                 <lb/><persName>Fr. Dr. Eisner</persName> arbeitet zusammen mit mehreren Studentinnen an
+                 <lb/>
+               <persName>Fr. Dr. Eisner</persName> arbeitet zusammen mit mehreren Studentinnen an
                  <lb/>der Katalogisierung der täglich aus ganz <geogName>Europa</geogName> neu einlaufenden
                  <lb/>Zeitungsausschnitte über Theaterereignisse. <persName>Frl. Meyer</persName> leitet die
                  <lb/>Arbeiten am Schlagwortkatalog <persName>Gräfin Hoyos</persName> die Arbeiten am
@@ -998,18 +1066,21 @@
                  <lb/>unser braver Heizer <persName>Kummerer</persName> sorgt dafür, daß unsere schönen
                  <lb/>weißen Kachelöfen immer hübsch warm und die festlich hohen
                  <lb/>Räume auch im Winter gemütlich bleiben. So, nun kennt ihr uns alle.</p>
-                <p>Wir brauchen sicher nicht hinzuzufügen, daß am <geogName>Wiener</geogName> <orgName type="university" subtype="faculty">Zen-
+                <p>Wir brauchen sicher nicht hinzuzufügen, daß am <geogName>Wiener</geogName> 
+               <orgName type="university" subtype="faculty">Zen-
                  <lb/>tralinstitut</orgName> auch die Geselligkeit zu ihrem Recht kommt. Auch sie
                  <lb/>freilich wird mit der Freude an der theatralischen Welt verbunden.
                  <lb/>Bei unserem Weihnachtsfest in den Bauernstuben des Studetenwerks
                  <lb/>wurden gleich drei Einakter aufgeführt und eine der Kameradinnen,
-                 <lb/><persName>Hilde Weinberger</persName>, trug meisterhaft deutsche Balladen vor. Nun
+                 <lb/>
+               <persName>Hilde Weinberger</persName>, trug meisterhaft deutsche Balladen vor. Nun
                  <lb/>steht das Schlußfest bevor und wir sind schon alle gespannt, was
                  <lb/>diesmal der "große Rat" uns für künstlerische Genüsse bieten wird.
                  <lb/>Immer aber, wenn wir beisammen sind, wandern unsere Gedanken
                  <lb/>und unsere innigen Wünsche zu Euch allen hinaus. So senden wir
                  <lb/>alle Euch an der Wende von Winter und Frühling unsere herz-
-                 <lb/>lichsten Grüße. Die Dozenten des <orgName type="university" subtype="faculty">Zentralinstituts</orgName> <persName>Prof. Dr. Kinder-
+                 <lb/>lichsten Grüße. Die Dozenten des <orgName type="university" subtype="faculty">Zentralinstituts</orgName> 
+               <persName>Prof. Dr. Kinder-
                  <lb/>mann</persName>, <persName>Doz. Dr. Börge</persName> (seiner Herkunft nach Däne) und <persName>Prof. Dr.
                  <lb/>Niederführ</persName>, aber auch die Assistentinnen, alle sonstigen Mitarbeiter
                  <lb/>und alle die studentischen Mitglieder des <orgName type="university" subtype="faculty">Zentralinstituts</orgName> denken in</p>
@@ -1027,7 +1098,7 @@
          
         <div type="letter" n="2">
                
-               <salute></salute>
+               <salute/>
                <p>Ein kleiner zusammenfassender Bericht soll Ihnen allen, die
                 <lb/>Sie in diesem Semester nicht in Wien waren, von einer schönen und
                 <lb/>interessanten Einrichtung des <orgName type="university" subtype="faculty">Zentralinstituts</orgName> erzählen: von der
@@ -1042,7 +1113,8 @@
                 <lb/>das Atelier von <persName>Prof. Grom-Rottmayer</persName> in der <orgName type="college">Technischen Hoch-
                 <lb/>schule</orgName>, einmal durften wir in die <orgName type="college">Hochschule für angewandte Kunst</orgName>
                 <lb/>zu <persName>Prof. Niedermoser</persName> kommen und bei uns im <orgName type="university" subtype="faculty">Institut</orgName> hörten wir
-                <lb/><persName>Herrn Prof. Kindermann</persName>, <persName>Dr. Börge</persName> und <persName>Prof. Niederführ</persName>. An den
+                <lb/>
+               <persName>Herrn Prof. Kindermann</persName>, <persName>Dr. Börge</persName> und <persName>Prof. Niederführ</persName>. An den
                 <lb/>Namen sehen Sie schon, daß sich die Vorlesungen natürlich immer
                 <lb/>um Fragen des Theaters drehten.</p>
                <p>Die Ringvorlesung hatte den Zweck, uns einen Einblick zu ge-
@@ -1079,7 +1151,8 @@
                 <lb/>sei und stellte uns dann die Aufgabe, bis zur nächsten Ringvorlesung
                 <lb/>selber einmal zu versuchen, eine Theaterkritik zu schreiben.</p>
                <p>Wir hatten kurz vorher zum größten Teil die Hauptprobe von
-                <lb/><persName>Gerhard Hauptmanns</persName> neuem Drama "Iphigenie in Aulis" im Burg-
+                <lb/>
+               <persName>Gerhard Hauptmanns</persName> neuem Drama "Iphigenie in Aulis" im Burg-
                 <lb/>theater gesehen, und so hörten wir darüber in der nächsten Vor-
                 <lb/>lesung zwei Betrachtungen. Es war sehr interessant, und es ent-
                 <lb/>spann sich eine wilde Diskussion, denn die Ansichten der beiden
@@ -1212,7 +1285,8 @@
                  <lb/>griff <persName>Herr Prof. Kindermann</persName> kurz das Wort und dankte allen Pro-
                  <lb/>fessoren und Dozenten, die zu uns gesprochen haben. Dann gab er
                  <lb/>bekannt, daß die Ringvorlesung eine ständige Einrichtung des
-                 <lb/><orgName type="university" subtype="faculty">Zentralinstituts</orgName> werden würde. Während sie sich in diesem Semester
+                 <lb/>
+               <orgName type="university" subtype="faculty">Zentralinstituts</orgName> werden würde. Während sie sich in diesem Semester
                  <lb/>hauptsächlich an die angehenden Kunstbetrachter gewandt
                  <lb/>hat, wird sie im kommenden auf die Dramaturgen und im
                  <lb/>übernächsten auf die Regisseure ausgerichtet sein.</p>
