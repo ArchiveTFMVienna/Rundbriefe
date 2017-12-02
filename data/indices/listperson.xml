@@ -28,11 +28,10 @@
                   <idno type="URL">add some</idno>
                </person>
                <person xml:id="reiter_vicky">
-                  <persName>
+                  <persName ref="https://orcid.org/0000-0002-7903-7353">
                      <surname>Reiter</surname>
                      <forename full="abb">Vicky</forename>
                   </persName>
-                  <idno></idno>
                </person>
                <person xml:id="tiefenbacher_sara">
                   <persName ref="https://orcid.org/0000-0002-6300-4805 ">
@@ -50,6 +49,12 @@
                   <persName ref="https://orcid.org/0000-0002-0791-2323">
                      <surname>Piech</surname>
                      <forename>Janina</forename>
+                  </persName>
+               </person>
+               <person xml:id="kindermann_heinz">
+                  <persName ref="http://d-nb.info/gnd/118562193">
+                     <surname>Kindermann</surname>
+                     <forename>Heinz</forename>
                   </persName>
                </person>
             </listPerson>
