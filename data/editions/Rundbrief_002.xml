@@ -6,14 +6,14 @@
                Theaterwissenschaft an der Universität Wien 1944-45</title>
             <title type="sub">Digitale Edition des 2. Rundbriefs 1943</title>
             <principal>
-               <rs ref="#sara tiefenbacher" type="person">Sara Tiefenbacher</rs>
-               <rs ref="#janina piech" type="person">Janina Piech</rs>
+               <rs ref="#tiefenbacher_sara" type="person">Sara Tiefenbacher</rs>
+               <rs ref="#piech_janina" type="person">Janina Piech</rs>
             </principal>
          </titleStmt>
          <publicationStmt>
             <publisher>
-               <rs ref="#sara tiefenbacher" type="person">Sara Tiefenbacher</rs>
-               <rs ref="#janina piech" type="person">Janina Piech</rs>
+               <rs ref="#tiefenbacher_sara" type="person">Sara Tiefenbacher</rs>
+               <rs ref="#piech_janina" type="person">Janina Piech</rs>
             </publisher>
             <availability>
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
@@ -126,12 +126,12 @@
             die nötige Schlagwortkartei zu erarbeiten, die dann rund 300 000 Zet
             tel umfassen wird.</p>
             <p>Auch die rein wissenschaftlichen Arbeiten des Instituts sind gut
-               vorwärtsgekommen. Der Direktor des <rs type="org" ref="#zentralinstitut">Zentralinstituts<ref target="http://d-nb.info/gnd/10017549-1"/>
-               </rs> hat zusammen
-               mit den beiden Assistentinnen, <persName>Frl. Dietrich<ref target="http://d-nb.info/gnd/119242788"/>
-               </persName> und <persName>Frl. Schiffer</persName>, sowie
-               mit <persName>Herrn Ullrich</persName>, den der <orgName>Verlag Matthiesen</orgName> eigens dem <rs type="org" ref="#zentralinstitut">Zentralinstitut<ref target="http://d-nb.info/gnd/10017549-1"/>
-               </rs> dafür zuteilte, die Grundlage für das künftige Sachwörter
+            vorwärtsgekommen. Der <rs type="person" ref="#kindermann_heinz">Direktor</rs> des <rs type="org" ref="#zentralinstitut">Zentralinstituts
+            </rs> hat zusammen
+            mit den beiden Assistentinnen, <rs type="person" ref="#dietrich_margret">Frl. Dietrich</rs>
+            und <rs type="person" ref="#schiffer_">Frl. Schiffer</rs>, sowie
+            mit <rs type="person" ref="#ullrich_">Herrn Ullrich</rs>, den der <rs type="org" ref="#verlag_matthiesen">Verlag Matthiesen</rs> eigens dem <rs type="org" ref="#zentralinstitut">Zentralinstitut
+            </rs> dafür zuteilte, die Grundlage für das künftige Sachwörter
             buch der Theaterwissenschaft geschaffen, als sie ein rund 1800 Zettel
             umfassendes Stichwörterverzeichnis für die nun zu verfassenden Ar
             tikel des Lexikons erarbeiteten. Bald schon werden diese Themen an

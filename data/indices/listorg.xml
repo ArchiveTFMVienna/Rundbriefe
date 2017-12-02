@@ -25,6 +25,11 @@
                         <orgName type="alt">Zentralinstitut für Theater</orgName>
                         <idno type="URL">http://d-nb.info/gnd/10017549-1</idno>
                     </org>
+                    <org xml:id="verlag_matthiesen">
+                        <orgName>Verlag Matthiesen</orgName>
+                        <orgName type="alt">Matthiesen Verlag</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/1028565046</idno>
+                    </org>
                 </listOrg>
             </p>
         </body>

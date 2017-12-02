@@ -57,6 +57,24 @@
                      <forename>Heinz</forename>
                   </persName>
                </person>
+               <person xml:id="dietrich_margret">
+                  <persName ref="http://d-nb.info/gnd/119242788">
+                     <surname>Dietrich</surname>
+                     <forename>Margret</forename>
+                  </persName>
+               </person>
+               <person xml:id="schiffer_">
+                  <persName>
+                     <surname>Schiffer</surname>
+                     <forename></forename>
+                  </persName>
+               </person>
+               <person xml:id="ullrich_">
+                  <persName>
+                     <surname>Ullrich</surname>
+                     <forename></forename>
+                  </persName>
+               </person>
             </listPerson>
          </p>
       </body>
