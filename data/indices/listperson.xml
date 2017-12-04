@@ -56,8 +56,8 @@
                      <surname>Kindermann</surname>
                      <forename>Heinz</forename>
                      <roleName type="degree" full="abb">Prof.</roleName>
-                     <roleName>Leiter des Zentralinstituts für Theaterwissenschaft der Universität
-                        Wien</roleName>
+                     <roleName>Leiter des <rs>Zentralinstituts für Theaterwissenschaft der Universität
+                        Wien</rs></roleName>
                   </persName>
                </person>
                <person xml:id="dietrich_margret">
@@ -93,11 +93,31 @@
                      <roleName type="degree" full="abb">Prof.</roleName>
                   </persName>
                </person>
+               <person xml:id="waniek_herbert">
+                  <persName ref="http://d-nb.info/gnd/119282879">
+                     <surname>Waniek</surname>
+                     <forename>Herbert</forename>
+                     <roleName>Oberregisseur des <rs>Burgtheaters</rs></roleName>
+                  </persName>
+               </person>
                <person xml:id="niedermoser_">
                   <persName>
                      <surname>Niedermoser</surname>
                      <forename></forename>
                      <roleName type="degree" full="abb">Prof.</roleName>
+                  </persName>
+               </person>
+               <person xml:id="sachs_hans">
+                  <persName ref="http://d-nb.info/gnd/118604597">
+                     <surname>Sachs</surname>
+                     <forename>Hans</forename>
+                     <roleName>Meistersinger</roleName>
+                  </persName>
+               </person>
+               <person xml:id="weinberger_hilde">
+                  <persName>
+                     <surname>Weinberger</surname>
+                     <forename>Hilde</forename>
                   </persName>
                </person>
                <person xml:id="zeckl_a">
@@ -107,6 +127,7 @@
                      <roleName>Fachschaftsleiter</roleName>
                   </persName>
                </person>
+
             </listPerson>
          </p>
       </body>
