@@ -164,13 +164,11 @@
                Rundbrief genau berichten.</p>
             <p>Neu augenommen wurde für einen engen Kreis reifster Studierender ein <hi
                   rend="underline">Arbeitskreis über Prinzi- <pb n="4"/>
-                  <fw type="pageNum">- 4 -</fw>pien der Regie,</hi> den der
-                  <roleName>Oberregisseur</roleName> des <placeName type="building"
-                  >Burgtheaters</placeName>
-               <persName>Herbert Waniek</persName> leitet. Er setzte überaus lebending mit einem
-               köstlichen Regie-Experiment ein und verspricht viel Gutes für unsere
-               Institutsmitglieder. Wir geben im nächsten Rundbrief dann einen Sonderbericht über
-               diesen Arbeiterkreis.</p>
+                  <fw type="pageNum">- 4 -</fw>pien der Regie,</hi> den der 
+               <rs ref="#waniek_herbert" type="person">Oberregisseur des Burgtheaters Herbert Waniek</rs> leitet. 
+               Er setzte überaus lebending mit einem köstlichen
+               Regie-Experiment ein und verspricht viel Gutes für unsere Institutsmitglieder. Wir
+               geben im nächsten Rundbrief dann einen Sonderbericht über diesen Arbeiterkreis.</p>
             <p>Die <hi rend="underline">Ringvorlesung</hi> soll mit Rücksicht auf eine Reihe von
                Studierenden, die augenblicklich in einem kurzfristigen Arbeitseinsatz stehen, erst
                im <date when="--01">Januar</date> beginnen. Doch wurde wenigstens ein Vortrag schon
@@ -186,32 +184,33 @@
                   <roleName>Meistersingers von Nürnberg</roleName>
                <!-- roleName passt eigentlich nicht... --> eine wohlgelungene <hi rend="underline"
                   >Hans-Sachsfeier</hi> am <date when="1944-11-21">21. November 1944</date> statt.Zu
-               Beginn sprach <persName>Hilde <hi rend="underline">Weinberger</hi>
-               </persName> (die bekannte junge <roleName>Vortragskünstlerin</roleName>, die
+               Beginn sprach <rs ref="#weinberger_hilde" type="person">Hilde <hi rend="underline"
+                     >Weinberger</hi> (die bekannte junge Vortragskünstlerin</rs>, die
                   <orgName>unserm Institut</orgName> als Mitglied angehört)
                   <persName>Goethes</persName> Hymus <title>"Hans Sachsens poetische
                   Sendung"</title>. Dann nahm <rs ref="#kindermann_heinz" type="person">Prof. <hi
-                     rend="underline"> Kindermann </hi></rs> das Wort zu seinem Einführungsvortrag
+                     rend="underline">Kindermann</hi></rs> das Wort zu seinem Einführungsvortrag
                über <title>"Hans Sachs und das deutsche Theater"</title>, in dem er etwa
                ausführte:</p>
             <q type="spoken">
                <p>"Nur wenige deutsche Dramatiker können das Recht für sich in Anspruch nehmen, in
                   jedem Sinn Volksdichter gewesen zu sein, also Dichter aus der Mitte des Volkes und
-                  Dichter zugleich für alles Volk. Unter diesen wenigen aber nimmt <persName>Hans
-                     Sachs</persName>, dessen <date type="occasion">450. Geburtstag</date>
+                  Dichter zugleich für alles Volk. Unter diesen wenigen aber nimmt <rs
+                     ref="#sachs_hans" type="person">Hans Sachs</rs>, dessen <date type="occasion"
+                     >450. Geburtstag</date>
                   <pb n="5"/>
                   <fw type="pageNum">- 5 -</fw> wir nun feiern, einen ganz besonderen Ehrenplatz
-                  ein, denn <persName>Hans Sachs</persName> ist ja zudem der einzige Dichter des
-                     <date notBefore="1500" notAfter="1599">16. Jhdts.</date>, der heute noch
-                  volkstümlich ist, der heute noch hundertfach aufgeführt wird. Ja, wenn wir uns
-                  fragen, was denn von einmalig geformter Dichtung (also das Volkslied, Märchen und
-                  Sagen ausgenommen) aus weit zurückliegenden Jahrhunderten heute noch im
-                  Bewusstsein unseres ganzen Volkes, jenseits des blossen Bildungskodex, lebendig
-                  ist und über alle Zwischenzeiten hinüber wirksam blieb, dann erscheint uns
-                     <persName>Hans Sachs</persName> mit seiner köstlich farbensatten Schwank- und
-                  Fastnachtsspiel-Welt fast die weitest zurückliegende Insel voll dauern gültiger
-                  Gestalten und Weisheiten, voll des sprühenden Humors und voll teifer
-                  Menschlichkeit.</p>
+                  ein, denn <rs ref="#sachs_hans" type="person">Hans Sachs</rs> ist ja zudem der
+                  einzige Dichter des <date notBefore="1500" notAfter="1599">16. Jhdts.</date>, der
+                  heute noch volkstümlich ist, der heute noch hundertfach aufgeführt wird. Ja, wenn
+                  wir uns fragen, was denn von einmalig geformter Dichtung (also das Volkslied,
+                  Märchen und Sagen ausgenommen) aus weit zurückliegenden Jahrhunderten heute noch
+                  im Bewusstsein unseres ganzen Volkes, jenseits des blossen Bildungskodex, lebendig
+                  ist und über alle Zwischenzeiten hinüber wirksam blieb, dann erscheint uns <rs
+                     ref="#sachs_hans" type="person">Hans Sachs</rs> mit seiner köstlich
+                  farbensatten Schwank- und Fastnachtsspiel-Welt fast die weitest zurückliegende
+                  Insel voll dauern gültiger Gestalten und Weisheiten, voll des sprühenden Humors
+                  und voll teifer Menschlichkeit.</p>
                <p>Fragen wir uns nach dem Warum dieser beglückenden Dauer inmitten all des
                   flüchtigen Wechsels der Erscheinungen, dann fällt die Antwort nicht ganz so
                   einfach aus, als es im ersten Augenblick anmuten möchte.</p>
@@ -253,9 +252,7 @@
                   Fest</date> wünschen.</p>
             <salute rend="letterspace">Heil Hitler!</salute>
             <signed style="text-align:center">Euer<lb/>
-              <rs ref="#zeckl_a" type="person"> Fachschaftsleiter
-               <lb/>
-               A. Zeckl</rs>
+               <rs ref="#zeckl_a" type="person"> Fachschaftsleiter <lb/> A. Zeckl</rs>
             </signed>
          </div>
       </body>
