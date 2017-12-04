@@ -3,7 +3,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>ListPerson</title>
@@ -15,8 +15,8 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
-  <text>
+   </teiHeader>
+   <text>
       <body>
          <p>
             <listPerson xml:id="listperson">
@@ -55,6 +55,9 @@
                   <persName ref="http://d-nb.info/gnd/118562193">
                      <surname>Kindermann</surname>
                      <forename>Heinz</forename>
+                     <roleName type="degree" full="abb">Prof.</roleName>
+                     <roleName>Leiter des Zentralinstituts für Theaterwissenschaft der Universität
+                        Wien</roleName>
                   </persName>
                </person>
                <person xml:id="dietrich_margret">
@@ -66,17 +69,46 @@
                <person xml:id="schiffer_">
                   <persName>
                      <surname>Schiffer</surname>
-                     <forename></forename>
+                     <forename/>
                   </persName>
                </person>
                <person xml:id="ullrich_">
                   <persName>
                      <surname>Ullrich</surname>
+                     <forename/>
+                  </persName>
+               </person>
+               <person xml:id="börge_">
+                  <persName>
+                     <surname>Börge</surname>
+                     <forename/>
+                     <roleName>Dozent</roleName>
+                     <roleName type="degree" full="abb">Dr.</roleName>
+                  </persName>
+               </person>
+               <person xml:id="niederführ_">
+                  <persName>
+                     <surname>Niederführ</surname>
+                     <forename/>
+                     <roleName type="degree" full="abb">Prof.</roleName>
+                  </persName>
+               </person>
+               <person xml:id="niedermoser_">
+                  <persName>
+                     <surname>Niedermoser</surname>
                      <forename></forename>
+                     <roleName type="degree" full="abb">Prof.</roleName>
+                  </persName>
+               </person>
+               <person xml:id="zeckl_a">
+                  <persName>
+                     <surname>Zeckl</surname>
+                     <forename>A</forename>
+                     <roleName>Fachschaftsleiter</roleName>
                   </persName>
                </person>
             </listPerson>
          </p>
       </body>
-  </text>
+   </text>
 </TEI>
