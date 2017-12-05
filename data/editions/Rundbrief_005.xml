@@ -75,7 +75,7 @@
             <num>No. 5</num> erscheint jährlich viermal</head>
          <div type="letter" n="1">
             <salute>Liebe Kameraden !</salute>
-            <p>Bald wird es <date when="--12-24" type="holiday" subtype="christmas"
+            <p>Bald wird es <date when="1944-12-24" type="holiday" subtype="christmas"
                   >Weihnachten</date>. Da wandern unsere Gedanken wieder besonders herzlich zu
                <!-- Lösung für Einzug d. 1. Zeile? --> Euch allen hinaus. Viele von Euch haben in
                ihren Antworten auf unseren letzten Rundbrief voll freundlicher Sorge gefragt, ob
@@ -121,7 +121,7 @@
                Selbsthilfe unserer Assistentinnen und Studierenden zum grössten Teil wieder behoben.
                Auch das <placeName type="building">Burgtheater</placeName> und die <placeName
                   type="building">Staatsoper</placeName> stehen noch unversehrt. <date
-                  when="1944-11-12">(12.XII.1944)</date>
+                  when="1944-12-12">(12.XII.1944)</date>
             </p>
             <p>Sehr herzlich begrüssen wir nun alle die neu hinzugekommenen Fernbetreuten - die an
                der Front und die in der Rüstung - und bitten sie, sich unserm Kreis so eng
@@ -164,15 +164,15 @@
                Rundbrief genau berichten.</p>
             <p>Neu augenommen wurde für einen engen Kreis reifster Studierender ein <hi
                   rend="underline">Arbeitskreis über Prinzi- <pb n="4"/>
-                  <fw type="pageNum">- 4 -</fw>pien der Regie,</hi> den der 
-               <rs ref="#waniek_herbert" type="person">Oberregisseur des Burgtheaters Herbert Waniek</rs> leitet. 
-               Er setzte überaus lebending mit einem köstlichen
+                  <fw type="pageNum">- 4 -</fw>pien der Regie,</hi> den der <rs
+                  ref="#waniek_herbert" type="person">Oberregisseur des Burgtheaters Herbert
+                  Waniek</rs> leitet. Er setzte überaus lebending mit einem köstlichen
                Regie-Experiment ein und verspricht viel Gutes für unsere Institutsmitglieder. Wir
                geben im nächsten Rundbrief dann einen Sonderbericht über diesen Arbeiterkreis.</p>
             <p>Die <hi rend="underline">Ringvorlesung</hi> soll mit Rücksicht auf eine Reihe von
                Studierenden, die augenblicklich in einem kurzfristigen Arbeitseinsatz stehen, erst
-               im <date when="--01">Januar</date> beginnen. Doch wurde wenigstens ein Vortrag schon
-               vorweggenommen, der zugleich als Sonderveranstaltung galt, ein Vortrag von dem
+               im <date when="1944-01">Januar</date> beginnen. Doch wurde wenigstens ein Vortrag
+               schon vorweggenommen, der zugleich als Sonderveranstaltung galt, ein Vortrag von dem
                bekannten <roleName>Bühnenbildner</roleName>
                <rs ref="#niedermoser_" type="person">Prof. <hi rend="underline"
                   >Niedermoser</hi></rs> (<orgName type="university">Reichshochschule für angewandte
@@ -187,11 +187,10 @@
                Beginn sprach <rs ref="#weinberger_hilde" type="person">Hilde <hi rend="underline"
                      >Weinberger</hi> (die bekannte junge Vortragskünstlerin</rs>, die
                   <orgName>unserm Institut</orgName> als Mitglied angehört)
-                  <persName>Goethes</persName> Hymus <title>"Hans Sachsens poetische
-                  Sendung"</title>. Dann nahm <rs ref="#kindermann_heinz" type="person">Prof. <hi
-                     rend="underline">Kindermann</hi></rs> das Wort zu seinem Einführungsvortrag
-               über <title>"Hans Sachs und das deutsche Theater"</title>, in dem er etwa
-               ausführte:</p>
+                  <persName>Goethes</persName> Hymus "Hans Sachsens poetische Sendung". Dann nahm
+                  <rs ref="#kindermann_heinz" type="person">Prof. <hi rend="underline"
+                     >Kindermann</hi></rs> das Wort zu seinem Einführungsvortrag über "Hans Sachs
+               und das deutsche Theater", in dem er etwa ausführte:</p>
             <q type="spoken">
                <p>"Nur wenige deutsche Dramatiker können das Recht für sich in Anspruch nehmen, in
                   jedem Sinn Volksdichter gewesen zu sein, also Dichter aus der Mitte des Volkes und
@@ -248,8 +247,7 @@
                bin jedoch nach wie vor bemühr <!-- sic - das wurde wohl nicht korrigiert -->, diese
                Schwierigkeiten zu überbrücken, nur bitte ich Euch um Verständnis.</p>
             <p>Liebe Kameraden! Ich möchte Euch, so weit es uns die momentan schwere Kampfphase
-               ermöglicht, trotzdem ein recht <date type="occasion" subtype="christmas">frohes
-                  Fest</date> wünschen.</p>
+               ermöglicht, trotzdem ein recht frohes Fest wünschen.</p>
             <salute rend="letterspace">Heil Hitler!</salute>
             <signed style="text-align:center">Euer<lb/>
                <rs ref="#zeckl_a" type="person"> Fachschaftsleiter <lb/> A. Zeckl</rs>
