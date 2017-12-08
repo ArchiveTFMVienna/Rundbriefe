@@ -121,7 +121,7 @@
             allem aber werden dadurch viele Reisen in die betreffenden Städte
             erspart.</p>
             <p>Dank einer Stiftung der <orgName>Gesellschaft für Wiener Theater
-            geschichte</orgName> können nun unter der Leitung von <persName>Frl. Dr. Zirnig</persName> gleich
+            geschichte</orgName> können nun unter der Leitung von <rs type="person" ref="#zirnig_margarete">Frl. Dr. Zirnig</rs> gleich
             einige geschulte Fachkräfte angesetzt werden, um zu diesem Archiv
             die nötige Schlagwortkartei zu erarbeiten, die dann rund 300 000 Zet
             tel umfassen wird.</p>
@@ -129,7 +129,7 @@
             vorwärtsgekommen. Der <rs type="person" ref="#kindermann_heinz">Direktor</rs> des <rs type="org" ref="#zentralinstitut">Zentralinstituts
             </rs> hat zusammen
             mit den beiden Assistentinnen, <rs type="person" ref="#dietrich_margret">Frl. Dietrich</rs>
-            und <rs type="person" ref="#schiffer_">Frl. Schiffer</rs>, sowie
+            und <rs type="person" ref="#schiffer_gustave">Frl. Schiffer</rs>, sowie
             mit <rs type="person" ref="#ullrich_">Herrn Ullrich</rs>, den der <rs type="org" ref="#verlag_matthiesen">Verlag Matthiesen</rs> eigens dem <rs type="org" ref="#zentralinstitut">Zentralinstitut
             </rs> dafür zuteilte, die Grundlage für das künftige Sachwörter
             buch der Theaterwissenschaft geschaffen, als sie ein rund 1800 Zettel
@@ -137,7 +137,12 @@
             tikel des Lexikons erarbeiteten. Bald schon werden diese Themen an
             entsprechende Spezialbearbeiter verteilt werden, so daß mit dem
             Eingang der Manuskripte Ende <date>1944</date> zu rechnen ist.</p>
-            <p>Der mittlere Band der </p>
+            <p>Der mittlere Band der Theatergeschichte des deutschen Volkes
+            "Das Nationaltheater des deutschen Volkes" von <rs type="person" ref="#kindermann_heinz">Prof. Dr. Kinder
+             mann</rs> ist im Fahnensatz fertig. Er wird nun eben illustriert. Wir
+               hoffen, daß es im Frühjahr oder Sommer <date>1944</date> im <rs type="org" ref="#propyläenverlag">Propyläenverlag</rs>,
+            <geogName>Berlin</geogName>, Kochstraße, erscheint.
+            </p>
           
          </div>
       </body>

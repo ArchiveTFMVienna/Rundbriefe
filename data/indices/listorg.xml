@@ -30,6 +30,11 @@
                         <orgName type="alt">Matthiesen Verlag</orgName>
                         <idno type="URL">http://d-nb.info/gnd/1028565046</idno>
                     </org>
+                    <org xml:id="propyläenverlag">
+                        <orgName>Propyläenverlag</orgName>
+                        <orgName type="alt">Propyläen-Verlag</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/39569-9</idno>
+                    </org>
                 </listOrg>
             </p>
         </body>

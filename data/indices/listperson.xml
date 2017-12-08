@@ -66,10 +66,10 @@
                      <forename>Margret</forename>
                   </persName>
                </person>
-               <person xml:id="schiffer_">
-                  <persName>
+               <person xml:id="schiffer_gustave">
+                  <persName ref="http://d-nb.info/gnd/106534785">
                      <surname>Schiffer</surname>
-                     <forename/>
+                     <forename>Gustave</forename>
                   </persName>
                </person>
                <person xml:id="ullrich_">
@@ -125,6 +125,13 @@
                      <surname>Zeckl</surname>
                      <forename>A</forename>
                      <roleName>Fachschaftsleiter</roleName>
+                  </persName>
+               </person>
+               <person xml:id="zirnig_margarete">
+                  <persName ref="http://d-nb.info/gnd/127562753">
+                     <surname>Zirnig</surname>
+                     <forename>Margarete</forename>
+                     <roleName type="degree" full="abb">Dr.</roleName>
                   </persName>
                </person>
 
