@@ -35,6 +35,24 @@
                         <orgName type="alt">Propyläen-Verlag</orgName>
                         <idno type="URL">http://d-nb.info/gnd/39569-9</idno>
                     </org>
+                    <org xml:id="verlag_frick">
+                        <orgName>Verlag Frick</orgName>
+                        <orgName type="alt">FRICK Verlag-GmbH</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/1065494858</idno>
+                    </org>
+                    <org xml:id="wiener_verlag">
+                        <orgName>Wiener Verlag</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/10074501-5</idno>
+                    </org>
+                    <org xml:id="gesellschaft_für_wiener_theatergeschichte">
+                        <orgName>Gesellschaft für Wiener Theatergeschichte</orgName>
+                        <idno type="URL"></idno>
+                    </org>
+                    <org xml:id="stadtbibliothek">
+                        <orgName>Stadtbibliothek</orgName>
+                        <orgName type="alt">Wiener Stadtbibliothek</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/2026851-8</idno>
+                    </org>
                 </listOrg>
             </p>
         </body>

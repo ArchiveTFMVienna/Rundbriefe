@@ -75,8 +75,8 @@
          <div type="letter" n="1">
             <salute>Liebe Kameraden!</salute>
             <p>Seit wir Euch den ersten Rundbrief <ref target="http://d-nb.info/02158866X"/> sandten, ist in unserem
-               <rs type="org" ref="#zentralinstitut">Zentralinstitut<ref target="http://d-nb.info/gnd/10017549-1"/>
-               </rs> viel Arbeit geleistet worden. Wir tun sie aber gerne,
+               <rs type="org" ref="#zentralinstitut">Zentralinstitut</rs> 
+               viel Arbeit geleistet worden. Wir tun sie aber gerne,
                weil wir wissen, daß all das eines Tages Euch zugute kommen wird,
                wenn Ihr wieder heimkehrt. Dieser Gedanke macht uns all das
                kriegsbedingte Schwere und Mühevolle leicht. Da wir aus Euren
@@ -85,17 +85,17 @@
                daß wir Euch vorerst berichten, was wir dafür vorbereiten konnten.
                Zuerst fanden sich in den Sommerferien etwa zehn Studentinnen im
                Arbeitseinsatz in unserem Institut ein und führten unter der Leitung
-               von Frl. Meyer den Verfasserkatalog der immer größer werdenden
+               von <rs type="person" ref="#meyer_ruth">Frl. Meyer</rs> den Verfasserkatalog der immer größer werdenden
                Bücherei zu Ende. Dazu soll nun aber noch ein möglichst ins Ein
                zelne gehender Schlagwortkatalog treten, damit unsere Bibliothek
                vielseitig und ohne viel Suchen benutzbar ist.</p>
             <p>Unsere Bücherbestände wurden indes außerordentlich bereichert.
                Zu der im ersten Rundbrief <ref target="http://d-nb.info/02158866X"/> erwähnten Buschbibliothek, einer thea
-               tergeschichtlichen Leihgabe der Stadt Münster, im Umlauf von
+               tergeschichtlichen Leihgabe der Stadt <geogName>Münster</geogName>, im Umlauf von
                3000 Bänden kam nun allmählich ein Eigenbesitz von bisher
                7000 Bänden. Gerade in diesen Tagen konnten wir überdies aus
                einem <geogName>
-                  <geogFeat>alpen</geogFeat>ländischen</geogName> Schloß eine kostbare Bibliothek von
+               <geogFeat>alpen</geogFeat>ländischen</geogName> Schloß eine kostbare Bibliothek von
                2500 Dramentexten (Spielbüchern) aus der Zeit <date notBefore="1770-01-01" notAfter="1830-12-31">von 1770 bis 1830</date>
                dazu erwerben, so daß unser Eigenbesitz bald schon 10 000 Bände
                erreicht.</p>
@@ -105,23 +105,23 @@
             sammen.</p>
             <p>Die wichtigste Erwerbung aber, die bald schon ein Anziehungs
             punkt für viele Forscher und Dissertanten sein wird, ist das "Theater-
-            archiv Leuschke". Der heute 72-jährige Prof. <persName>Prof. Leuschke</persName> 
-               <geogName>(Dresden)</geogName> hat
+            archiv Leuschke". Der heute 72-jährige <rs type="person" ref="#leuschke_">Prof. Leuschke</rs> 
+            <geogName>(Dresden)</geogName> hat
             in mehr als 50-jähriger Arbeit über 60000 Theaterkritiken, Schau
             spielerbiographien und Nekrologe aus Zeitungen und Zeitschriften
             von <date notBefore="1800-01-01" notAfter="1943-12-31">1800 bis 1943</date> gesammelt und wissenschaftlich genau beschriftet.
             Dieses Theaterarchiv Leuschke wurde nun dankenswerterweise von</p>
                    
             <pb n="2"/>
-            <p>der Stadt <geogName>Wien</geogName> für die <orgName>Stadtbibliothek</orgName> erworben, jedoch dem <orgName>Zen-
-           tralinstitut für Theaterwissenschaft</orgName> als Dauerleihgabe übergeben.
+            <p>der Stadt <geogName>Wien</geogName> für die <rs type="org" ref="#stadtbibliothek">Stadtbibliothek</rs> erworben, jedoch dem <rs type="org" ref="#zentralinstitut">Zen-
+           tralinstitut für Theaterwissenschaft</rs> als Dauerleihgabe übergeben.
             Hier wird es von nun an der gesamten <geogName>europäischen</geogName> Forschung, vor
             allem aber Euch dann bei Euerer Arbeit zur Verfügung stehen. Das
             darin enthaltene Quellenmaterial ist unheimlich groß und reich. Vor
             allem aber werden dadurch viele Reisen in die betreffenden Städte
             erspart.</p>
-            <p>Dank einer Stiftung der <orgName>Gesellschaft für Wiener Theater
-            geschichte</orgName> können nun unter der Leitung von <rs type="person" ref="#zirnig_margarete">Frl. Dr. Zirnig</rs> gleich
+            <p>Dank einer Stiftung der <rs type="org" ref="#gesellschaft_für_wiener_theatergeschichte">Gesellschaft für Wiener Theater
+            geschichte</rs> können nun unter der Leitung von <rs type="person" ref="#zirnig_margarete">Frl. Dr. Zirnig</rs> gleich
             einige geschulte Fachkräfte angesetzt werden, um zu diesem Archiv
             die nötige Schlagwortkartei zu erarbeiten, die dann rund 300 000 Zet
             tel umfassen wird.</p>
@@ -133,16 +133,22 @@
             mit <rs type="person" ref="#ullrich_">Herrn Ullrich</rs>, den der <rs type="org" ref="#verlag_matthiesen">Verlag Matthiesen</rs> eigens dem <rs type="org" ref="#zentralinstitut">Zentralinstitut
             </rs> dafür zuteilte, die Grundlage für das künftige Sachwörter
             buch der Theaterwissenschaft geschaffen, als sie ein rund 1800 Zettel
-            umfassendes Stichwörterverzeichnis für die nun zu verfassenden Ar
-            tikel des Lexikons erarbeiteten. Bald schon werden diese Themen an
+            umfassendes Stichwörterverzeichnis für die nun zu verfassenden Artikel
+            des Lexikons erarbeiteten. Bald schon werden diese Themen an
             entsprechende Spezialbearbeiter verteilt werden, so daß mit dem
             Eingang der Manuskripte Ende <date>1944</date> zu rechnen ist.</p>
             <p>Der mittlere Band der Theatergeschichte des deutschen Volkes
             "Das Nationaltheater des deutschen Volkes" von <rs type="person" ref="#kindermann_heinz">Prof. Dr. Kinder
              mann</rs> ist im Fahnensatz fertig. Er wird nun eben illustriert. Wir
-               hoffen, daß es im Frühjahr oder Sommer <date>1944</date> im <rs type="org" ref="#propyläenverlag">Propyläenverlag</rs>,
-            <geogName>Berlin</geogName>, Kochstraße, erscheint.
-            </p>
+             hoffen, daß es im Frühjahr oder Sommer <date>1944</date> im <rs type="org" ref="#propyläenverlag">Propyläenverlag</rs>,
+             <geogName>Berlin</geogName>, Kochstraße, erscheint. Jüngst erschien <rs type="person" ref="#kindermann_heinz">Prof. Dr. Kindermann</rs>
+             Abhandlung "Hebbel und das Wiener Theater seiner Zeit" im <rs type="org" ref="#verlag_frick">Verlag Frick</rs>, <geogName>Wien</geogName>, I., Graben.
+             Im <rs type="org" ref="#verlag_frick">gleichen Verlag</rs> wird zu <date when="1943-12-25">Weihnachten</date> in ähnlicher bebilderter Ausstattung seine Abhandlung
+             "Hölderlin und das deutsche Theater" herauskommen. Endlich ist auch die Neuauflage von <rs type="person" ref="#kindermann_heinz">Kindermanns</rs> Biographie über den Wiener
+             Volksdramatiker und Volksdarsteller <rs type="person" ref="#raimund_ferdinand">Ferdinand Raimund</rs> im <rs type="org" ref="#wiener_verlag">Wiener
+             Verlag</rs>, Wien, XII., Niederhofstraße 57, erschienen. Dort wird im
+               <date when="1944-01">Januar</date> auch eine Neuauflage von <rs type="person" ref="#kindermann_heinz">Kindermanns</rs> "Geschichte des
+             Burgtheaters" erscheinen.</p>
           
          </div>
       </body>

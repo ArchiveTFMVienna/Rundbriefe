@@ -134,6 +134,27 @@
                      <roleName type="degree" full="abb">Dr.</roleName>
                   </persName>
                </person>
+               <person xml:id="raimund_ferdinand">
+                  <persName ref="http://d-nb.info/gnd/118597914">
+                     <surname>Raimund</surname>
+                     <forename>Ferdinand</forename>
+                     <roleName>Volksdramatiker</roleName>
+                  </persName>
+               </person>
+               <person xml:id="leuschke_">
+                  <persName>
+                     <surname>Leuschke</surname>
+                     <forename></forename>
+                     <roleName type="degree" full="abb">Prof.</roleName>
+                  </persName>
+               </person>
+               <person xml:id="meyer_ruth">
+                  <persName ref="http://d-nb.info/gnd/1056621966">
+                     <surname>Meyer</surname>
+                     <forename>Ruth</forename>
+                     <roleName>Diplom Bibliothekarin</roleName>
+                  </persName>
+               </person>
 
             </listPerson>
          </p>
