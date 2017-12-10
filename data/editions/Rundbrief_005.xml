@@ -60,6 +60,11 @@
                <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be
                   found</fallback>
             </xi:include>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listwork.xml"
+               xpointer="listwork">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be
+                  found</fallback>
+            </xi:include>
          </p>
       </encodingDesc>
    </teiHeader>
