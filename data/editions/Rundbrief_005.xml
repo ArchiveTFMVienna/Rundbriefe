@@ -73,7 +73,7 @@
          <pb n="1"/>
          <head type="main" style="text-align:center" rend="underline">Rundbrief</head>
          <!-- underline stimmt ned ganz, weil nicht durchgängig unterstrichen -->
-         <head type="sub" style="text-align:center">des Zentralinstituts für Theaterwissenschaft an
+         <head type="sub" style="text-align:center">des <rs ref="#zentralinstitut">Zentralinstituts für Theaterwissenschaft</rs> an
             der Universität <hi rend="letterspace">Wien</hi>.</head>
          <head type="sub">
             <date when="1944-12">Dezember 1944.</date>
@@ -84,7 +84,7 @@
                   >Weihnachten</date>. Da wandern unsere Gedanken wieder besonders herzlich zu
                <!-- Lösung für Einzug d. 1. Zeile? --> Euch allen hinaus. Viele von Euch haben in
                ihren Antworten auf unseren letzten Rundbrief voll freundlicher Sorge gefragt, ob
-               unser <orgName type="university" subtype="department">Zentralinstitut</orgName> vom
+               unser <rs ref="#zentralinstitut" type="org">Zentralinstitut</rs> vom
                totalen Kriegseinsatz schwerer betroffen wurde. Natürlich haben auch wir unseren
                Tribut geleistet. Da aber die <orgName type="university" subtype="faculty"
                   >Philosophische Fakutltät</orgName> der <orgName type="university">Wiener
@@ -94,7 +94,7 @@
             <p>Die Zahl unserer Institutsmitglieder ist freilich viel kleiner geworden. Die jungen
                und mittleren Semester sind zum grossen Teil in den Rüstungseinsatz gegangen.
                Verblieben sind, gemäss den Richtlinien des
-                  <orgName>Reichserziehungsministeriums</orgName>, die Examenskandidaten, die bis
+                  <rs ref="#reichserziehungsministerium" type="org">Reichserziehungsministeriums</rs>, die Examenskandidaten, die bis
                zum <date when="1944-05-01">1. Mai 1945</date> ihre Doktorexamina abzuschliessen
                vermögen, die Versehrten, die überhaupt weiterstudieren dürfen, die Rekonvaleszenten
                unter den Wehrdienstpflichtigen, die etwa für mehrere Monate in Lazarettbehandlung
@@ -115,9 +115,8 @@
             <p>Viele von den Fernbetreuten - und ihre Anzahl ist indessen auf <num type="cardinal"
                   >399</num> gestiegen, weil nach einem Erlass des
                   <roleName>Reichserziehungsministers</roleName> auch die zum Rüstungseinsatz
-               Einberufenen fernbetreut werden sollen - fragten bei uns an, ob <orgName>unser
-                  Institut</orgName> bei den Luftangriffen auf <placeName type="city"
-                  >Wien</placeName> Schaden genommen habe. Gottlob ist das bisher nicht in
+               Einberufenen fernbetreut werden sollen - fragten bei uns an, ob <rs ref="#zentralinstitut" type="org">unser
+                  Institut</rs> bei den Luftangriffen auf <rs ref="#wien" type="place">Wien</rs> Schaden genommen habe. Gottlob ist das bisher nicht in
                erheblichem Masse der Fall gewesen. Am <date when="1944-09-10">10. September
                   1944</date> waren freilich zwei schwere Bomben auf den altehrwürdigen <placeName
                   type="square">Michaelerplatz</placeName>, dicht vor unseren Fenstern,
@@ -138,39 +137,39 @@
                <fw type="pageNum">- 3 -</fw> bei ihrer Wiederkehr dort wieder beginnen können, wo
                sie einmal aufhören mussten.</p>
             <p>In diesem <date>Wintersemester 1944/45</date> hält <hi rend="underline">
-                  <rs ref="#kindermann_heinz" type="person">Prof. Kindermann</rs>
+                  <rs ref="#kindermann_heinz" type="person" subtype="acting">Prof. Kindermann</rs>
                </hi> ein dreistündiges Hauptkolleg über <hi rend="underline">"Das deutsche und
                   europäische Barockheater"</hi>. Im Proseminar wird diesmal die <hi
                   rend="underline">Geschichte des Bühnenbildes</hi> in einer Reihe von Referaten
                durchgearbeitet, die vom Theater der griechischen Antike bis zum deutschen
                Gegenwartstheater führen. Und im Hauptseminar gelten die Referate dem <hi
                   rend="underline">Wesen und der Geschichte der Dramaturgie</hi>, wobei ebenfalls
-               die Entwicklungslinien von <persName>Aristoteles</persName> bis zu den allerjüngsten
+               die Entwicklungslinien von <rs ref="#aristoteles" type="person" subtype="mentioned">Aristoteles</rs> bis zu den allerjüngsten
                dramaturgischen Bemühungen gezogen werden. Wir werden Euch dann im nächsten
                Rundbrief, zu <date>Semesterende</date>, genauere Berichte und Inhaltsangaben über
                den Verlauf des Hauptkollegs und der Seminare vorlegen.</p>
             <p>
-               <rs ref="#börge_" type="person">Dozent Dr. Börge </rs>hält diesmal sein
+               <rs ref="#börge_" type="person" subtype="acting">Dozent Dr. Börge </rs>hält diesmal sein
                dramaturgisches Kolloquium über <hi rend="underline">"Rollenpsychologie"</hi>.
                Daneben hält er ein filmkundliches Kolloqium über den <hi rend="underline">"Film als
                   Gesamtkunstwerk"</hi>. Dazu kommt seine einstündige Vorlesung über <hi
                   rend="underline">"Die Bühnengestalt der klassischen Hauptwerke des deutschen
                   Spielplans".</hi> Es handelt sich um eine zyklische Vorlesung deren erster Teil in
-               diesem Semester mit der Entwicklung von <persName>Kalidasa</persName> bis
-                  <persName>Shakespeare</persName> befasst ist.</p>
+               diesem Semester mit der Entwicklung von <rs ref="#kalidasa" type="person" subtype="mentioned">Kalidasa</rs> bis
+                  <rs ref="#shakespeare_william" type="person" subtype="mentioned">Shakespeare</rs> befasst ist.</p>
             <p>
                <hi rend="underline">
-                  <rs ref="#niederführ_" type="person">Prof. Niederführ</rs>
+                  <rs ref="#niederführ_" type="person" subtype="acting">Prof. Niederführ</rs>
                </hi> widmete sein in zwei Stufen durchgeführtes Kolloquium über praktische
                Bühnenkunde diesmal Problemen der <hi rend="underline">Regiebuch-Gestaltung und</hi>
                des <hi rend="underline">Spielplan - Aufbaues.</hi> Auch über den Verlauf der
-               Vorlesungen und Uebungen von <rs ref="#börge_" type="person">Dozent Börge</rs> und
-                  <rs ref="#niederführ_" type="person">Prof. Niederführ</rs> werden wir im nächsten
+               Vorlesungen und Uebungen von <rs ref="#börge_" type="person" subtype="acting">Dozent Börge</rs> und
+                  <rs ref="#niederführ_" type="person" subtype="mentioned">Prof. Niederführ</rs> werden wir im nächsten
                Rundbrief genau berichten.</p>
             <p>Neu augenommen wurde für einen engen Kreis reifster Studierender ein <hi
                   rend="underline">Arbeitskreis über Prinzi- <pb n="4"/>
                   <fw type="pageNum">- 4 -</fw>pien der Regie,</hi> den der <rs
-                  ref="#waniek_herbert" type="person">Oberregisseur des Burgtheaters Herbert
+                  ref="#waniek_herbert" type="person" subtype="acting">Oberregisseur des Burgtheaters Herbert
                   Waniek</rs> leitet. Er setzte überaus lebending mit einem köstlichen
                Regie-Experiment ein und verspricht viel Gutes für unsere Institutsmitglieder. Wir
                geben im nächsten Rundbrief dann einen Sonderbericht über diesen Arbeiterkreis.</p>
@@ -179,7 +178,7 @@
                im <date when="1944-01">Januar</date> beginnen. Doch wurde wenigstens ein Vortrag
                schon vorweggenommen, der zugleich als Sonderveranstaltung galt, ein Vortrag von dem
                bekannten <roleName>Bühnenbildner</roleName>
-               <rs ref="#niedermoser_" type="person">Prof. <hi rend="underline"
+               <rs ref="#niedermoser_" type="person" subtype="acting">Prof. <hi rend="underline"
                   >Niedermoser</hi></rs> (<orgName type="university">Reichshochschule für angewandte
                   Kunst</orgName>), von dem unten gleich genauer die Rede sein wird.</p>
             <p>Unsere besonderen Veranstaltungen werden nun, im Zeichen des totalen Kriegseinsatzes,
@@ -189,29 +188,29 @@
                   <roleName>Meistersingers von Nürnberg</roleName>
                <!-- roleName passt eigentlich nicht... --> eine wohlgelungene <hi rend="underline"
                   >Hans-Sachsfeier</hi> am <date when="1944-11-21">21. November 1944</date> statt.Zu
-               Beginn sprach <rs ref="#weinberger_hilde" type="person">Hilde <hi rend="underline"
+               Beginn sprach <rs ref="#weinberger_hilde" type="person" subtype="acting">Hilde <hi rend="underline"
                      >Weinberger</hi> (die bekannte junge Vortragskünstlerin</rs>, die
-                  <orgName>unserm Institut</orgName> als Mitglied angehört)
-                  <persName>Goethes</persName> Hymus "Hans Sachsens poetische Sendung". Dann nahm
-                  <rs ref="#kindermann_heinz" type="person">Prof. <hi rend="underline"
+                  <rs ref="#zentralinstitut" type="org">unserm Institut</rs> als Mitglied angehört)
+                  <rs ref="#goethe_johann" type="person" subtype="mentioned">Goethes</rs> Hymus "Hans Sachsens poetische Sendung". Dann nahm
+                  <rs ref="#kindermann_heinz" type="person" subtype="acting">Prof. <hi rend="underline"
                      >Kindermann</hi></rs> das Wort zu seinem Einführungsvortrag über "Hans Sachs
                und das deutsche Theater", in dem er etwa ausführte:</p>
             <q type="spoken">
                <p>"Nur wenige deutsche Dramatiker können das Recht für sich in Anspruch nehmen, in
                   jedem Sinn Volksdichter gewesen zu sein, also Dichter aus der Mitte des Volkes und
                   Dichter zugleich für alles Volk. Unter diesen wenigen aber nimmt <rs
-                     ref="#sachs_hans" type="person">Hans Sachs</rs>, dessen <date type="occasion"
+                     ref="#sachs_hans" type="person" subtype="mentioned">Hans Sachs</rs>, dessen <date type="occasion"
                      >450. Geburtstag</date>
                   <pb n="5"/>
                   <fw type="pageNum">- 5 -</fw> wir nun feiern, einen ganz besonderen Ehrenplatz
-                  ein, denn <rs ref="#sachs_hans" type="person">Hans Sachs</rs> ist ja zudem der
+                  ein, denn <rs ref="#sachs_hans" type="person" subtype="mentioned">Hans Sachs</rs> ist ja zudem der
                   einzige Dichter des <date notBefore="1500" notAfter="1599">16. Jhdts.</date>, der
                   heute noch volkstümlich ist, der heute noch hundertfach aufgeführt wird. Ja, wenn
                   wir uns fragen, was denn von einmalig geformter Dichtung (also das Volkslied,
                   Märchen und Sagen ausgenommen) aus weit zurückliegenden Jahrhunderten heute noch
                   im Bewusstsein unseres ganzen Volkes, jenseits des blossen Bildungskodex, lebendig
                   ist und über alle Zwischenzeiten hinüber wirksam blieb, dann erscheint uns <rs
-                     ref="#sachs_hans" type="person">Hans Sachs</rs> mit seiner köstlich
+                     ref="#sachs_hans" type="person" subtype="mentioned">Hans Sachs</rs> mit seiner köstlich
                   farbensatten Schwank- und Fastnachtsspiel-Welt fast die weitest zurückliegende
                   Insel voll dauern gültiger Gestalten und Weisheiten, voll des sprühenden Humors
                   und voll teifer Menschlichkeit.</p>
@@ -241,7 +240,7 @@
                Dichtungen der deutschen Klassiker die in Form von Lesungen abgehalten werden. Im
                Rahmen dieser Lesungen können sich die Kollegen der Theaterwissenschaft betätigen,
                die gleichzeitig auch die Schauspiellaufbahn einschlagen wollen. Es ist zwar nur ein
-               kleiner Ausgleich, aber schon die erste Lesung (<persName>Grillparzer</persName> -
+               kleiner Ausgleich, aber schon die erste Lesung (<rs ref="#grillparzer_franz" type="person" subtype="mentioned">Grillparzer</rs> -
                Abend) hat bewiesen, welche Freude und Anregung uns die Gestaltung dieser Lesung
                geben kann.</p>
             <p>Nun bitte ich Euch, liebe Kameraden, nicht ungehalten zu sein, dass ich mit dem
