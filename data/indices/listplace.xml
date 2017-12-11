@@ -19,12 +19,19 @@
   <text>
       <body>
          <listPlace xml:id="listplace">
-            <place xml:id="placename">
+            <place xml:id="linz" type="city">
                <placeName>Linz</placeName>
                <location>
                   <geo decls="#LatLng">48.30639 14.28611</geo>
                </location>
                <idno type="URL">http://www.geonames.org/2772400</idno>
+            </place>
+            <place xml:id="wien" type="city">
+               <placeName>Wien</placeName>
+               <location>
+                  <geo decls="#LatLng">48.20849 16.37208</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2761369</idno>
             </place>
          </listPlace>
       </body>
