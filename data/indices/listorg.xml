@@ -22,8 +22,12 @@
                 <listOrg xml:id="listorg">
                     <org xml:id="zentralinstitut">
                         <orgName>Zentralinstitut</orgName>
-                        <orgName type="alt">Zentralinstitut für Theater</orgName>
+                        <orgName type="alt">Zentralinstitut für Theaterwissenschaft</orgName>
                         <idno type="URL">http://d-nb.info/gnd/10017549-1</idno>
+                    </org>
+                    <org xml:id="reichserziehungsministerium">
+                        <orgName>Reichsministerium für Wissenschaft, Erziehung und Volksbildung</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/4357021-5</idno>
                     </org>
                     <org xml:id="verlag_matthiesen">
                         <orgName>Verlag Matthiesen</orgName>
