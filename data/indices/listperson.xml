@@ -120,6 +120,13 @@
                      <forename>Hilde</forename>
                   </persName>
                </person>
+               <person xml:id="grillparzer_franz">
+                  <persName>
+                     <surname>Grillparzer</surname>
+                     <forename>Franz</forename>
+                     <idno type="URL">http://d-nb.info/gnd/118542192</idno>
+                  </persName>
+               </person>
                <person xml:id="zeckl_a">
                   <persName>
                      <surname>Zeckl</surname>
@@ -155,7 +162,40 @@
                      <roleName>Diplom Bibliothekarin</roleName>
                   </persName>
                </person>
-
+               <person xml:id="aristoteles">
+                  <persName>
+                     <name>Aristoteles</name>
+                     <roleName>Philosoph</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118650130</idno>
+               </person>
+               <person xml:id="kalidasa">
+                  <persName>
+                     <name>Kālidāsa</name>
+                     <roleName>Schriftsteller</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118559516</idno>
+               </person>
+               <person xml:id="shakespeare_william">
+                  <persName>
+                     <surname>Shakespeare</surname>
+                     <forename>William</forename>
+                     <roleName>Dichter</roleName>
+                     <roleName>Dramatiker</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118613723</idno>
+               </person>
+               <person xml:id="goethe_johann">
+                  <persName>
+                     <surname>Goethe</surname>
+                     <forename type="first">Johann</forename>
+                     <forename type="middle">Wolfgang</forename>
+                     <nameLink>von</nameLink>
+                     <roleName>Universalgenie</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118540238</idno>
+               </person>
+               
             </listPerson>
          </p>
       </body>
