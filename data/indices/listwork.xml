@@ -25,6 +25,16 @@
                         <author>Some Author</author>
                         <idno type="URL">e.g. link to GND entry</idno>
                     </bibl>
+                    <bibl xml:id="hölderlin_kindermann">
+                        <title>Hölderlin und das deutsche Theater</title>
+                        <author><rs type="person" ref="#kindermann_heinz">Heinz Kindermann</rs></author>
+                        <idno type="URL">http://d-nb.info/574310355</idno>
+                    </bibl>
+                    <bibl xml:id="hebbel_kindermann">
+                         <title>Hebbel und das Wiener Theater seiner Zeit</title>
+                         <author><rs type="person" ref="#kindermann_heinz">Heinz Kindermann</rs></author>
+                        <idno type="URL">http://d-nb.info/574310320</idno>
+                    </bibl>
                 </listBibl>
             </p>
         </body>

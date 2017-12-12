@@ -142,9 +142,9 @@
              mann</rs> ist im Fahnensatz fertig. Er wird nun eben illustriert. Wir
              hoffen, daß es im Frühjahr oder Sommer <date>1944</date> im <rs type="org" ref="#propyläenverlag">Propyläenverlag</rs>,
              <geogName>Berlin</geogName>, Kochstraße, erscheint. Jüngst erschien <rs type="person" ref="#kindermann_heinz">Prof. Dr. Kindermann</rs>
-             Abhandlung "Hebbel und das Wiener Theater seiner Zeit" im <rs type="org" ref="#verlag_frick">Verlag Frick</rs>, <geogName>Wien</geogName>, I., Graben.
+               Abhandlung <rs type="work" ref="#hebbel_kindermann">"Hebbel und das Wiener Theater seiner Zeit"</rs> im <rs type="org" ref="#verlag_frick">Verlag Frick</rs>, <geogName>Wien</geogName>, I., Graben.
              Im <rs type="org" ref="#verlag_frick">gleichen Verlag</rs> wird zu <date when="1943-12-25">Weihnachten</date> in ähnlicher bebilderter Ausstattung seine Abhandlung
-             "Hölderlin und das deutsche Theater" herauskommen. Endlich ist auch die Neuauflage von <rs type="person" ref="#kindermann_heinz">Kindermanns</rs> Biographie über den Wiener
+             <rs type="work" ref="#hölderlin_kindermann">"Hölderlin und das deutsche Theater"</rs> herauskommen. Endlich ist auch die Neuauflage von <rs type="person" ref="#kindermann_heinz">Kindermanns</rs> Biographie über den Wiener
              Volksdramatiker und Volksdarsteller <rs type="person" ref="#raimund_ferdinand">Ferdinand Raimund</rs> im <rs type="org" ref="#wiener_verlag">Wiener
              Verlag</rs>, Wien, XII., Niederhofstraße 57, erschienen. Dort wird im
                <date when="1944-01">Januar</date> auch eine Neuauflage von <rs type="person" ref="#kindermann_heinz">Kindermanns</rs> "Geschichte des
