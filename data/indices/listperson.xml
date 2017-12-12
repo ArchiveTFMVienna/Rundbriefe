@@ -195,7 +195,44 @@
                   </persName>
                   <idno type="URL">http://d-nb.info/gnd/118540238</idno>
                </person>
-               
+               <person xml:id="stumpfl_">
+                  <persName>
+                     <surname>Stumpfl</surname> <!-- evtl. Friedrich Stumpfl? -->
+                  </persName>
+               </person>
+               <person xml:id="pirckheimer_willibald">
+                  <persName>
+                     <surname>Pirckheimer</surname>
+                     <forename>Willibald</forename>
+                     <roleName>Humanist</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118594605</idno>
+               </person>
+               <person xml:id="dürer_albrecht">
+                  <persName>
+                     <surname>Dürer</surname>
+                     <forename>Albrecht</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/11852786X</idno>
+               </person>
+               <person xml:id="kraft_adam">
+                  <persName>
+                     <surname>Kraft</surname>
+                     <forename>Adam</forename>
+                     <roleName>Bildhauer</roleName>
+                     <roleName>Baumeister</roleName>
+                  </persName>
+                  <idno type="person">http://d-nb.info/gnd/118715372</idno>
+               </person>
+               <person xml:id="vischer_peter"> <!-- unklar - gibt einen Älteren und einen Jüngeren (zeitlich passen beide) -->
+                  <persName>
+                     <surname>Vischer</surname>
+                     <forename>Peter</forename>
+                     <roleName>Kunsthandwerker</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118768654</idno> <!-- d. Ältere -->
+                  <idno type="URL">http://d-nb.info/gnd/118768662</idno> <!-- d. Jüngere  -->
+               </person>
             </listPerson>
          </p>
       </body>
