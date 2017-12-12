@@ -33,6 +33,13 @@
                </location>
                <idno type="URL">http://www.geonames.org/2761369</idno>
             </place>
+            <place xml:id="nürnberg" type="city">
+               <placeName>Nürnberg</placeName>
+               <location>
+                  <geo decls="LatLng">49.45421 11.07752</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2861650</idno>
+            </place>
          </listPlace>
       </body>
   </text>
