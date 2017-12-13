@@ -59,6 +59,11 @@
                         xpointer="listorg">
                <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be found</fallback>
             </xi:include>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" 
+                        href="../indices/listwork.xml"
+                        xpointer="listwork">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be found</fallback>
+            </xi:include>
          </p>
       </encodingDesc>
    </teiHeader>
@@ -88,17 +93,18 @@
             Heimkehrenden, verrichten.</p>
          <p>Mit dem vorliegenden Rundbrief nehmen wir eine erste Fühlung mit all den fernzubetreuenden 
             Kameraden auf und begrüßen Sie herzlich als fachlich Gleichstrebende. Wir drucken 
-            Teile aus den Reden des Rektors der Universität Wien, <name type="person" ref="#pernkopf_eduard">Univ.-Prof. Dr. Pernkopf</name>, und 
-            des Lehrstuhlinhabers und Institutsdirektors, Univ.-Prof. Dr. <name type="person" ref="#kindermann_heinz">Heinz Kindermann</name>, 
+            Teile aus den Reden des Rektors der Universität Wien, <rs type="person" ref="#pernkopf_eduard">Univ.-Prof. Dr. Pernkopf</rs> , und 
+            des Lehrstuhlinhabers und Institutsdirektors, <rs type="person" ref="#kindermann_heinz">Univ.-Prof. Dr. Heinz Kindermann</rs> , 
             anläßlich der am 25. Mai 1943 stattgefundenen Eröffnung des Zentralinstituts für 
             Theaterwissenschaft ab. Sie geben auch auf viele der Fragen Antwort, die in den Briefen 
             von der Front immer wieder an uns gestellt werden.</p>
          <p>
             Dem Leiter des Zentralinstituts für Theaterwissenschaft stehen zwei wissenschaftliche 
-            Hilfskräfte, Fräulein Margret Dietrich und Fräulein Gustave Schiffer, zur Seite. Ein 
+            Hilfskräfte, <rs type="person" ref="#dietrich_margret">Fräulein Margret Dietrich</rs> 
+            und <rs type="person" ref="#schiffer_gustave">Fräulein Gustave Schiffer</rs> , zur Seite. Ein 
             ganzer Stab von reiferen Studentinnen der Theaterwissenschaft ist unter der Leitung 
             von Dipl.-Bibliothekarin Meyer außerdem eingesetzt, um die große theaterwissenschaftliche 
-            Fachbibliothek (darunter die stattliche Busch-Bibliothek, eine Leihgabe der Stadt Münster) 
+            Fachbibliothek (darunter die stattliche Busch-Bibliothek, eine Leihgabe der Stadt <rs ref="#münster" type="place">Münster</rs>) 
             des Zentralinstituts zu katalogisieren. Zunächst wird der Verfasserkatalog
             <pb n="2"/>
             angelegt, der bis Ende des Sommersemesters fertiggestellt sein dürfte. Während der 

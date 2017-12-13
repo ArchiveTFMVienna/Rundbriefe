@@ -40,6 +40,13 @@
                </location>
                <idno type="URL">http://www.geonames.org/2861650</idno>
             </place>
+            <place xml:id="münster" type="city">
+               <placeName>Münster</placeName>
+               <location>
+                  <geo decls="LatLng">51.96236 7.62571</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2867543</idno>
+            </place>
          </listPlace>
       </body>
   </text>
