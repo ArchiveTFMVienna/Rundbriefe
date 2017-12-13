@@ -20,7 +20,7 @@
         <body>
             <p>
                 <listBibl xml:id="listwork">
-                    <bibl xml:id="title_author">
+                    <bibl xml:id="shorttitle_surnamefirstauthor">
                         <title>Some Title</title>
                         <author>Some Author</author>
                         <idno type="URL">e.g. link to GND entry</idno>
