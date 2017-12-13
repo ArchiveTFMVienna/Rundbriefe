@@ -234,6 +234,13 @@
                   <idno type="URL">http://d-nb.info/gnd/118768654</idno> <!-- d. Ältere -->
                   <idno type="URL">http://d-nb.info/gnd/118768662</idno> <!-- d. Jüngere  -->
                </person>
+               <person xml:id= "pernkopf_eduard">
+                  <persName ref="http://d-nb.info/gnd/121907155">
+                     <surname>Pernkopf</surname>
+                     <forename>Eduard</forename>
+                     <roleName>Rektor der <rs>Universität Wien </rs></roleName>
+                  </persName>
+               </person>
             </listPerson>
          </p>
       </body>
