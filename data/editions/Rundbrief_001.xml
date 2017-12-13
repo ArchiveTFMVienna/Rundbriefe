@@ -80,8 +80,9 @@
                <name type="country">Austria</name>
             </address>Wien, I., Hofburg, Batthianystiege, I. Stock – Fernruf R-20-5-20</head>
          <salute>Liebe Kameraden!</salute>
-         <p>Schon auf die ersten Zeitungsnotizen über die Gründung eines Zentralinstituts für 
-            Theaterwissenschaft hin hat sich eine größere Zahl von zur Wehrmacht einberufenen 
+         <p>Schon auf die ersten Zeitungsnotizen über die Gründung eines <rs
+            type="org" ref="#zentralinstitut">Zentralinstituts für Theaterwissenschaft</rs> 
+            hin hat sich eine größere Zahl von zur Wehrmacht einberufenen 
             Studierenden gemeldet, die fernbetreut werden wollten. Es war für alle, die bei der 
             Errichtung des Zentralinstituts mit am Werke waren und sind, eine große Freude, diese 
             rege Anteilnahme gerade auch aus dem Feld zu erfahren. War sie doch ein Beweis dafür, 
@@ -93,18 +94,19 @@
             Heimkehrenden, verrichten.</p>
          <p>Mit dem vorliegenden Rundbrief nehmen wir eine erste Fühlung mit all den fernzubetreuenden 
             Kameraden auf und begrüßen Sie herzlich als fachlich Gleichstrebende. Wir drucken 
-            Teile aus den Reden des Rektors der Universität Wien, <rs type="person" ref="#pernkopf_eduard">Univ.-Prof. Dr. Pernkopf</rs> , und 
-            des Lehrstuhlinhabers und Institutsdirektors, <rs type="person" ref="#kindermann_heinz">Univ.-Prof. Dr. Heinz Kindermann</rs> , 
+            Teile aus den Reden des Rektors der Universität Wien, <rs type="person" ref="#pernkopf_eduard">Univ.-Prof. Dr. Pernkopf</rs>, und 
+            des Lehrstuhlinhabers und Institutsdirektors, <rs type="person" ref="#kindermann_heinz">Univ.-Prof. Dr. Heinz Kindermann</rs>, 
             anläßlich der am 25. Mai 1943 stattgefundenen Eröffnung des Zentralinstituts für 
             Theaterwissenschaft ab. Sie geben auch auf viele der Fragen Antwort, die in den Briefen 
             von der Front immer wieder an uns gestellt werden.</p>
          <p>
             Dem Leiter des Zentralinstituts für Theaterwissenschaft stehen zwei wissenschaftliche 
             Hilfskräfte, <rs type="person" ref="#dietrich_margret">Fräulein Margret Dietrich</rs> 
-            und <rs type="person" ref="#schiffer_gustave">Fräulein Gustave Schiffer</rs> , zur Seite. Ein 
-            ganzer Stab von reiferen Studentinnen der Theaterwissenschaft ist unter der Leitung 
+            und <rs type="person" ref="#schiffer_gustave">Fräulein Gustave Schiffer</rs>, zur Seite. 
+            Ein ganzer Stab von reiferen Studentinnen der Theaterwissenschaft ist unter der Leitung 
             von Dipl.-Bibliothekarin Meyer außerdem eingesetzt, um die große theaterwissenschaftliche 
-            Fachbibliothek (darunter die stattliche Busch-Bibliothek, eine Leihgabe der Stadt <rs ref="#münster" type="place">Münster</rs>) 
+            Fachbibliothek (darunter die stattliche <rs type="org" ref="#busch-bibliothek">Busch-Bibliothek</rs>, 
+            eine Leihgabe der Stadt <rs type="place" ref="#münster">Münster</rs>) 
             des Zentralinstituts zu katalogisieren. Zunächst wird der Verfasserkatalog
             <pb n="2"/>
             angelegt, der bis Ende des Sommersemesters fertiggestellt sein dürfte. Während der 

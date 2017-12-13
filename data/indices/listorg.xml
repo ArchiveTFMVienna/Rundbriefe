@@ -57,6 +57,11 @@
                         <orgName type="alt">Wiener Stadtbibliothek</orgName>
                         <idno type="URL">http://d-nb.info/gnd/2026851-8</idno>
                     </org>
+                    <org xml:id="busch-bibliothek">
+                        <orgName>Universitäts- und Landesbibliothek Münster - Theatersammlung Busch</orgName>
+                        <orgName type="alt">Busch Bibliothek</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/7845448-7</idno>
+                    </org>
                 </listOrg>
             </p>
         </body>
