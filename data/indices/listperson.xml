@@ -61,7 +61,7 @@
                   </persName>
                   <idno type="URL">https://orcid.org/0000-0002-0791-2323</idno>
                </person>
-               <person xml:id="kindermann_heinz">
+               <person xml:id="kindermann_heinz" role="vocabs:inLeadingPosition">
                   <persName>
                      <surname>Kindermann</surname>
                      <forename>Heinz</forename>
