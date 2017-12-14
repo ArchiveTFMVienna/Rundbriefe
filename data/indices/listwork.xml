@@ -15,16 +15,20 @@
                 <p>Information about the source</p>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <p>
+                <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+                    href="listperson.xml"
+                    xpointer="listperson">
+                    <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be found</fallback>
+                </xi:include>
+            </p>
+        </encodingDesc>
     </teiHeader>
     <text>
         <body>
             <p>
                 <listBibl xml:id="listwork">
-                    <bibl xml:id="shorttitle_surnamefirstauthor">
-                        <title>Some Title</title>
-                        <author>Some Author</author>
-                        <idno type="URL">e.g. link to GND entry</idno>
-                    </bibl>
                     <bibl xml:id="hölderlin_kindermann">
                         <title>Hölderlin und das deutsche Theater</title>
                         <author><rs type="person" ref="#kindermann_heinz">Heinz Kindermann</rs></author>
