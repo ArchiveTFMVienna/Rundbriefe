@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -30,56 +27,64 @@
          <p>
             <listPerson xml:id="listperson">
                <person xml:id="wulf_malte">
-                  <persName ref="https://orcid.org/0000-0001-8706-4178">
+                  <persName>
                      <surname>Wulf</surname>
                      <forename>Malte</forename>
                   </persName>
-                  <idno type="URL">add some</idno>
+                  <idno type="URL">https://orcid.org/0000-0001-8706-4178</idno>
                </person>
                <person xml:id="reiter_vicky">
-                  <persName ref="https://orcid.org/0000-0002-7903-7353">
+                  <persName>
                      <surname>Reiter</surname>
                      <forename full="abb">Vicky</forename>
                   </persName>
+                  <idno type="URL">https://orcid.org/0000-0002-7903-7353</idno>
                </person>
                <person xml:id="tiefenbacher_sara">
-                  <persName ref="https://orcid.org/0000-0002-6300-4805 ">
+                  <persName>
                      <surname>Tiefenbacher</surname>
                      <forename>Sara</forename>
                   </persName>
+                  <idno type="URL">https://orcid.org/0000-0002-6300-4805 </idno>
                </person>
                <person xml:id="aprent_patrick">
-                  <persName ref="https://orcid.org/0000-0002-0359-5981">
+                  <persName>
                      <surname>Aprent</surname>
                      <forename>Patrick</forename>
                   </persName>
+                  <idno type="URL">https://orcid.org/0000-0002-0359-5981</idno>
                </person>
                <person xml:id="piech_janina">
-                  <persName ref="https://orcid.org/0000-0002-0791-2323">
+                  <persName>
                      <surname>Piech</surname>
                      <forename>Janina</forename>
                   </persName>
+                  <idno type="URL">https://orcid.org/0000-0002-0791-2323</idno>
                </person>
                <person xml:id="kindermann_heinz">
-                  <persName ref="http://d-nb.info/gnd/118562193">
+                  <persName>
                      <surname>Kindermann</surname>
                      <forename>Heinz</forename>
                      <roleName type="degree" full="abb">Prof.</roleName>
                      <roleName>Leiter des <rs type="org" ref="#zentralinstitut">Zentralinstituts für Theaterwissenschaft der Universität
-                        Wien</rs></roleName>
+                        Wien</rs>
+                     </roleName>
                   </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118562193</idno>
                </person>
                <person xml:id="dietrich_margret">
-                  <persName ref="http://d-nb.info/gnd/119242788">
+                  <persName>
                      <surname>Dietrich</surname>
                      <forename>Margret</forename>
                   </persName>
+                  <idno type="URL">http://d-nb.info/gnd/119242788</idno>
                </person>
                <person xml:id="schiffer_gustave">
-                  <persName ref="http://d-nb.info/gnd/106534785">
+                  <persName>
                      <surname>Schiffer</surname>
                      <forename>Gustave</forename>
                   </persName>
+                  <idno type="URL">http://d-nb.info/gnd/106534785</idno>
                </person>
                <person xml:id="ullrich_">
                   <persName>
@@ -103,25 +108,28 @@
                   </persName>
                </person>
                <person xml:id="waniek_herbert">
-                  <persName ref="http://d-nb.info/gnd/119282879">
+                  <persName>
                      <surname>Waniek</surname>
                      <forename>Herbert</forename>
-                     <roleName>Oberregisseur des <rs>Burgtheaters</rs></roleName>
+                     <roleName>Oberregisseur des <rs>Burgtheaters</rs>
+                     </roleName>
                   </persName>
+                  <idno type="URL">http://d-nb.info/gnd/119282879</idno>
                </person>
                <person xml:id="niedermoser_">
                   <persName>
                      <surname>Niedermoser</surname>
-                     <forename></forename>
+                     <forename/>
                      <roleName type="degree" full="abb">Prof.</roleName>
                   </persName>
                </person>
                <person xml:id="sachs_hans">
-                  <persName ref="http://d-nb.info/gnd/118604597">
+                  <persName>
                      <surname>Sachs</surname>
                      <forename>Hans</forename>
                      <roleName>Meistersinger</roleName>
                   </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118604597</idno>
                </person>
                <person xml:id="weinberger_hilde">
                   <persName>
@@ -144,33 +152,36 @@
                   </persName>
                </person>
                <person xml:id="zirnig_margarete">
-                  <persName ref="http://d-nb.info/gnd/127562753">
+                  <persName>
                      <surname>Zirnig</surname>
                      <forename>Margarete</forename>
                      <roleName type="degree" full="abb">Dr.</roleName>
                   </persName>
+                  <idno type="URL">http://d-nb.info/gnd/127562753</idno>
                </person>
                <person xml:id="raimund_ferdinand">
-                  <persName ref="http://d-nb.info/gnd/118597914">
+                  <persName>
                      <surname>Raimund</surname>
                      <forename>Ferdinand</forename>
                      <roleName>Volksdramatiker</roleName>
                      <roleName>Volksdarsteller</roleName>
                   </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118597914</idno>
                </person>
                <person xml:id="leuschke_">
                   <persName>
                      <surname>Leuschke</surname>
-                     <forename></forename>
+                     <forename/>
                      <roleName type="degree" full="abb">Prof.</roleName>
                   </persName>
                </person>
                <person xml:id="meyer_ruth">
-                  <persName ref="http://d-nb.info/gnd/1056621966">
+                  <persName>
                      <surname>Meyer</surname>
                      <forename>Ruth</forename>
                      <roleName>Diplom Bibliothekarin</roleName>
                   </persName>
+                  <idno type="URL">http://d-nb.info/gnd/1056621966</idno>
                </person>
                <person xml:id="aristoteles">
                   <persName>
@@ -207,7 +218,8 @@
                </person>
                <person xml:id="stumpfl_">
                   <persName>
-                     <surname>Stumpfl</surname> <!-- evtl. Friedrich Stumpfl? -->
+                     <surname>Stumpfl</surname> 
+                     <!-- evtl. Friedrich Stumpfl? -->
                   </persName>
                </person>
                <person xml:id="pirckheimer_willibald">
@@ -240,15 +252,19 @@
                      <forename>Peter</forename>
                      <roleName>Kunsthandwerker</roleName>
                   </persName>
-                  <idno type="URL">http://d-nb.info/gnd/118768654</idno> <!-- d. Ältere -->
-                  <idno type="URL">http://d-nb.info/gnd/118768662</idno> <!-- d. Jüngere  -->
+                  <idno type="URL">http://d-nb.info/gnd/118768654</idno> 
+                  <!-- d. Ältere -->
+                  <idno type="URL">http://d-nb.info/gnd/118768662</idno> 
+                  <!-- d. Jüngere  -->
                </person>
-               <person xml:id= "pernkopf_eduard">
-                  <persName ref="http://d-nb.info/gnd/121907155">
+               <person xml:id="pernkopf_eduard">
+                  <persName>
                      <surname>Pernkopf</surname>
                      <forename>Eduard</forename>
-                     <roleName>Rektor der <rs>Universität Wien </rs></roleName>
+                     <roleName>Rektor der <rs>Universität Wien </rs>
+                     </roleName>
                   </persName>
+                  <idno type="URL">http://d-nb.info/gnd/121907155</idno>
                </person>
             </listPerson>
          </p>
