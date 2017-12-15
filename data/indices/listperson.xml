@@ -61,6 +61,13 @@
                   </persName>
                   <idno type="URL">https://orcid.org/0000-0002-0791-2323</idno>
                </person>
+               <person xml:id="kirnbauer_martin">
+                  <persName>
+                     <surname>Kirnbauer</surname>
+                     <forename>Martin</forename>
+                  </persName>
+                  <idno type="URL"></idno>
+               </person>
                <person xml:id="kindermann_heinz" role="vocabs:inLeadingPosition">
                   <persName>
                      <surname>Kindermann</surname>
@@ -265,6 +272,31 @@
                      </roleName>
                   </persName>
                   <idno type="URL">http://d-nb.info/gnd/121907155</idno>
+               </person>
+               <person xml:id="weller_">
+                  <persName>
+                     <surname>Weller</surname>
+                     <forename/>
+                     <roleName>Sprachwissenschaftler</roleName>
+                  </persName>
+                  <idno type="URL"></idno>
+               </person>
+               <person xml:id="karsten_">
+                  <persName>
+                     <surname>Karsten</surname>
+                     <forename/>
+                     <roleName>Burgschauspieler</roleName>
+                     <roleName>Hauptmann im Ersten Weltkrieg</roleName>
+                  </persName>
+                  <idno type="URL"></idno>
+               </person>
+               <person xml:id="zeckl_alfred">
+                  <persName>
+                     <surname>Zeckl</surname>
+                     <forename>Alfred</forename>
+                     <roleName>Fachschaftsleiter</roleName>
+                  </persName>
+                  <idno type="URL"></idno>
                </person>
             </listPerson>
          </p>

@@ -71,6 +71,26 @@
                         <orgName type="alt">Busch Bibliothek</orgName>
                         <idno type="URL">http://d-nb.info/gnd/7845448-7</idno>
                     </org>
+                    <org xml:id="fachschaft_theater">
+                        <orgName>Fachschaft Theater am Zentralinstitut für Theaterwissenschaft der Universität Wien</orgName>
+                        <idno type="URL"></idno>
+                    </org>
+                    <org xml:id="deutsches_volkstheater">
+                        <orgName>Deutsches Volkstheater</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/146313-5</idno>
+                    </org>
+                    <org xml:id="exl_buehne">
+                        <orgName>Exl-Bühne</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/1098398-3</idno>
+                    </org>
+                    <org xml:id="akademietheater">
+                        <orgName>Akademietheater (Wien)</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/2033589-1</idno>
+                    </org>
+                    <org xml:id="burgtheater">
+                        <orgName>Burgtheater</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/38633-9</idno>
+                    </org>
                 </listOrg>
             </p>
         </body>

@@ -47,6 +47,20 @@
                </location>
                <idno type="URL">http://www.geonames.org/2867543</idno>
             </place>
+            <place xml:id="sibirien" type="region">
+               <placeName>Sibirien</placeName>
+               <location>
+                  <geo decls="LatLng">65 90</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2016590</idno>
+            </place>
+            <place xml:id="flandern" type="region">
+               <placeName>Flandern</placeName>
+               <location>
+                  <geo decls="LatLng">51 4.5</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/3337388</idno>
+            </place>
          </listPlace>
       </body>
   </text>

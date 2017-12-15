@@ -39,6 +39,20 @@
                          <author><rs type="person" ref="#kindermann_heinz">Heinz Kindermann</rs></author>
                         <idno type="URL">http://d-nb.info/574310320</idno>
                     </bibl>
+                    <bibl xml:id="schauspieler_rezitator_redner">
+                        <title>Schauspieler, Rezitator, Redner – eine Typologie der redenden Künste</title>
+                        <author><rs type="person" ref="#weller_">Weller</rs></author>
+                        <idno type="URL"></idno>
+                    </bibl>
+                    <bibl xml:id="theater_hinter_stacheldraht">
+                        <title>Theater hinter Stacheldraht</title>
+                        <author><rs type="person" ref="#karsten_">Karsten</rs></author>
+                        <idno type="URL"></idno>
+                    </bibl>
+                    <bibl xml:id="lanzelot_sanderein">
+                        <title>Lanzelot und Sanderein</title>
+                        <idno type="URL">http://d-nb.info/gnd/4166724-4</idno>
+                    </bibl>
                 </listBibl>
             </p>
         </body>

@@ -1,0 +1,90 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xmlns:tei="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Digitale Edition Rundbriefe des Zentralinstitutes für
+               Theaterwissenschaft an der Universität Wien 1944−45</title>
+            <title type="sub">Digitale Edition des 2. Teils des 4. Rundbriefs 1944</title>
+            <principal>
+               <rs ref="#kirnbauer_martin" type="person">Martin Kirnbauer</rs>
+            </principal>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <rs ref="#kirnbauer_martin" type="person">Martin Kirnbauer</rs>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                  <p> The (CC BY-SA 4.0)-License applies to this document. </p>
+                  <p> You are allowed to share (copy and redistribute the material in any medium or
+                     format) and adapt (remix, transform, and build upon the material) for any
+                     purpose, even commercially. </p>
+                  <p> You must give appropriate credit, provide a link to the license, and indicate
+                     if changes were made. You may do so in any reasonable manner, but not in any
+                     way that suggests the licensor endorses you or your use. </p>
+                  <p> ShareAlike — If you remix, transform, or build upon the material, you must
+                     distribute your contributions under the same license as the original. </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Archiv und Sammlungen des Instituts für Theater-, Film- und
+                     Medienwissenschaft der Universität Wien</institution>
+                  <repository>Nachlass Kindermann</repository>
+                  <!-- check -->
+                  <idno>Signatur efef13 Schachtel x Mappe x Zahl x</idno>
+               </msIdentifier>
+               <history>
+                  <!-- check -->
+                  <origin when="1944-08"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listperson.xml"
+               xpointer="listperson">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be
+                  found</fallback>
+            </xi:include>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listplace.xml"
+               xpointer="listplace">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be
+                  found</fallback>
+            </xi:include>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listorg.xml"
+               xpointer="listorg">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be
+                  found</fallback>
+            </xi:include>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listwork.xml"
+               xpointer="listwork">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be
+                  found</fallback>
+            </xi:include>
+         </p>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="1"/>
+          <div type="letter" n="1">
+            <salute>Liebe Kameraden!</salute>
+            <p>Wieder ist ein Semester unter den denkbar schwierigsten Umständen zu Ende geführt worden. Trotzdem hat uns das <date>Sommersemester 1944</date> in unserer wissenschaftlichen wie auch in der praktischen Arbeit um ein Bedeutendes weitergebracht.</p>
+             <p>Es ist uns eine Freude, daß gerade in diesem schwierigen Semester die <rs type="org" ref="#fachschaft_theater">Fachschaft Theater</rs> ein Teil zum Aufbau des <rs type="org" ref="#zentralinstitut">Zentralinstituts für Theaterwissenschaft</rs> beitragen konnte. Im Rahmen dieser Arbeit hörten wir am <date when="1944-02-23">23. Februar 1944</date> den hochinteressanten Vortrag des bekannten Sprachwissenschaftlers Prof. Dr. <rs type="person" subtype="acting" ref="#weller_" rend="letterspace">Weller</rs> über „<rs type="work" ref="#schauspieler_rezitator_redner">Schauspieler, Rezitator, Redner – eine Typologie der redenden Künste</rs>“. Am <date when="1944-05-06">6. Mai 1944</date> sprach Burgschauspieler <rs type="person" subtype="acting" ref="#karsten_" rend="letterspace">Karsten</rs> zu uns über „<rs type="work" ref="#theater_hinter_stacheldraht">Theater hinter Stacheldraht</rs>“. <rs type="person" subtype="acting" ref="#karsten_">Karsten</rs>, der selbst den letzten Weltkrieg als Hauptmann mitgemacht hatte, brachte uns in seinem mit Lichtbildern unterbauten Vortrag einen Erlebnisbericht aus seiner Gefangenschaft in <rs type="place" ref="#sibirien">Sibirien</rs>, wo er, mit ganz kleinen Mitteln beginnend, ein bis in die kleinsten Einzelheiten gehendes vollwertiges Theater aufbaute. Mit welchen Schwierigkeiten dieser Aufbau durchgeführt werden konnte, davon habt ihr wohl die beste Vorstellung.</p>
+            <p>Ferner ist es mir gelungen, mit den ersten <rs type="place" ref="#wien">Wiener</rs> Theatern eine Vereinbarung zu treffen, wobei ich mindestens 2 bis 4 Karten pro Vorstellung für die Studenten bekam. Das ermöglichte nun die Gründung der Arbeitsgemeinschaften: <rs type="org" ref="#deutsches_volkstheater">Deutsches Volkstheater</rs>, <rs type="org" ref="#exl_buehne">Exl-Bühne</rs>, <rs type="org" ref="#akademietheater">Akademietheater</rs> und <rs type="org" ref="#burgtheater">Burgtheater</rs>. In einer Arbeitsgemeinschaft sind zirka 14 bis 16 Kollegen tätig, für die sich hier Möglichkeiten ergeben, in Aussprachen untereinander und in schriftlichen Kritiken, die in den Fachschaftsabenden behandelt werden, zum Spielplan der <rs type="place" ref="#wien">Wiener</rs> Theater und zu ihren schauspielerischen Leistungen Stellung zu nehmen.</p>
+            <p>Das Semester wurde nun mit einem Abschlußabend beendet, an dem nach wochenlanger Mühe und liebevoller Kleinarbeit das <rs type="place" ref="#flandern">altflämische</rs> Schauspiel „<rs type="work" ref="#lanzelot_sanderein">Lanzelot und Sanderein</rs>“ zur Aufführung gebracht wurde. Daß diese Inszenierung, die in ihrer starken Stilisierung und durch den unerhört kleinen Bühnenraum dem einzelnen Darsteller außerordentlich viel abforderte, ein Erfolg wurde, ist vor allem der besonderen Kunstbegeisterung jedes einzelnen Mitwirkenden und der intensiven Regiearbeit zuzuschreiben. Eine Kollegin rundete den Abend mit schönster deutscher Lyrik ab.</p>
+            <p>Kameraden! Zum Abschluß möchte ich Euch den Vorschlag machen, daß Ihr im nächsten Semester einen Briefverkehr mit den studierenden Kollegen und Kolleginnen eröffnet; ich bitte Euch, die Briefe an die <rs type="org" ref="#fachschaft_theater">Fachschaft Theater</rs> im <rs type="org" ref="#zentralinstitut">Zentralinstitut für Theaterwissenschaft</rs> zu senden. Wenn wir in schwerster Zeit unser Studium fortsetzen, wollen wir, die wir selbst alle Soldaten waren, unbedingt die Fühlung mit Euch nicht verlieren. In diesem Sinne freue ich mich auf eine gute Zusammenarbeit.</p>
+            <salute>Heil Hitler!</salute>
+            <signed>Der Fachschaftsleiter:<lb/>
+             gez. <rs type="person" subtype="acting" ref="#zeckl_alfred">Alfred Zeckl</rs></signed>
+         </div>
+         <pb n="2"/>
+      </body>
+   </text>
+</TEI>
