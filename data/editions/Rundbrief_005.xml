@@ -109,8 +109,8 @@
                die Mittagsstunden fallende Alarme wurde diesmal auch die Hauptvorlesung auf
                Nachmittag verlegt. Auch finden diese Vorlesungen nicht mehr, wie bisher, im
                   <placeName type="room">Auditorium Maximum</placeName>, sondern im schönen
-                  <placeName type="room">Kainzraum</placeName>, also dem eigenen Hörsal des
-               Zentralinstituts in der <placeName type="building">Hofburg</placeName> statt, der zu
+                  <placeName type="room">Kainzraum, also dem eigenen Hörsaal des
+                     Zentralinstituts in der Hofburg</placeName> statt, der zu
                diesem Zweck mit einem Projektionsapparat ausgestattet wurde.</p>
             <p>Viele von den Fernbetreuten - und ihre Anzahl ist indessen auf <num type="cardinal"
                   >399</num> gestiegen, weil nach einem Erlass des
@@ -120,11 +120,11 @@
                   <rs ref="#wien" type="place">Wien</rs> Schaden genommen habe. Gottlob ist das
                bisher nicht in erheblichem Masse der Fall gewesen. Am <date when="1944-09-10">10.
                   September 1944</date> waren freilich zwei schwere Bomben auf den altehrwürdigen
-                  <placeName type="square">Michaelerplatz</placeName>, dicht vor unseren Fenstern,
+                  <rs ref="#michaelerplatz" type="place">Michaelerplatz</rs>, dicht vor unseren Fenstern,
                niedergegangen. Da gab es nun gar viele zerbrochene Fensterscheiben und aus den
                Angeln gehobene Fensterrahmen. Aber auch dieser Schaden ist dank der unermüdlichen
                Selbsthilfe unserer Assistentinnen und Studierenden zum grössten Teil wieder behoben.
-               Auch das <placeName type="building">Burgtheater</placeName> und die <placeName
+               Auch das <rs ref="#burgtheater" type="org">Burgtheater</rs> und die <placeName
                   type="building">Staatsoper</placeName> stehen noch unversehrt. <date
                   when="1944-12-12">(12.XII.1944)</date>
             </p>
@@ -245,8 +245,8 @@
                   gepaart mit der Volksweisheit und dem Volkshumor aus Jahrtausenden noch einmal zu
                   einer prachtvollen Summe des Lebens, zu einer Revue menschlicher Schwäche und
                   Torheiten im Spiegel germanisch – deutscher Sicht zusammen.</p>
-               <p> Der <rs ref="#nürnberg" type="place">Nürnberger</rs> Schneidersohn <rs
-                     ref="#sachs_hans" type="person" subtype="mentioned">Hans Sachs</rs> war dabei
+               <p> <rs
+                  ref="#sachs_hans" type="person" subtype="mentioned">Der Nürnberger Schneidersohn Hans Sachs</rs> war dabei
                   nicht bloss auf den Horizont seiner Vaterstadt angewiesen. Dieser <rs
                      ref="#nürnberg" type="place">Nürnberger</rs> Horizont des <date
                      notBefore="1500-01-01" notAfter="1599-12-31">16. Jahrhunderts</date> war
@@ -269,7 +269,7 @@
                   Kulturatmosphäre, aus der die Gestalter des Volkes aufsteigen können.</p>
                <pb n="7"/>
                <fw type="pageNum" style="text-align:center">– 7 –</fw>
-               
+               <p> Aber <rs ref="#sachs_hans" type="person">der Handwerksbursche Hans Sachs</rs> hatte ja auch die Welt gesehen, oder zumindest sein weites, schönes deutsches Vaterland. Er hatte Land und Leute erwandert. Mit 17 Jahren war der Geselle über <rs ref="#regensburg" type="place">Regensburg</rs> nach Tirol gekommen  </p>
             </q>
          </div>
          <div type="letter" n="2">
@@ -306,9 +306,9 @@
                nur bitte ich Euch um Verständnis.</p>
             <p>Liebe Kameraden! Ich möchte Euch, so weit es uns die momentan schwere Kampfphase
                ermöglicht, trotzdem ein recht frohes Fest wünschen.</p>
-            <salute rend="letterspace">Heil Hitler!</salute>
+            <salute rend="letterspace">Heil Hitler!</salute><lb/>
             <signed style="text-align:center">Euer<lb/>
-               <rs ref="#zeckl_a" type="person"> Fachschaftsleiter <lb/> A. Zeckl</rs>
+               <rs ref="#zeckl_alfred" type="person"> Fachschaftsleiter <lb/> A. Zeckl</rs>
             </signed>
          </div>
       </body>
