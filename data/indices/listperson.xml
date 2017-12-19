@@ -151,13 +151,6 @@
                      <idno type="URL">http://d-nb.info/gnd/118542192</idno>
                   </persName>
                </person>
-               <person xml:id="zeckl_a">
-                  <persName>
-                     <surname>Zeckl</surname>
-                     <forename>A</forename>
-                     <roleName>Fachschaftsleiter</roleName>
-                  </persName>
-               </person>
                <person xml:id="zirnig_margarete">
                   <persName>
                      <surname>Zirnig</surname>
