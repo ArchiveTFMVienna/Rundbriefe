@@ -61,6 +61,27 @@
                </location>
                <idno type="URL">http://www.geonames.org/3337388</idno>
             </place>
+            <place xml:id="michaelerplatz" type="square">
+               <placeName>Michaelerplatz</placeName>
+               <location>
+                  <geo decls="LatLng">48.20797 16.36642</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/10244817</idno>
+            </place>
+            <place xml:id="hofburg" type="building">
+               <placeName>Hofburg</placeName>
+               <location>
+                  <geo decls="LatLng">48.20563 16.36469</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/6354988</idno>
+            </place>
+            <place xml:id="regensburg" type="city">
+               <placeName>Regensburg</placeName>
+               <location>
+                  <geo decls="LatLng">49.01513 12.10161</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2849483</idno>
+            </place>
          </listPlace>
       </body>
   </text>
