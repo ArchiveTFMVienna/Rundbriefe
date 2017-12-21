@@ -91,6 +91,10 @@
                         <orgName>Burgtheater</orgName>
                         <idno type="URL">http://d-nb.info/gnd/38633-9</idno>
                     </org>
+                    <org xml:id="staatsoper">
+                        <orgName>Wiener Staatsoper</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/1131732448</idno>
+                    </org>
                 </listOrg>
             </p>
         </body>
