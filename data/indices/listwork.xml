@@ -53,6 +53,16 @@
                         <title>Lanzelot und Sanderein</title>
                         <idno type="URL">http://d-nb.info/gnd/4166724-4</idno>
                     </bibl>
+                    <bibl xml:id="hans_sachsens_poetische_sendung">
+                        <title>Erklärung eines alten Holzschnittes, vorstellend Hans Sachsens poetische Sendung</title>
+                        <author><rs ref="#goethe_johann">Johann Wolfgang von Goethe</rs></author>
+                        <idno type="URL">http://d-nb.info/gnd/4598497-9</idno>
+                    </bibl>
+                    <bibl xml:id="il_decamerone">
+                        <title>Il Decamerone</title>
+                        <author><rs ref="#boccaccio_giovanni">Giovanni Boccaccio</rs></author>
+                        <idno type="URL">http://d-nb.info/gnd/4226218-5</idno>
+                    </bibl>
                 </listBibl>
             </p>
         </body>
