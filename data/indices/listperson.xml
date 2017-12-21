@@ -36,7 +36,7 @@
                <person xml:id="reiter_vicky">
                   <persName>
                      <surname>Reiter</surname>
-                     <forename full="abb">Vicky</forename>
+                     <forename type="nick">Vicky</forename>
                   </persName>
                   <idno type="URL">https://orcid.org/0000-0002-7903-7353</idno>
                </person>
@@ -290,6 +290,23 @@
                      <roleName>Fachschaftsleiter</roleName>
                   </persName>
                   <idno type="URL"></idno>
+               </person>
+               <person xml:id="von_Habsburg_maximilian">
+                  <persName>
+                     <surname type="dynasty">Habsburg</surname>
+                     <forename>Maximilian</forename>
+                     <genName>I</genName>
+                     <nameLink>von</nameLink>
+                     <roleName type="nobility">Kaiser</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118579371</idno>
+               </person>
+               <person xml:id="boccaccio_giovanni" role="#Dichter #Humanist">
+                  <persName>
+                     <surname>Boccaccio</surname>
+                     <forename>Giovanni</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/11851217X</idno>
                </person>
             </listPerson>
          </p>
