@@ -125,7 +125,7 @@
                <idno type="URL">http://www.geonames.org/2886242</idno>
             </place>
                <place xml:id="aachen" type="city">
-                  <placeName></placeName>
+                  <placeName>Aachen</placeName>
                   <location>
                      <geo decls="LatLng">50.77664 6.08342</geo>
                   </location>
@@ -144,6 +144,21 @@
                   <geo decls="LatLng">53.86893 10.68729</geo>
                </location>
                <idno type="URL">http://www.geonames.org/2875601</idno>
+            </place>
+            <place xml:id="europa" type="region">
+               <placeName>Europa</placeName>
+               <placeName type="alt">Abendland</placeName>
+               <location>
+                  <geo decls="LatLng">48.69096 9.14062</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/6255148</idno>
+            </place>
+            <place xml:id="duesseldorf" type="city">
+               <placeName>Düsseldorf</placeName>
+               <location>
+                  <geo decls="LatLng">51.225556 6.782778</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2934246</idno>
             </place>
          </listPlace>
       </body>

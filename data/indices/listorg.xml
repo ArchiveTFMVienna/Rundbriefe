@@ -95,6 +95,10 @@
                         <orgName>Wiener Staatsoper</orgName>
                         <idno type="URL">http://d-nb.info/gnd/1131732448</idno>
                     </org>
+                    <org xml:id="duesseldorfer_schauspielhause">
+                        <orgName>Düsseldorfer Schauspielhaus</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/4254882-2</idno>
+                    </org>
                 </listOrg>
             </p>
         </body>

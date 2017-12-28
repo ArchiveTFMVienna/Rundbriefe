@@ -308,6 +308,13 @@
                   </persName>
                   <idno type="URL">http://d-nb.info/gnd/11851217X</idno>
                </person>
+               <person xml:id="dumont_luise">
+                  <persName>
+                     <surname>Dumont</surname>
+                     <forename>Luise</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118681192</idno>
+               </person>
             </listPerson>
          </p>
       </body>
