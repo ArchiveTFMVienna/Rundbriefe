@@ -56,7 +56,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>xinclude</String>
+                                    <String>ref2idno</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -74,7 +74,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/xslt/xinclude.xsl</String>
+                                    <String>${pdu}/xslt/ref2idno.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
@@ -142,7 +142,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>ref2idno</String>
+                                    <String>xinclude</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -160,7 +160,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/xslt/ref2idno.xsl</String>
+                                    <String>${pdu}/xslt/xinclude.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
