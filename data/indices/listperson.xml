@@ -99,18 +99,19 @@
                      <forename/>
                   </persName>
                </person>
-               <person xml:id="börge_">
+               <person xml:id="börge_vagn">
                   <persName>
                      <surname>Börge</surname>
-                     <forename/>
+                     <forename>Vagn</forename>
                      <roleName>Dozent</roleName>
                      <roleName type="degree" full="abb">Dr.</roleName>
                   </persName>
+                  <idno type="URL">http://d-nb.info/gnd/116224681</idno>
                </person>
-               <person xml:id="niederführ_">
+               <person xml:id="niederführ_otto">
                   <persName>
                      <surname>Niederführ</surname>
-                     <forename/>
+                     <forename>Otto</forename>/>
                      <roleName type="degree" full="abb">Prof.</roleName>
                   </persName>
                </person>
@@ -314,6 +315,63 @@
                      <forename>Luise</forename>
                   </persName>
                   <idno type="URL">http://d-nb.info/gnd/118681192</idno>
+               </person>
+               <person xml:id="tressler_otto">
+                  <persName>
+                     <surname>Tressler</surname>
+                     <forename>Otto</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/117414719</idno>
+               </person>
+               <person xml:id="wolter_charlotte">
+                  <persName>
+                     <surname>Wolter</surname>
+                     <forename>Charlotte</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/11880782X</idno>
+               </person>
+                  <person xml:id="berger_alfred">
+                     <persName>
+                        <surname>Berger</surname>
+                        <forename>Alfred</forename>
+                     </persName>
+                     <idno type="URL">http://d-nb.info/gnd/118655930</idno>
+               </person>
+               <person xml:id="schirach_baldur">
+                  <persName>
+                     <surname>Schirach</surname>
+                     <nameLink>von</nameLink>
+                     <forename>Baldur</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118607804</idno>
+               </person>
+               <person xml:id="schlösser_rainer">
+                  <persName>
+                     <surname>Schlösser</surname>
+                     <forename>Rainer</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/11732969X</idno>
+               </person>
+               <person xml:id="hartmann_paul">
+                  <persName>
+                     <surname>Hartmann</surname>
+                     <forename>Paul</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/116501375</idno>
+               </person>
+               <person xml:id="eckmann_alfred">
+                  <persName>
+                     <surname>Eckmann</surname>
+                     <forename>Alfred</forename>
+                     <!-- http://www.bildarchivaustria.at/Pages/ImageDetail.aspx?p_iBildID=3570234 -->
+                  </persName>
+               </person>
+               <person xml:id="müthel_lothar">
+                  <persName>
+                     <surname>Müthel</surname>
+                     <forename>Lothar</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/119049309</idno>
                </person>
             </listPerson>
          </p>
