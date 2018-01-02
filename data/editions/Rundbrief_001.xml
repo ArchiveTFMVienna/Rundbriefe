@@ -104,7 +104,7 @@
             Hilfskräfte, <rs type="person" ref="#dietrich_margret">Fräulein Margret Dietrich</rs> 
             und <rs type="person" ref="#schiffer_gustave">Fräulein Gustave Schiffer</rs>, zur Seite. 
             Ein ganzer Stab von reiferen Studentinnen der Theaterwissenschaft ist unter der Leitung 
-            von Dipl.-Bibliothekarin Meyer außerdem eingesetzt, um die große theaterwissenschaftliche 
+            von <rs type="person" ref="#meyer_ruth">Dipl.-Bibliothekarin Meyer</rs> außerdem eingesetzt, um die große theaterwissenschaftliche 
             Fachbibliothek (darunter die stattliche <rs type="org" ref="#busch-bibliothek">Busch-Bibliothek</rs>, 
             eine Leihgabe der Stadt <rs type="place" ref="#münster">Münster</rs>) 
             des Zentralinstituts zu katalogisieren. Zunächst wird der Verfasserkatalog
@@ -131,7 +131,7 @@
             Podium nach einem lebensgroßen Bild von Kainz als Don Carlos 
             Kainz-Raum <placeName type="room">Kainz-Raum</placeName> benannt. Ihm schließt 
             sich der kreisrunde <placeName type="room">Schreyvogel-Saal</placeName> 
-            (geziert mit einem Schreyvogel-Relief von Otto Treßler) 
+            (geziert mit einem Schreyvogel-Relief von <rs type="person" ref="#tressler_otto">Otto Treßler</rs>) 
             an, der als Ausstellungsraum Verwendung findet und in dem stets alle die Stiche, Photos, 
             Bühnenbildmodelle und seltenen Drucke Aufstellung finden, die eben bei den 
             theaterwissenschaftlichen Übungen der Ober- oder Unterstufe sowie bei den programmatisch 
@@ -139,9 +139,9 @@
             sich dabei zum großen Teil um Objekte aus dem Eigenbesitz des Zentralinstituts, zum Teil 
             aber auch um Leihgaben aus der Theatersammlung der Nationalbibliothek, die im selben 
             Trakt der Hofburg (ein Stockwerk höher) untergebracht ist. Die beiden Bibliothekssäle 
-            des Zentralinstituts sind nach Mitterwurzer und Charlotte Wolter, das Zimmer der 
-            Assistentinnen ist nach dem großen Volksdarsteller und Volksdramatiker Raimund, das 
-            Direktorzimmer nach dem Burgtheaterdirektor Freiherrn von Berger benannt.</p>
+            des Zentralinstituts sind nach Mitterwurzer und <rs type="person" ref="#wolter_charlotte">Charlotte Wolter</rs>, das Zimmer der 
+            Assistentinnen ist nach dem großen <rs type="person" ref="#raimund_ferdinand">Volksdarsteller und Volksdramatiker Raimund</rs>, das 
+            Direktorzimmer nach dem Burgtheaterdirektor <rs type="person" ref="#berger_alfred">Freiherrn von Berger</rs> benannt.</p>
          <p>Außer der stattlichen Fachbibliothek verfügt das Zentralinstitut noch über eine größere 
             Sammlung theaterwissenschaftlicher
             <pb n="3"/>
@@ -165,21 +165,21 @@
             Arbeitsgebiet möglich. Man kann Theaterwissenschaft aber auch als Nebenfach neben 
             einem geisteswissenschaftlichen Hauptfach studieren. Wir stehen für die Beratung in 
             diesen Fragen gerne in jedem einzelnen Fall zur Verfügung.</p>
-         <p>Im Sommersemester 1943 wurde vorerst von Prof. Kindermann 
+            <p>Im Sommersemester 1943 wurde vorerst von <rs type="person" ref="#kindermann_heinz">Prof. Kindermann</rs> 
             ein Hauptkolleg über „Das Nationaltheater der deutschen Klassik“, 
             ein theaterwissenschaftliches Oberseminar über das Barocktheater 
             und eine theaterwissenschaftliche Unterstufe 
             (Einführung in die Grundlagen der Theaterwissenschaft) gehalten. 
             Im Wintersemester 1943/44 wird der Arbeitsplan in erweiterter 
-            Form fortgesetzt werden. Das Hauptkolleg von Prof. Kindermann 
+            Form fortgesetzt werden. Das Hauptkolleg von <rs type="person" ref="#kindermann_heinz">Prof. Kindermann</rs> 
             wird das deutsche und europäische Theater des Mittelalters 
             behandeln. Die theaterwissenschaftlichen Übungen der Oberstufe 
             werden dem Wesen und der Geschichte der Regie, die der Unterstufe 
             der Schauspielkunst des 19. Jahrhunderts gewidmet sein. Außerdem 
-            werden im Rahmen des Zentralinstituts der Dozent für nordische 
-            Philologie und Dramaturgie Dr. Börge ein Kolloquium über 
-            praktische Dramaturgie und der Leiter der Schauspielschule des 
-            Burgtheaters, Dr. Niederführ, ein Kolloquium über praktische 
+            werden im Rahmen des Zentralinstituts der <rs type="person" ref="#börge_vagn">Dozent für nordische 
+            Philologie und Dramaturgie Dr. Börge</rs> ein Kolloquium über praktische Dramaturgie 
+               und der <rs type="person" ref="#niederführ_otto">Leiter der Schauspielschule des 
+            Burgtheaters, Dr. Niederführ</rs>, ein Kolloquium über praktische 
             Bühnenkunde halten. Ein Lehrgang für künftige Kunstbetrachter 
             wird sich anschließen.
             <pb n="4"/>
@@ -209,7 +209,7 @@
          <p>Allen Fernbetreuten wünschen wir indessen für die nächste Zeit ein freundliches Geschick.</p>
          <p>Juni 1943.</p>
          <p>Im Namen aller Mitarbeiter und Mitglieder des Zentralinstitus<!-- sic --> für Theaterwissenschaft:</p>
-         <signed>Heinz Kindermann.</signed>
+            <signed><rs type="person" ref="#kindermann_heinz">Heinz Kindermann</rs>.</signed>
          <pb n="5"/>
          <!-- image -->
          <pb n="6"/>
@@ -230,8 +230,8 @@
             Zusammenarbeit endlich das ganze lebendige Zusammenspiel der Kräfte zu überschauen, 
             zu umgrenzen und zu ergründen vermöchte.</p>
          <p>Man schwankte eine Weile, ob man dieses Zentralinstitut nach dieser oder jener 
-            Universitätsstadt verlegen sollte. Schließlich aber gab der Hinweis des Herrn 
-            Reichsleiters von Schirach, daß Wien anerkanntermaßen die an theatralischer 
+            Universitätsstadt verlegen sollte. Schließlich aber gab der Hinweis des <rs type="person" ref="#schirach_baldur">Herrn 
+            Reichsleiters von Schirach</rs>, daß Wien anerkanntermaßen die an theatralischer 
             Tradition und an Theaterfreude reichste Stadt der Deutschen sei und daß hier 
             für dieses Arbeitsgebiet Möglichkeiten vorhanden seien wie sonst nirgends in 
             Europa, den Ausschlag.</p>
@@ -298,19 +298,19 @@
             wollen, hat sich schon seit den ersten Vorarbeiten ein reger 
             Gedankenaustausch und eine gute Zusammenarbeit mit dem deutschen 
             Theater unserer Tage, besonders auch mit dem Wiener Theater, ergeben. 
-            Reichsdramaturg Dr. Rainer Schlösser und der mit unserer Vaterstadt 
-            im Herzen immer noch verbundene Präsident der Reichstheaterkammer, 
-            Paul Hartmann, haben mich ihrer regsten Anteilnahme und Mithilfe versichert.</p>
+            <rs type="person" ref="#schlösser_rainer">Reichsdramaturg Dr. Rainer Schlösser</rs> und der mit unserer Vaterstadt 
+            im Herzen immer noch verbundene <rs type="person" ref="#hartmann_paul">Präsident der Reichstheaterkammer, 
+            Paul Hartmann</rs>, haben mich ihrer regsten Anteilnahme und Mithilfe versichert.</p>
          <p>Mit der Wiener Staatstheaterverwaltung und dem Burgtheater aber verbinden 
             mich die engsten Beziehungen seit jener 17 Jahre zurückliegenden Zeit, 
             in der ich selbst an beiden Institutionen mitarbeiten durfte. 
             Diese Fäden waren nie abgerissen, und die Zusammenarbeit ist nun 
-            dank dem Entgegenkommen des Herrn Ministerialdirigenten Dr. Eckmann, 
-            des Herrn Generalintendanten Müthel und ihrer Mitarbeiter neuerlich 
+            dank dem Entgegenkommen des <rs type="person" ref="#eckmann_alfred">Herrn Ministerialdirigenten Dr. Eckmann</rs>, 
+            des <rs type="person" ref="#müthel_lothar">Herrn Generalintendanten Müthel</rs> und ihrer Mitarbeiter neuerlich 
             aufgenommen worden. Auch der Brückenschlag zu den übrigen Theatern 
             ist bereits weitgehend vollzogen. Ganz besonders herzlich wird sich 
             die Berührung und das gegenseitige Geben und Nehmen mit der 
-            Schauspielschule des Burgtheaters und ihrem Leiter, Herrn Dr. Niederführ, 
+            Schauspielschule des Burgtheaters und ihrem Leiter, <rs type="person" ref="#niederführ_otto">Herrn Dr. Niederführ</rs>, 
             entwickeln.</p>
          <p>Um aber auch vom Praktischen der Wirkung ins Weitere her diesen 
             Zusammenhang zu dokumentieren und dabei die notwendige Ergänzung 
