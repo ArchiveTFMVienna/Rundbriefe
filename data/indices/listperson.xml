@@ -36,7 +36,7 @@
                <person xml:id="reiter_vicky">
                   <persName>
                      <surname>Reiter</surname>
-                     <forename type="nick">Vicky</forename>
+                     <forename full="abb">Vicky</forename>
                   </persName>
                   <idno type="URL">https://orcid.org/0000-0002-7903-7353</idno>
                </person>
@@ -373,6 +373,37 @@
                   </persName>
                   <idno type="URL">http://d-nb.info/gnd/119049309</idno>
                </person>
+               <person xml:id="gryphius_andreas">
+                  <persName>
+                     <surname>Gryphius</surname>
+                     <forename>Andreas</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118543032</idno>
+               </person>
+               <person xml:id="gottsched_johann">
+                  <persName>
+                     <surname>Gottsched</surname>
+                     <forename type="first">Johann</forename>
+                     <forename type="middle">Christoph</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118541013</idno>
+               </person>
+              <person xml:id="wieland_christoph">
+                 <persName>
+                    <surname>Wieland</surname>
+                    <forename type="first">Christoph</forename>
+                    <forename type="middle">Martin</forename>
+                 </persName>
+              </person>
+              <person xml:id="lenz_jakob">
+                 <persName>
+                    <surname>Lenz</surname>
+                    <forename type="first">Jakob</forename>
+                    <forename type="middle">Michael</forename>
+                    <forename type="third">Reinhold</forename>
+                 </persName>
+                 <idno type="URL">http://d-nb.info/gnd/118571656</idno>
+              </person>
             </listPerson>
          </p>
       </body>
