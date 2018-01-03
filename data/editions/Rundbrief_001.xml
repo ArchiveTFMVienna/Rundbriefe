@@ -116,7 +116,7 @@
          <p>Das Zentralinstitut für Theaterwissenschaft ist im Reichskanzleitrakt der Wiener Hofburg 
             untergebracht (fünf Minuten von der Universität entfernt). Es verdankt seine schönen Räume 
             der Wiener Reichsstatthalterei, besonders dem nun zur Wehrmacht einberufenen 
-            Generalkulturreferenten Thomas, der auch sonst in all den Monaten des Entstehens keine 
+            <rs type="person" ref="#thomas_walter">Generalkulturreferenten Thomas</rs>, der auch sonst in all den Monaten des Entstehens keine 
             Mühe scheute, um alle die vielen kriegsbedingten Schwierigkeiten aus dem Weg zu räumen. 
             Man tritt vom <placeName type="square">Michaelerplatz</placeName> her 
             (auf dem einst das alte Burgtheater stand) in die 
@@ -128,10 +128,9 @@
             folgen im Sommer und Herbst. Jeder der Säle ist nach einem Großen des deutschen Theaters 
             benannt, dessen Bild oder Bildnisrelief den betreffenden Raum ziert. So wurde der 
             Übungssaal mit seinen grünen Tischen für 60 Teilnehmer und mit seinem schön geschnitzten 
-            Podium nach einem lebensgroßen Bild von Kainz als Don Carlos 
-            Kainz-Raum <placeName type="room">Kainz-Raum</placeName> benannt. Ihm schließt 
+            Podium nach einem lebensgroßen Bild von <rs type="person" ref="#kainz_josef">Kainz</rs> als Don Carlos <placeName type="room">Kainz-Raum</placeName> benannt. Ihm schließt 
             sich der kreisrunde <placeName type="room">Schreyvogel-Saal</placeName> 
-            (geziert mit einem Schreyvogel-Relief von <rs type="person" ref="#tressler_otto">Otto Treßler</rs>) 
+            (geziert mit einem <rs type="person" ref="#schreyvogel_joseph">Schreyvogel</rs>-Relief von <rs type="person" ref="#tressler_otto">Otto Treßler</rs>) 
             an, der als Ausstellungsraum Verwendung findet und in dem stets alle die Stiche, Photos, 
             Bühnenbildmodelle und seltenen Drucke Aufstellung finden, die eben bei den 
             theaterwissenschaftlichen Übungen der Ober- oder Unterstufe sowie bei den programmatisch 
@@ -319,15 +318,15 @@
             praktische Bühnenkunde ständig eine Reihe von allgemein zugänglichen 
             Sonderveranstaltungen durchführen. Diese Reihe der Sonderveranstaltungen 
             beginnt schon am kommenden Freitag, dem 28. Mai, mit einem Vortrag des 
-            Staatsschauspielers Otto Treßler über eines der Kardinalprobleme der 
+            <rs type="person" ref="#tressler_otto">Staatsschauspielers Otto Treßler</rs> über eines der Kardinalprobleme der 
             Schauspielkunst, nämlich über die „Kunst der Maske“. Am 8. Juni 
-            wird zum 100. Todestag Hölderlins eine Veranstaltung „Hölderlin und 
+            wird zum 100. Todestag <rs type="person" ref="#hölderlin_friedrich">Hölderlins</rs> eine Veranstaltung „Hölderlin und 
             das deutsche Theater“ folgen, bei der nach einem einleitenden Vortrag 
-            von mir Burgschauspieler Aslan, der schon bei der Uraufführung 
+            von mir <rs type="person" ref="#aslan_raoul">Burgschauspieler Aslan</rs>, der schon bei der Uraufführung 
             des „Empedokles“ im Weltkrieg mitgewirkt hat, die Ätnaszene aus 
             dem „Empedokles“ lesen wird. Und am 29. Juni wird Direktor
             <pb n="10"/>
-            Heinz Hilpert im gleichen Rahmen über die „Formen des Theaters“ sprechen.</p>
+            <rs type="person" ref="#hilpert_heinz">Heinz Hilpert</rs> im gleichen Rahmen über die „Formen des Theaters“ sprechen.</p>
          <p>Aber auch für die Entwicklung der Forschungsarbeit sind schon einige 
             einleitende Schritte getan worden. Zunächst mußte dafür gesorgt werden, 
             daß dem Zentralinstitut eine Schriftenreihe zur Verfügung stand, 
@@ -335,7 +334,7 @@
             Arbeiten sowohl schon gereifter Forscher des In- und Auslandes als auch 
             besonders gelungene Doktorarbeiten veröffentlicht werden können. 
             Für diesen Zweck konnte die älteste theaterwissenschaftliche Schriftenreihe, 
-            die 1891 von Prof. Litzmann in Bonn gegründete Reihe „Theatergeschichtliche Forschungen“, 
+            die 1891 von <rs type="person" ref="#litzmann_berthold">Prof. Litzmann</rs> in Bonn gegründete Reihe „Theatergeschichtliche Forschungen“, 
             übernommen werden. Sie wird von nun an in neuer Folge als offizielle 
             Schriftenreihe des Zentralinstituts für Theaterwissenschaft erscheinen. 
             Einige grundlegend neue und wichtige Themen sind bereits in Arbeit.</p>
@@ -371,7 +370,7 @@
             Ihren Schutz zu nehmen und ihm Ihre Ständige Hilfe zuteil werden zu lassen. 
             Ich grüße zugleich alle diejenigen, die sich im Zusammenhang mit der 
             Wiener Universität schon seit langem, schon seit frühen Versuchen 
-            von Karl Glossy, Jakob Minor und manchem anderen immer wieder 
+            von <rs type="person" ref="#glossy_karl">Karl Glossy</rs>, <rs type="person" ref="#minor_jakob">Jakob Minor</rs> und manchem anderen immer wieder 
             von Wien aus um die Theaterwissenschaft verdient gemacht haben.</p>
          <p>Was mir seit meinem ersten Studiensemester unsere Wiener Universität 
             und unsere Schöne Vaterstadt gegeben hat, das habe ich in all den 
@@ -398,7 +397,8 @@
          </div>
          <div type="letter" n="3">
          <p>Rede des Rektors der Wiener Universität,
-            Prof. Dr. PERNKOPF, zur Eröffnung des Zentralinstituts für 
+            <rs type="person" ref="#pernkopf_eduard">Prof. Dr. PERNKOPF</rs>, 
+            zur Eröffnung des Zentralinstituts für 
             Theaterwissenschaft an der Universität Wien.</p>
          <p>Es ist mir eine große Freude, heute als Rektor der Universität zu 
             Ihnen zu sprechen und als solcher hier eines besonderen Amtes 
@@ -460,7 +460,7 @@
             glaube nicht zu viel zu sagen, wenn ich behaupte, daß Wien gerade 
             in Fragen des Theaters in der Schaffung neuer Ideen hier führend 
             vorangegangen ist, in vielem neue Wege eingeschlagen hat, ja eine 
-            Zeitlang<!-- sic! --> sogar in Deutschland in den verschiedensten Formen 
+            Zeitlang sogar in Deutschland in den verschiedensten Formen 
             des Theaters, besonders auf dem Gebiete der heiteren Muse, tonangebend 
             gewesen ist, die sich dann von hier über die ganze Welt verbreitet haben. 
             So glaube ich, ist auch Wien der richtige Boden, um hier ein neues 
@@ -479,7 +479,8 @@
             gegeben haben, dafür glaube ich im Namen der Universität 
             besonders danken zu müssen.</p>
          <p>Die Leitung dieses Zentralinstituts für Theaterwissenschaft ist 
-            nun Ihnen, Herr Prof. Kindermann, übergeben worden. Ich glaube, 
+            nun Ihnen, <rs type="person" ref="#kindermann_heinz">Herr Prof. Kindermann</rs>, 
+            übergeben worden. Ich glaube, 
             daß wir auch dafür dem Ministerium besonders danken müssen. Die Wahl 
             und Berufung hätte keine bessere sein können. Sie haben hier in Wien 
             lange vor Ihrer Berufung in das Altreich an der Wiener Universität gelehrt 
@@ -583,7 +584,8 @@
             weswegen wir heute zusammengekommen sind.</p>
          <p>Im Auftrage der Universität eröffne ich nun das neue Institut und 
             übernehme es in die Obhut der Universität. Ich begrüße Sie, 
-            Herr Prof. Kindermann, als Direktor des Instituts und bitte 
+            <rs type="person" ref="#kindermann_heinz">Herr Prof. Kindermann</rs>, 
+            als Direktor des Instituts und bitte 
             alle berufenen Stellen, vor allem das Amt des Herrn Kurators, 
             an diesem Institut, als einem jungen Kinde unserer Alma mater, 
             besonderen Anteil nehmen zu wollen und es in jeder Weise 
