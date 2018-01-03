@@ -404,6 +404,69 @@
                  </persName>
                  <idno type="URL">http://d-nb.info/gnd/118571656</idno>
               </person>
+               <person xml:id="hölderlin_friedrich">
+                  <persName>
+                     <surname>Hölderlin</surname>
+                     <forename>Friedrich</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118551981</idno>
+               </person>
+               <person xml:id="aslan_raoul">
+                  <persName>
+                     <surname>Aslan</surname>
+                     <forename>Raoul</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118504681</idno>
+               </person>
+               <person xml:id="hilpert_heinz">
+                  <persName>
+                     <surname>Hilpert</surname>
+                     <forename>Heinz</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118704990</idno>
+               </person>
+               <person xml:id="litzmann_berthold">
+                  <persName>
+                     <surname>Litzmann</surname>
+                     <forename>Berthold</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/117066478</idno>
+               </person>
+               <person xml:id="glossy_karl">
+                  <persName>
+                     <surname>Glossy</surname>
+                     <forename>Karl</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/116667478</idno>
+               </person>
+               <person xml:id="minor_jakob">
+                  <persName>
+                     <surname>Minor</surname>
+                     <forename>Jakob</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/117048526</idno>
+               </person>
+               <person xml:id="thomas_walter">
+                  <persName>
+                     <surname>Thomas</surname>
+                     <forename>Walter</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/107583526</idno>
+               </person>
+               <person xml:id="kainz_josef">
+                  <persName>
+                     <surname>Kainz</surname>
+                     <forename>Josef</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118559389</idno>
+               </person>
+               <person xml:id="schreyvogel_joseph">
+                  <persName>
+                     <surname>Schreyvogel</surname>
+                     <forename>Joseph</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/119368579</idno>
+               </person>
             </listPerson>
          </p>
       </body>
