@@ -286,7 +286,7 @@
                </p>
                <p><rs ref="#sachs_hans" type="person" subtype="mentioned">Der Nürnberger Schneidersohn Hans Sachs</rs> war 
                   dabei nicht bloss auf den Horizont seiner
-                  Vaterstadt angewiesen. Dieser <rs ref="#nürnberg" type="place">Nürnberger</rs> Horizont des 
+                  Vaterstadt angewiesen. Dieser Nürnberger Horizont des 
                   <date notBefore="1500-01-01" notAfter="1599-12-31">16.Jahrhunderts</date> war freilich allein schon reich 
                   genug; denn als
                   Schnittpunkt norsüdlicher 
@@ -301,7 +301,7 @@
                   viel von dieser neu erarbeiteten Welt 
                   in seinen Handwerker-Horizont bannte. Und was sagt 
                   uns nicht für seine Holzschnitt-Manier das 
-                  Gegenüber von <rs ref="#sachs_hans" type="person" subtype="mentioned">Hans Sachs</rs> und <rs ref="#dürer_albrecht" type="person" subtype="mentioned">Albrecht Dürer</rs> ,<rs ref="#kraft_adam" type="person" subtype="mentioned">Adam Kraft</rs> 
+                  Gegenüber von <rs ref="#sachs_hans" type="person" subtype="mentioned">Hans Sachs</rs> und <rs ref="#dürer_albrecht" type="person" subtype="mentioned">Albrecht Dürer</rs>, <rs ref="#kraft_adam" type="person" subtype="mentioned">Adam Kraft</rs> 
                   und <rs ref="#vischer_peter" type="person" subtype="mentioned">Peter Vischer</rs> im gleichen <rs ref="#nürnberg" type="place">Nürnberg</rs> dieser Zeit! 
                   Es gibt nicht leicht eine gesättigtere
                   Kulturatmosphäre, aus der die Gestalter des Volkes aufsteigen 
@@ -397,44 +397,140 @@
                   unendlicher Werktreue und mit einer Lebensführung voll 
                   der grenzsetzenden Bescheidenheit pariert.
                </p>
-               <p>
-                  
+               <p>Beginnt die Renaissancedramatik Einzelindividuen,
+                  Persönlichkeiten zu gestalten: <rs ref="#sachs_hans" type="person">Hans Sachs</rs>
+                  vollendet in seinen Fastnachtsspielen und
+                  Schwänken die im <date>Mittelalter</date> begonnene Typen-
+                  Gestaltung. Das böse Weib, der liederliche Mann,
+                  der Dumme, der Lügner, der Geizige, aber auch 
+                  Sozialtypen, vor allem der vom neuen stolzen 
+                  Stadtgeist her irrtümlich unterschätzte, 
+                  tollpatschige Bauer, aber auch der sehr skeptisch 
+                  und oft als Windbeutel oder Verführer angesehene
+                  Adelige - sie ziehen in diesem Lebens- und
+                  Totentanz der Schwänke und Fastnachtsspiele an uns
+                  vorüber als Glieder einer unendlichen Kette
+                  unseres Volkes, die herkam vom Anbeginn und die 
+                  weiterreicht bis in unsere eigene Zeit, ja bis
+                  in alle Zukunft. 
+               </p>
+               <p>Bald bieten sich diese Fastnachtsspiele als 
+                  eine Art szenischer Streitgesprächs dar, wie
+                  etwa das erste, das Sie dann hören, "Das Krapfenholen"; 
+                  oder sie greifen schon nach einer
+                  theatralischen Gestaltung der drastischen Gebärde und der
+                  mimischen Bewegung, der theatralischen Typen- und
+                  Menschengestaltung in wesentlich komplizierteren 
+                  Formen, wie sie uns in dem zweiten heute Abend
+                  vorgeführten Schwank, dem "Bauern mit dem Kuhdieb"
+                  begegnen.
+               </p>
+               <p>Hans Sachsens Fastnachtsspiele und Schwänke
+                  sind nicht blosse Belustigung: sie sind in hoher
+                  <pb n="10"/>
+                  <fw type="pageNum" style="text-align:center">– 10 –</fw>
+                  Form der Volkstümlichkeit Lehr- und Warndichtung, 
+                  also Theater mit praktischer Lebensfunktion. 
+                  Sie sind in ihrer Weise volkhafte 
+                  Gesellschaftskritik und Lebenslehre. Der Volksdramatiker, 
+                  der seine Stücke selbst spielt und 
+                  inszeniert, will zugleich ein grosser Volks-Erzieher 
+                  sein.
+               </p>
+               <p>Das Volk aber begreift schon zu <date notBefore="1494-11-05" notAfter="1576-01-19">Sachsens Lebzeiten</date> 
+                  den Impuls der volkformenden Unmittelbarkeit, 
+                  der in diesem Humor und in dieser Kritik 
+                  liegt. So wurden im <date notBefore="1500-01-01" notAfter="1599-12-31">16. Jhdt.</date> <rs>Hans Sachsens
+                     Fastnachtsspiele</rs> im gesamten deutschen Volksraum 
+                  aufgeführt. Es sind überall die Laienspieler aus dem 
+                  bürgerlichen, vor allem dem Handwerkerbereich, die 
+                  auf freien Plätzen oder in Rats- und Wirtsstuben 
+                  auf einfachster Neutralbühne, bloss unterstützt 
+                  durch etliche "sprechende" Requisiten und durch 
+                  einige Symbolkostüme, dieses fröhlihce und doch so 
+                  ernst gemeinte Spiel mehr improvisierten als 
+                  zelebrierten. <date notBefore="1600-01-01" notAfter="1699-12-31">Noch bis tief ins 17. Jhdt.</date> hinein reicht 
+                  diese erste Wirkung, bis dann die hochbarocke 
+                  Kunstdichtung sich seit <rs ref="#gryphius_andreas" type="person">Gryphius </rs><rs ref="#peter_squentz" type="work">"Peter Squentz"</rs> über 
+                  dieses Handwerkertheater lustig macht. Aber auch diese 
+                  Polemik, richtet sich eigentlich nur gegen das 
+                  Unzulängliche des tragischen Handwerkertheaters, nicht 
+                  gegen ihre unverwüstliche, immer wandlungsfähige Komik. 
+                  Im Gegenteil, die Barockkomödie hat in Text und Spiel 
+                  viel von <rs ref="#sachs_hans" type="person">Hans Sachs</rs> gelernt. Die rein 
+                  verständnismässige Aufklärung freilich verachtete, trotz 
+                  <rs ref="#gottsched_johann" type="person">Gottscheds</rs> Votum, seine naive Volksunmittelbarkeit und seine 
+                  Holzschnittmanier. Sie arbeiteten ja aus der Distanz 
+                  der hochfahrenden Bildung. Die Stürmer und Dränger 
+                  aber, die wieder das Volk suchten, wo es in seiner 
+                  unverbildeten Kraft und Urwüchsigkeit zu finden war, 
+                  haben <rs ref="#sachs_hans" type="person">Hans Sachs</rs> wieder entdeckt. Sie hörten eben 
+                  <rs ref="#goethe_johann" type="person">Goethes</rs> Bekenntnis zu ihm - und <rs ref="#wieland_christoph" type="person">Wieland</rs> versichtert im 
+                  <rs ref="#teutscher_merkur" type="work">"Teutschen Merkur"</rs>, auch die anderen Sturm- und Drang-
+                  <pb n="11"/>
+                  <fw type="pageNum" style="text-align:center">– 11 –</fw>
+                  gefährten <rs ref="#goethe_johann" type="person">Goethes</rs>, voran sein <rs ref="#lenz_jakob" type="person">baltischer Freund Lenz</rs>,
+                  hätten diese QIederentdeckung mit Jubel und 
+                  Bewunderung entgegengenommen. Und sie taten das, 
+                  was einzig diesem Echo zur Dauer verhelfen konnte: 
+                  sie spielten <rs ref="#sachs_hans" type="person">Hans Sachs</rs>, sie führten selbst auf 
+                  ihren Liebhaberbühnen seine Fastnachtsspiele auf - 
+                  und sie lernten viel von ihm.
                </p>
             </q>
          </div>
          <div type="letter" n="2">
             <fw type="pageNum" style="text-align:center">– 26 –</fw>
             <salute>Liebe Kameraden !</salute>
-            <p>Wenn ich Euch diesmal die Grüsse der <orgName>Fachschaft</orgName> und somit der noch
-               studierenden Kollegen übermittle, so geschieht das unter ganz anderen Voraussetzunen
-               als es noch im letzten Rundbrief möglich war. Der totale Kriegseinsatz hat auch bei
-               uns die Reihen stark gelichtet. Der Grossteil der im letzten Semester hörenden
-               Kollegen steht heute im Rüstungseinsatz oder ist wieder zur
-                  <orgName>Wehrmacht</orgName> zurückberufen worden. Somit ist es also nur einer
-               kleinen Gruppe möglich, das Studium fortzusetzen. Es ist ganz selbstverständlich,
-               dass wir, die wir diese Möglichkeit noch besitzen, die in den vergangenen Semester
-               geleistete Arbeit womöglich noch zu intensivieren suchen. Durch die einschneidenden
-               Massnahmen des totalen Krieges ist es mir niht mehr möglich, die geplanten
-               Veranstaltungen in diesem Semester voll durchzufürhen. Aber auch hier hat sich ein
-               Ausgleich finden lassen, indem die <orgName>Fachschaft</orgName> Theater in
-               Kulturabenden die kulturelle und schöngeistige Betreuung der Studierenden un der im
-               Rüstungseinsatz stehenden Kollegen aufnimmt. Die Kulturabende, die in diesem Semester
-               zur Durchführung gelangen, beschäftigen sich vor allem mit den dramatischen
-               Dichtungen der deutschen Klassiker die in Form von Lesungen abgehalten werden. Im
-               Rahmen dieser Lesungen können sich die Kollegen der Theaterwissenschaft betätigen,
-               die gleichzeitig auch die Schauspiellaufbahn einschlagen wollen. Es ist zwar nur ein
-               kleiner Ausgleich, aber schon die erste Lesung (<rs ref="#grillparzer_franz"
-                  type="person" subtype="mentioned">Grillparzer</rs> - Abend) hat bewiesen, welche
-               Freude und Anregung uns die Gestaltung dieser Lesung geben kann.</p>
-            <p>Nun bitte ich Euch, liebe Kameraden, nicht ungehalten zu sein, dass ich mit dem
-               Briefwechsel Front und Heimat nicht so einsetzen kann, wie es <pb n="27"/>
-               <fw type="pageNum" style="text-align:center">– 27 –</fw> mir im letzten Semester
-               vorgeschwebt hat. Aber die geringe Anzahl der Studierenden und die zunehmende Anzahl
-               der fernbetreuten Kameraden lassen diesen Briefwechsel im gedachten Ausmass nicht zur
-               Durchführung gelangen. ich bin jedoch nach wie vor bemühr
-               <!-- sic - das wurde wohl nicht korrigiert -->, diese Schwierigkeiten zu überbrücken,
-               nur bitte ich Euch um Verständnis.</p>
-            <p>Liebe Kameraden! Ich möchte Euch, so weit es uns die momentan schwere Kampfphase
+            <p>Wenn ich Euch diesmal die Grüsse der 
+               <orgName>Fachschaft</orgName> und somit der noch studierenden Kollegen 
+               übermittle, so geschieht das unter ganz anderen 
+               Voraussetzunen
+               als es noch im letzten Rundbrief 
+               möglich war. Der totale Kriegseinsatz hat auch bei
+               uns die Reihen stark gelichtet. Der Grossteil der 
+               im letzten Semester hörenden Kollegen steht heute 
+               im Rüstungseinsatz oder ist wieder zur <orgName>Wehrmacht</orgName> 
+               zurückberufen worden. Somit ist es also nur einer
+               kleinen Gruppe möglich, das Studium fortzusetzen. 
+               Es ist ganz selbstverständlich, dass wir, die wir 
+               diese Möglichkeit noch besitzen, die in den 
+               vergangenen Semester geleistete Arbeit womöglich 
+               noch zu intensivieren suchen. Durch die 
+               einschneidenden Massnahmen des totalen Krieges ist es mir 
+               nicht mehr möglich, die geplanten
+               Veranstaltungen in diesem Semester voll durchzufürhen. Aber auch 
+               hier hat sich ein Ausgleich finden lassen, indem 
+               die <orgName>Fachschaft</orgName> Theater in Kulturabenden die 
+               kulturelle und schöngeistige Betreuung der Studierenden 
+               und der im Rüstungseinsatz stehenden Kollegen 
+               aufnimmt. Die Kulturabende, die in diesem 
+               Semester zur Durchführung gelangen, beschäftigen sich 
+               vor allem mit den dramatischen Dichtungen der 
+               deutschen Klassiker die in Form von Lesungen abgehalten 
+               werden. Im Rahmen dieser Lesungen können sich die 
+               Kollegen der Theaterwissenschaft betätigen, die 
+               gleichzeitig auch die Schauspiellaufbahn einschlagen 
+               wollen. Es ist zwar nur ein kleiner Ausgleich, aber 
+               schon die erste Lesung (<rs ref="#grillparzer_franz" type="person" subtype="mentioned">Grillparzer</rs> - Abend) hat 
+               bewiesen, welche Freude und Anregung uns die 
+               Gestaltung dieser Lesung geben kann.
+            </p>
+            <p>Nun bitte ich Euch, liebe Kameraden, nicht 
+               ungehalten zu sein, dass ich mit dem Briefwechsel 
+               Front und Heimat nicht so einsetzen kann, wie es 
+               <pb n="27"/>
+               <fw type="pageNum" style="text-align:center">– 27 –</fw> 
+               mir im letzten Semester vorgeschwebt hat. Aber die 
+               geringe Anzahl der Studierenden und die zunehmende 
+               Anzahl der fernbetreuten Kameraden lassen diesen 
+               Briefwechsel im gedachten Ausmass nicht zur
+               Durchführung gelangen. ich bin jedoch nach wie vor 
+               bemühr<!-- sic -->, diese Schwierigkeiten zu überbrücken, nur 
+               bitte ich Euch um Verständnis.
+            </p>
+            <p>Liebe Kameraden! Ich möchte Euch, so 
+               weit es uns die momentan schwere Kampfphase
                ermöglicht, trotzdem ein recht frohes Fest wünschen.</p>
             <salute rend="letterspace">Heil Hitler!</salute>
             <lb/>
