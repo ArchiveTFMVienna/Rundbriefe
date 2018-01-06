@@ -271,6 +271,80 @@
                                                 </poPatch>
                                                 <poPatch>
                                                     <field name="fieldPath">
+                                                        <String>authorExtensionDescriptor/actionDescriptors</String>
+                                                    </field>
+                                                    <field name="index">
+                                                        <Integer>39</Integer>
+                                                    </field>
+                                                    <field name="value">
+                                                        <action>
+                                                            <field name="id">
+                                                                <String>work.tagger</String>
+                                                            </field>
+                                                            <field name="name">
+                                                                <String>WorkTagger</String>
+                                                            </field>
+                                                            <field name="description">
+                                                                <String>Tags a work</String>
+                                                            </field>
+                                                            <field name="largeIconPath">
+                                                                <String></String>
+                                                            </field>
+                                                            <field name="smallIconPath">
+                                                                <String></String>
+                                                            </field>
+                                                            <field name="accessKey">
+                                                                <String></String>
+                                                            </field>
+                                                            <field name="accelerator">
+                                                                <String>ctrl shift W</String>
+                                                            </field>
+                                                            <field name="actionModes">
+                                                                <actionMode-array>
+                                                                    <actionMode>
+                                                                        <field name="xpathCondition">
+                                                                            <String></String>
+                                                                        </field>
+                                                                        <field name="argValues">
+                                                                            <serializableOrderedMap>
+                                                                                <entry>
+                                                                                    <String>URL</String>
+                                                                                    <String>http://127.0.0.1:8080/exist/apps/rundbriefe-app/ediarum/entities-ac.xql?entity=work</String>
+                                                                                </entry>
+                                                                                <entry>
+                                                                                    <String>element</String>
+                                                                                    <String>"&lt;rs type='work' xmlns='http://www.tei-c.org/ns/1.0' ref='#" + /id + "' />"</String>
+                                                                                </entry>
+                                                                                <entry>
+                                                                                    <String>expression</String>
+                                                                                    <String>/name</String>
+                                                                                </entry>
+                                                                                <entry>
+                                                                                    <String>node</String>
+                                                                                    <String>//item</String>
+                                                                                </entry>
+                                                                            </serializableOrderedMap>
+                                                                        </field>
+                                                                        <field name="operationID">
+                                                                            <String>org.bbaw.telota.ediarum.InsertRegisterOperation</String>
+                                                                        </field>
+                                                                    </actionMode>
+                                                                </actionMode-array>
+                                                            </field>
+                                                            <field name="enabledInReadOnlyContext">
+                                                                <Boolean>false</Boolean>
+                                                            </field>
+                                                        </action>
+                                                    </field>
+                                                    <field name="patchHandling">
+                                                        <String>addIndex</String>
+                                                    </field>
+                                                    <field name="anchor">
+                                                        <null/>
+                                                    </field>
+                                                </poPatch>
+                                                <poPatch>
+                                                    <field name="fieldPath">
                                                         <String>description</String>
                                                     </field>
                                                     <field name="index">
