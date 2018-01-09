@@ -160,6 +160,20 @@
                </location>
                <idno type="URL">http://www.geonames.org/2934246</idno>
             </place>
+            <place xml:id="kleinmachnow" type="city">
+               <placeName>Kleinmachnow (Berlin)</placeName>
+               <location>
+                  <geo decls="LatLng">52.40786 13.22514</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2888523</idno>
+            </place>
+            <place xml:id="schoenbrunn" type="district">
+               <placeName>Schönbrunn</placeName>
+               <location>
+                  <geo decls="LatLng">48.18494 16.31229</geo>
+               </location>
+               <idno type="URL">http://d-nb.info/gnd/4318901-5</idno>
+            </place>
          </listPlace>
       </body>
   </text>

@@ -467,6 +467,21 @@
                   </persName>
                   <idno type="URL">http://d-nb.info/gnd/119368579</idno>
                </person>
+               <person xml:id="pirchan_emil">
+                  <persName>
+                     <surname>Pirchan</surname>
+                     <forename>Emil</forename>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118594559</idno>
+               </person>
+               <person xml:id="herterich_franz">
+                  <persName>
+                     <surname>Herterich</surname>
+                     <forename>Franz</forename>
+                     <roleName>Schauspieler</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/116752947</idno>
+               </person>
             </listPerson>
          </p>
       </body>

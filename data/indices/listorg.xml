@@ -99,6 +99,17 @@
                         <orgName>Düsseldorfer Schauspielhaus</orgName>
                         <idno type="URL">http://d-nb.info/gnd/4254882-2</idno>
                     </org>
+                    <org xml:id="universitaet_wien">
+                        <orgName>Universität Wien</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/2024703-5</idno>
+                    </org>
+                    <org xml:id="max_reinhardt_seminar">
+                        <orgName>Max Reinhardt Seminar</orgName>
+                        <orgName type="alt"><rs type="place" ref="#schoenbrunn">Schönbrunner</rs> Schauspiel- und
+                            Regieseminar</orgName>
+                        <orgName type="alt">Schauspielschule des Burgtheaters</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/2024703-5</idno>
+                    </org>
                 </listOrg>
             </p>
         </body>

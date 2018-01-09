@@ -73,6 +73,11 @@
                         <idno type="URL">http://ds.ub.uni-bielefeld.de/viewer/toc/1951387/1/LOG_0000/</idno>
                         <note>Literaturzeitschrift 1773-1789</note>
                     </bibl>
+                    <bibl xml:id="empedokles">
+                        <title>Der Tod des Empedokles</title>
+                        <author><rs type="person" ref="#hölderlin_friedrich">Friedrich Hölderlin</rs></author>
+                        <idno type="URL">http://d-nb.info/gnd/4099237-8</idno>
+                    </bibl>
                 </listBibl>
             </p>
         </body>
