@@ -211,7 +211,10 @@
             <p>Im Namen aller Mitarbeiter und Mitglieder des <rs type="org" ref="#zentralinstitut">Zentralinstitus<!-- sic --> für Theaterwissenschaft</rs>:</p>
             <signed><rs type="person" ref="#kindermann_heinz">Heinz Kindermann</rs>.</signed>
          <pb n="5"/>
-         <!-- image -->
+            <figure>
+               <head>Michaelerkuppel und Reichskanzleitrakt der Wiener Hofburg, 
+                  die Rundbogen-Fensterfront des Zentralinstituts für Theaterwissenschaft</head>
+            </figure>
          <pb n="6"/>
          <!-- image -->
          <pb n="7"/>
