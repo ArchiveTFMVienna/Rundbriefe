@@ -105,10 +105,15 @@
                     </org>
                     <org xml:id="max_reinhardt_seminar">
                         <orgName>Max Reinhardt Seminar</orgName>
+                        <orgName type="alt">Institut für Schauspiel- und Schauspielregie</orgName>
                         <orgName type="alt"><rs type="place" ref="#schoenbrunn">Schönbrunner</rs> Schauspiel- und
                             Regieseminar</orgName>
                         <orgName type="alt">Schauspielschule des Burgtheaters</orgName>
-                        <idno type="URL">http://d-nb.info/gnd/2024703-5</idno>
+                        <idno type="URL">http://d-nb.info/gnd/10091007-5</idno>
+                    </org>
+                    <org xml:id="akademie_der_bildenden_kuenste">
+                        <orgName>Akademie der bildenden Künste Wien</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/2003761-2</idno>
                     </org>
                 </listOrg>
             </p>

@@ -482,6 +482,86 @@
                   </persName>
                   <idno type="URL">http://d-nb.info/gnd/116752947</idno>
                </person>
+               <person xml:id="lessing_gotthold_ephraim">
+                  <persName>
+                     <surname>Lessing</surname>
+                     <forename>Gotthold</forename>
+                     <forename>Ephraim</forename>
+                     <roleName>Schriftsteller</roleName>
+                     <roleName>Philosoph</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118572121</idno>
+               </person>
+               <person xml:id="jelusich_mirko">
+                  <persName>
+                     <surname>Jelusich</surname>
+                     <forename>Mirko</forename>
+                     <roleName>Dichter</roleName>
+                     <roleName>Dramatiker</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118746901</idno>
+               </person>
+               <person xml:id="winzberger_">
+                  <persName>
+                     <surname>Winzberger</surname>
+                     <forename/>
+                     <roleName>technischer Direktor des <rs type="org" ref="#burgtheater">Burgtheaters</rs></roleName>
+                  </persName>
+                  <idno/>
+               </person>
+               <person xml:id="exl_ilse">
+                  <persName>
+                     <surname>Exl</surname>
+                     <forename>Ilse</forename>
+                  </persName>
+                  <idno>http://d-nb.info/gnd/13746973X</idno>
+               </person>
+               <person xml:id="exl_anna">
+                  <persName>
+                     <surname>Exl</surname>
+                     <forename>Anna</forename>
+                  </persName>
+                  <idno>http://d-nb.info/gnd/1021284319</idno>
+               </person>
+               <person xml:id="schoenherr_">
+                  <persName>
+                     <surname>Schönherr</surname>
+                     <forename/>
+                  </persName>
+                  <idno/>
+               </person>
+               <person xml:id="ibsen_henrik">
+                  <persName>
+                     <surname>Ibsen</surname>
+                     <forename>Henrik</forename>
+                     <roleName>Schriftsteller</roleName>
+                  </persName>
+                  <idno>http://d-nb.info/gnd/118555286</idno>
+               </person>
+               <person xml:id="schiller_friedrich">
+                  <persName>
+                     <surname>Schiller</surname>
+                     <forename>Friedrich</forename>
+                     <roleName>Schriftsteller</roleName>
+                  </persName>
+                  <idno>http://d-nb.info/gnd/118607626</idno>
+               </person>
+               <person xml:id="hebbel_friedrich">
+                  <persName>
+                     <surname>Hebbel</surname>
+                     <forename>Friedrich</forename>
+                     <roleName>Schriftsteller</roleName>
+                  </persName>
+                  <idno>http://d-nb.info/gnd/118547445</idno>
+               </person>
+               <person xml:id="devrient_otto">
+                  <persName>
+                     <surname>Devrient</surname>
+                     <forename>Otto</forename>
+                     <roleName>Schauspieler</roleName>
+                  </persName>
+                  <idno/>
+               </person>
             </listPerson>
          </p>
       </body>
