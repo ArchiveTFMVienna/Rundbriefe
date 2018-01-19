@@ -115,6 +115,37 @@
                         <orgName>Akademie der bildenden Künste Wien</orgName>
                         <idno type="URL">http://d-nb.info/gnd/2003761-2</idno>
                     </org>
+                    <org xml:id="wien-film">
+                        <orgName>Wien-Film</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/4306622-7</idno>
+                        <desc>Filmgesellschaft</desc>
+                    </org>
+                    <org xml:id="ufa">
+                        <orgName full="abb">UFA</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/19944-8</idno>
+                        <desc>Filmgesellschaft</desc>
+                    </org>
+                    <org xml:id="deutsches_nationaltheater">
+                        <orgName>Deutsches Nationaltheater</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/117758-8</idno>
+                    </org>
+                    <org xml:id="universitaet_jena">
+                        <orgName>Universität Jena</orgName>
+                        <orgName type="alt">Friedrich-Schiller-Universität Jena</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/36164-1</idno>
+                    </org>
+                    <org xml:id="technische_hochschule_wien">
+                        <orgName>Technische Universität Wien</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/55426-1</idno>
+                    </org>
+                    <org xml:id="technische_hochschule_hannover">
+                        <orgName>Technische Hochschule Hannover</orgName>
+                        <idno/>
+                    </org>
+                    <org xml:id="theaterwissenschaftliches_institut_hannover">
+                        <orgName>Theaterwissenschaftliches Institut an der <rs type="org" ref="#technische_hochschule_hannover">Technischen Hochschule Hannover</rs></orgName>
+                        <idno/>
+                    </org>
                 </listOrg>
             </p>
         </body>

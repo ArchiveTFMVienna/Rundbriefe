@@ -188,6 +188,28 @@
                </location>
                <idno type="URL">http://d-nb.info/gnd/4001366-2</idno>
             </place>
+            <place xml:id="weimar" type="city">
+               <placeName>Weimar</placeName>
+               <location>
+                  <geo decls="LatLng">50.979444 11.329722</geo>
+               </location>
+               <idno type="URL">http://d-nb.info/gnd/4065105-8</idno>
+            </place>
+            <place xml:id="hannover" type="city">
+               <placeName>Hannover</placeName>
+               <location>
+                  <geo decls="LatLng">52.374444 9.738611</geo>
+               </location>
+               <idno type="URL">http://d-nb.info/gnd/4023349-2</idno>
+            </place>
+            <place xml:id="wien_I" type="district">
+               <placeName>Wien I</placeName>
+               <placeName type="alt">Wien Innere Stadt</placeName>
+               <location>
+                  <geo decls="LatLng">48.209722 16.37</geo>
+               </location>
+               <idno type="URL">http://d-nb.info/gnd/4302711-8</idno>
+            </place>
          </listPlace>
       </body>
   </text>

@@ -143,6 +143,36 @@
                         <author><rs type="person" ref="#goethe_johann">Johann Wolfgang von Goethe</rs></author>
                         <idno>http://d-nb.info/gnd/4127437-4</idno>
                     </bibl>
+                    <bibl xml:id="dramaturgische_einrichtung">
+                        <title>Die dramaturgische Einrichtung des Bühnenbildes</title>
+                        <author><rs type="person" ref="#niedermoser_">Niedermoser</rs></author>
+                        <idno/>
+                    </bibl>
+                    <bibl xml:id="dramaturgie_des_films">
+                        <title>Dramaturgie des Films</title>
+                        <author><rs type="person" ref="#börge_vagn">Vagn Börge</rs></author>
+                        <idno/>
+                    </bibl>
+                    <bibl xml:id="einfuehrung_kostuemkunde">
+                        <title>Einführung in die Kostümkunde</title>
+                        <author><rs type="person" ref="#lutz_">Lutz</rs></author>
+                        <idno/>
+                    </bibl>
+                    <bibl xml:id="drama_und_dramaturgie">
+                        <title>Drama und Dramaturgie des 20. Jahrhunderts</title>
+                        <author><rs type="person" ref="#zurnedden_">Zur Nedden</rs></author>
+                        <idno/>
+                    </bibl>
+                    <bibl xml:id="komposition_im_buehnenbild">
+                        <title>Komposition im Bühnenbild</title>
+                        <author><rs type="person" ref="#grom-rottmayer_hermann">Hermann Grom-Rottmayer</rs></author>
+                        <idno/>
+                    </bibl>
+                    <bibl xml:id="dramaturg_und_spielplangestaltung">
+                        <title>Der Dramaturg und die Spielplangestaltung</title>
+                        <author><rs type="person" ref="#kindermann_heinz">Heinz Kindermann</rs></author>
+                        <idno/>
+                    </bibl>
                 </listBibl>
             </p>
         </body>
