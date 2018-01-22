@@ -74,7 +74,7 @@
       <body>
          <pb n="20"/>
          <div type="letter" n="1">
-            <fw type="pageNum" style="text-align:center">– 20 –</fw>
+            <fw type="pageNum" style="text-align:center">– 20 –</fw><lb/>
             <opener><salute>Liebe Kameraden!</salute></opener>
             <p>Wieder ist ein Semester unter den denkbar schwierigsten Umständen zu Ende geführt
                worden. Trotzdem hat uns das <date>Sommersemester 1944</date> in unserer
@@ -169,7 +169,7 @@
                Übergewicht jenseits der Druckerschwärze und Vortragsräume bot, Dichter hätten
                verzweifeln müssen. Sie, die wenigen </p>
             <pb n="22"/>
-            <fw type="pageNum" style="text-align:center">– 22 –</fw>
+            <fw type="pageNum" style="text-align:center">– 22 –</fw><p/>
             <p>wirklichen Dichter eines Menschenalters dieser Zeit, haben ihren Lebens- und
                Schaffensatem nur aus dieser verschwiegenen Welt des Volkes gewinnen können. Und so
                hat auch das Volk jenseits von Presse und Rednerpult zu den Werken der Wenigen
@@ -210,7 +210,7 @@
                wollen.</p>
             <p>Es gab sehr wenige Bühnen, wo diese Überwucht der ausgestal-</p>
             <pb n="23"/>
-            <fw type="pageNum" style="text-align:center">– 23 –</fw>
+            <fw type="pageNum" style="text-align:center">– 23 –</fw><p/>
             <p>tenden Kräfte nicht vorherrschend gewesen wäre und dennoch – so barock dies jetzt
                klingen mag –, weil eben auch künstlerische Menschen zur Wirkung gelangen konnten, zu
                einer hochentwickelten Art der Gestaltungs<hi rend="letterspace">technik</hi>
@@ -251,7 +251,7 @@
                weggeräumt werden muß, als sonst zu beseitigen nötig wäre. Die Theaterwissenschaft
                und die geistige Jugend, die sich ihr widmet, soll diesen Neubeginn gleich</p>
             <pb n="24"/>
-            <fw type="pageNum" style="text-align:center">– 24 –</fw>
+            <fw type="pageNum" style="text-align:center">– 24 –</fw><p/>
             <p>richtig erfassen und vorbereitet finden. Der wichtigste Schritt hiezu wird dann getan
                sein, wenn das Bewußtsein geweckt und das Verständnis dafür gefunden ist, ähnlich wie
                bei der Musik auch bei der Bühnenkunst nicht das Mittlertum der Ausgestaltung zum
@@ -281,7 +281,7 @@
                <p><rs type="place" ref="#kleinmachnow">Klein-Machnow-Berlin</rs>, <date
                      when="1944-07">Juli 1944</date>.</p>
                <closer><signed>Friedrich <hi rend="letterspace">Kayssler</hi>.</signed></closer>
-            </div>
+            </div><lb/>
             <div type="letter" n="4">
                <opener><salute>Meine lieben Soldaten draußen im Feld!</salute></opener>
                <p>Ich weiß nicht, ob es Euch ähnlich ergeht wie mir? Nie sind mir <rs type="person"
@@ -304,7 +304,7 @@
                   aufgewühlt, um wieviel liebevoller gehen wir an die selteneren Worte und Gedanken,
                   wieviel zarter und strenger</p>
                <pb n="26"/>
-               <fw type="pageNum" style="text-align:center">– 26 –</fw>
+               <fw type="pageNum" style="text-align:center">– 26 –</fw><p/>
                <p>formen wir die Gefühlswelt dieser Heroen. Unser ganzes Liebesbedürfnis, unsere
                   Sehnsüchte und Hoffnungen legen wir in unsere Stimme. Es ist ein großer Trost, daß
                   uns in diesen aufwühlenden Zeiten ein Gott die Fähigkeit gab, wie Tasso sagen zu
@@ -326,9 +326,10 @@
                   kunstbegeisterte Seele mit der ganzen brüderlichen Liebe meines Herzens.</p>
                <p><rs type="place" ref="#wien">Wien</rs>, <date when="1944-07">Juli 1944</date>.</p>
                <closer><signed>Euer <rs type="person" subtype="acting" ref="#herterich_franz">Franz
-                           <hi rend="letterspace">Herterich</hi></rs>.</signed></closer>
+                  <hi rend="letterspace">Herterich</hi></rs>.</signed></closer>
             </div>
             <div type="letter" n="5">
+               <p/>
                <p>Kunst und Wissenschaft sind doch stets zwei schwesterliche Begriffe gewesen; daß
                   nun die Wissenschaft auch die Theaterkunst betreut, daß die heutige Theaterkunst
                   die Wissenschaft anregt, ist eine aus reicher Vergangenheit sich entwickelnde
@@ -346,13 +347,14 @@
                            rend="letterspace">Pirchan</hi></rs>.</signed></closer>
             </div>
             <div type="letter" n="6">
+               <p/>
                <p>Wenn ich mich den Grüßen an die Leser der Feldpost-Rundbriefe anschließe, so tue
                   ich das mit allen erdenklichen, herzlichen Wünschen für das persönliche
                   Wohlergehen jedes einzelnen von Ihnen.</p>
                <p>Möge die Zeit nicht mehr allzu fern sein, die auch wiederum eine persönliche
                   Zusammenarbeit ermöglicht. Der geistige Austausch</p>
                <pb n="27"/>
-               <fw type="pageNum" style="text-align:center">– 27 –</fw>
+               <fw type="pageNum" style="text-align:center">– 27 –</fw><p/>
                <p>und die ebenso anregenden wie ersprießlichen Wechselbeziehungen zwischen dem <rs
                      type="org" ref="#zentralinstitut">Zentralinstitut für Theaterwissenschaft</rs>
                   und meinem <rs type="org" ref="#max_reinhardt_seminar">Schönbrunner Schauspiel-
@@ -363,6 +365,7 @@
                            rend="letterspace">Niederführ</hi></rs>.</signed></closer>
             </div>
             <div type="letter" n="7">
+               <p/>
                <p>Auch ich als Däne möchte gerne den Theaterwissenschaftlern an der Front einen Gruß
                   schicken. Ihr wirkt mit in einem für uns alle entscheidenden Drama des Lebens.</p>
                <closer><signed>Regisseur Doz. Dr. <rs type="person" subtype="acting"
@@ -433,7 +436,7 @@
                         ref="#goetz_von_berlichingen">Götz von Berlichingen</rs>“, „<rs type="work"
                         ref="#peer_gynt">Peer Gynt</rs>“ und andere</p>
                   <pb n="29"/>
-                  <fw type="pageNum" style="text-align:center">– 29 –</fw>
+                  <fw type="pageNum" style="text-align:center">– 29 –</fw><p/>
                   <p>auf den Spielplan eines guten Volkstheaters. – Daß sich aus dem
                      Spezialcharakter der Volkstheater auch eine besondere Art der Schauspielkunst
                      ergibt, ist selbstverständlich. Zum Volksschauspieler gehört eine besondere
@@ -510,7 +513,7 @@
                         ref="#alsfelder_passionsspiel">Alsfelder Passionsspiel</rs>. Dieses aber
                      ist</p>
                   <pb n="30"/>
-                  <fw type="pageNum" style="text-align:center">– 30 –</fw>
+                  <fw type="pageNum" style="text-align:center">– 30 –</fw><p/>
                   <p>auf Mansionen gespielt worden, und als man diesen Irrtum <rs type="person"
                         subtype="mentioned" ref="#devrient_otto">Devrients</rs> erkannt hatte,
                      erwies er sich als fruchtbar: Man begann sich mit dem Faust nun in dieser
@@ -579,7 +582,7 @@
                      mit dem <rs type="org" ref="#zentralinstitut">Zentralinstitut</rs> gewonnen.
                      Durch die Vermittlung dieser beiden Herren</p>
                   <pb n="31"/>
-                  <fw type="pageNum" style="text-align:center">– 31 –</fw>
+                  <fw type="pageNum" style="text-align:center">– 31 –</fw><p/>
                   <p>wird es uns ermöglicht werden, Ateliers zu besuchen, die Dreharbeit zu
                      beobachten und alle großen Filme der Weltproduktion zu sehen. Aber weder die
                      reine Wissenschaft noch die reine Praxis kann die entscheidende Tat
@@ -654,7 +657,7 @@
                         ref="#dramaturg_und_spielplangestaltung" rend="letterspace">Der Dramaturg
                         und die Spielplangestaltung</rs>.“ </p>
                   <pb n="32"/>
-                  <fw type="pageNum" style="text-align:center">– 32 –</fw>
+                  <fw type="pageNum" style="text-align:center">– 32 –</fw><p/>
                   <p><hi rend="letterspace">Die</hi> Persönlichkeit eines Theaters, von welcher der
                      größte Einfluß auf die Spielplangestaltung ausgeht, trägt eine ungeheure
                      Verantwortung! Ob das nun ein Intendant, ein Regisseur, ein Dramaturg oder gar
