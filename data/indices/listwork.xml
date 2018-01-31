@@ -78,6 +78,101 @@
                         <author><rs type="person" ref="#hölderlin_friedrich">Friedrich Hölderlin</rs></author>
                         <idno type="URL">http://d-nb.info/gnd/4099237-8</idno>
                     </bibl>
+                    <bibl xml:id="dramaturg_buehnenbetrieb">
+                        <title>Der Dramaturg im praktischen Bühnenbetrieb</title>
+                        <author><rs type="person" ref="#niederführ_otto">Otto Niederführ</rs></author>
+                        <idno/>
+                    </bibl>
+                    <bibl xml:id="samurai">
+                        <title>Samurai</title>
+                        <author><rs type="person" ref="#jelusich_mirko">Mirko Jelusich</rs></author>
+                        <idno>http://d-nb.info/574100466</idno>
+                    </bibl>
+                    <bibl xml:id="cromwell">
+                        <title>Cromwell</title>
+                        <author><rs type="person" ref="#jelusich_mirko">Mirko Jelusich</rs></author>
+                        <idno>http://d-nb.info/580278107</idno>
+                    </bibl>
+                    <bibl xml:id="goetter_unter_menschen">
+                        <title>Götter unter Menschen</title>
+                        <author><rs type="person" ref="#jelusich_mirko">Mirko Jelusich</rs></author>
+                        <idno/>
+                    </bibl>
+                    <bibl xml:id="bauerntheater">
+                        <title>Prinzipien, Aufbau und Arbeitsweise der Bauerntheater</title>
+                        <author><rs type="person" ref="#exl_ilse">Ilse Exl</rs></author>
+                        <idno/>
+                    </bibl>
+                    <bibl xml:id="wilhelm_tell">
+                        <title>Wilhelm Tell</title>
+                        <author><rs type="person" ref="#schiller_friedrich">Friedrich Schiller</rs></author>
+                        <idno>http://d-nb.info/gnd/4099341-3</idno>
+                    </bibl>
+                    <bibl xml:id="goetz_von_berlichingen">
+                        <title>Götz von Berlichingen</title>
+                        <author><rs type="person" ref="#goethe_johann">Johann Wolfgang von Goethe</rs></author>
+                        <idno>http://d-nb.info/gnd/4099199-4</idno>
+                    </bibl>
+                    <bibl xml:id="peer_gynt">
+                        <title>Peer Gynt</title>
+                        <author><rs type="person" ref="#ibsen_henrik">Henrik Ibsen</rs></author>
+                        <idno>http://d-nb.info/gnd/4256031-7</idno>
+                    </bibl>
+                    <bibl xml:id="nibelungen">
+                        <title>Die Nibelungen</title>
+                        <author><rs type="person" ref="#hebbel_friedrich">Friedrich Hebbel</rs></author>
+                        <idno>http://d-nb.info/gnd/4331538-0</idno>
+                    </bibl>
+                    <bibl xml:id="goethe_und_das_theater">
+                        <title>Goethe und das Theater</title>
+                        <author><rs type="person" ref="#gregor_">Gregor</rs></author>
+                        <idno/>
+                    </bibl>
+                    <bibl xml:id="faust_I">
+                        <title>Faust I.</title>
+                        <author><rs type="person" ref="#goethe_johann">Johann Wolfgang von Goethe</rs></author>
+                        <idno/>
+                    </bibl>
+                    <bibl xml:id="alsfelder_passionsspiel">
+                        <title><rs type="place" ref="#alsfeld">Alsfelder</rs> Passionsspiel</title>
+                        <author/>
+                        <idno>http://d-nb.info/gnd/4192483-6</idno>
+                    </bibl>
+                    <bibl xml:id="urfaust">
+                        <title>Urfaust</title>
+                        <author><rs type="person" ref="#goethe_johann">Johann Wolfgang von Goethe</rs></author>
+                        <idno>http://d-nb.info/gnd/4127437-4</idno>
+                    </bibl>
+                    <bibl xml:id="dramaturgische_einrichtung">
+                        <title>Die dramaturgische Einrichtung des Bühnenbildes</title>
+                        <author><rs type="person" ref="#niedermoser_">Niedermoser</rs></author>
+                        <idno/>
+                    </bibl>
+                    <bibl xml:id="dramaturgie_des_films">
+                        <title>Dramaturgie des Films</title>
+                        <author><rs type="person" ref="#börge_vagn">Vagn Börge</rs></author>
+                        <idno/>
+                    </bibl>
+                    <bibl xml:id="einfuehrung_kostuemkunde">
+                        <title>Einführung in die Kostümkunde</title>
+                        <author><rs type="person" ref="#lutz_">Lutz</rs></author>
+                        <idno/>
+                    </bibl>
+                    <bibl xml:id="drama_und_dramaturgie">
+                        <title>Drama und Dramaturgie des 20. Jahrhunderts</title>
+                        <author><rs type="person" ref="#zurnedden_">Zur Nedden</rs></author>
+                        <idno/>
+                    </bibl>
+                    <bibl xml:id="komposition_im_buehnenbild">
+                        <title>Komposition im Bühnenbild</title>
+                        <author><rs type="person" ref="#grom-rottmayer_hermann">Hermann Grom-Rottmayer</rs></author>
+                        <idno/>
+                    </bibl>
+                    <bibl xml:id="dramaturg_und_spielplangestaltung">
+                        <title>Der Dramaturg und die Spielplangestaltung</title>
+                        <author><rs type="person" ref="#kindermann_heinz">Heinz Kindermann</rs></author>
+                        <idno/>
+                    </bibl>
                 </listBibl>
             </p>
         </body>

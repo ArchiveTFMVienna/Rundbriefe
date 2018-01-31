@@ -74,7 +74,8 @@
       <body>
          <pb n="20"/>
          <div type="letter" n="1">
-            <salute>Liebe Kameraden!</salute>
+            <fw type="pageNum" style="text-align:center">– 20 –</fw><lb/>
+            <opener><salute>Liebe Kameraden!</salute></opener>
             <p>Wieder ist ein Semester unter den denkbar schwierigsten Umständen zu Ende geführt
                worden. Trotzdem hat uns das <date>Sommersemester 1944</date> in unserer
                wissenschaftlichen wie auch in der praktischen Arbeit um ein Bedeutendes
@@ -125,12 +126,14 @@
                fortsetzen, wollen wir, die wir selbst alle Soldaten waren, unbedingt die Fühlung mit
                Euch nicht verlieren. In diesem Sinne freue ich mich auf eine gute
                Zusammenarbeit.</p>
-            <salute>Heil Hitler!</salute>
-            <signed>Der Fachschaftsleiter:<lb/> gez. <rs type="person" subtype="acting"
-                  ref="#zeckl_alfred">Alfred <hi rend="letterspace">Zeckl</hi></rs></signed>
+            <closer><salute>Heil Hitler!</salute>
+               <signed>Der Fachschaftsleiter:<lb/> gez. <rs type="person" subtype="acting"
+                     ref="#zeckl_alfred">Alfred <hi rend="letterspace"
+               >Zeckl</hi></rs></signed></closer>
          </div>
          <pb n="21"/>
          <div type="letter" n="2">
+            <fw type="pageNum" style="text-align:center">– 21 –</fw>
             <head type="main" style="text-align:center">E. G. Kolbenheyer: Dienst am
                Kunstwerk</head>
             <p>Der Einhieb, den der lange, opfervolle Kriegsdienst in die Entwicklung der geistigen
@@ -166,6 +169,7 @@
                Übergewicht jenseits der Druckerschwärze und Vortragsräume bot, Dichter hätten
                verzweifeln müssen. Sie, die wenigen </p>
             <pb n="22"/>
+            <fw type="pageNum" style="text-align:center">– 22 –</fw><p/>
             <p>wirklichen Dichter eines Menschenalters dieser Zeit, haben ihren Lebens- und
                Schaffensatem nur aus dieser verschwiegenen Welt des Volkes gewinnen können. Und so
                hat auch das Volk jenseits von Presse und Rednerpult zu den Werken der Wenigen
@@ -206,6 +210,7 @@
                wollen.</p>
             <p>Es gab sehr wenige Bühnen, wo diese Überwucht der ausgestal-</p>
             <pb n="23"/>
+            <fw type="pageNum" style="text-align:center">– 23 –</fw><p/>
             <p>tenden Kräfte nicht vorherrschend gewesen wäre und dennoch – so barock dies jetzt
                klingen mag –, weil eben auch künstlerische Menschen zur Wirkung gelangen konnten, zu
                einer hochentwickelten Art der Gestaltungs<hi rend="letterspace">technik</hi>
@@ -246,6 +251,7 @@
                weggeräumt werden muß, als sonst zu beseitigen nötig wäre. Die Theaterwissenschaft
                und die geistige Jugend, die sich ihr widmet, soll diesen Neubeginn gleich</p>
             <pb n="24"/>
+            <fw type="pageNum" style="text-align:center">– 24 –</fw><p/>
             <p>richtig erfassen und vorbereitet finden. Der wichtigste Schritt hiezu wird dann getan
                sein, wenn das Bewußtsein geweckt und das Verständnis dafür gefunden ist, ähnlich wie
                bei der Musik auch bei der Bühnenkunst nicht das Mittlertum der Ausgestaltung zum
@@ -256,26 +262,31 @@
             <pb n="25"/>
          </div>
          <div type="letter" n="3">
+            <fw type="pageNum" style="text-align:center">– 25 –</fw>
             <div>
                <head type="main" style="text-align:center">Grüße von Freunden des Zentralinstituts
                   an die Fernbetreuten</head>
-               <p>Den Studierenden der Theaterwissenschaft, die das <rs type="org" ref="#zentralinstitut">Zentralinstitut für
-                  Theaterwissenschaft</rs> als Soldaten von der <rs type="org" ref="#universitaet_wien">Universität Wien</rs> aus betreut, sende ich
-                  meine herzlichen Grüße und die allerbesten Wünsche für den Krieg und für ihre
-                  Arbeit nach dem Kriege. Ich fühle mich ihnen verbunden in dem stolzen Bewußtsein,
-                  daß unsere deutsche Kulturarbeit mitten durch diesen Krieg unbeirrbar weiter ihren
-                  Weg nimmt, wie ein herrlicher Strom der Natur, in ruhiger Gelassenheit.</p>
-               <p>Das <rs type="org" ref="#zentralinstitut">Zentralinstitut für Theaterwissenschaft</rs> ist eines der Vorbilder in dieser
-                  Gelassenheit, es sorgt dafür, daß seine studierenden Soldaten, wo sie auch sind,
-                  das Rauschen dieses heimatlichen Stromes hören.</p>
-               <p><rs type="place" ref="#kleinmachnow">Klein-Machnow-Berlin</rs>, <date when="1944-07">Juli 1944</date>.</p>
-               <signed>Friedrich <hi rend="letterspace">Kayssler</hi>.</signed>
-            </div>
+               <p>Den Studierenden der Theaterwissenschaft, die das <rs type="org"
+                     ref="#zentralinstitut">Zentralinstitut für Theaterwissenschaft</rs> als
+                  Soldaten von der <rs type="org" ref="#universitaet_wien">Universität Wien</rs> aus
+                  betreut, sende ich meine herzlichen Grüße und die allerbesten Wünsche für den
+                  Krieg und für ihre Arbeit nach dem Kriege. Ich fühle mich ihnen verbunden in dem
+                  stolzen Bewußtsein, daß unsere deutsche Kulturarbeit mitten durch diesen Krieg
+                  unbeirrbar weiter ihren Weg nimmt, wie ein herrlicher Strom der Natur, in ruhiger
+                  Gelassenheit.</p>
+               <p>Das <rs type="org" ref="#zentralinstitut">Zentralinstitut für
+                     Theaterwissenschaft</rs> ist eines der Vorbilder in dieser Gelassenheit, es
+                  sorgt dafür, daß seine studierenden Soldaten, wo sie auch sind, das Rauschen
+                  dieses heimatlichen Stromes hören.</p>
+               <p><rs type="place" ref="#kleinmachnow">Klein-Machnow-Berlin</rs>, <date
+                     when="1944-07">Juli 1944</date>.</p>
+               <closer><signed>Friedrich <hi rend="letterspace">Kayssler</hi>.</signed></closer>
+            </div><lb/>
             <div type="letter" n="4">
-               <salute>Meine lieben Soldaten draußen im Feld!</salute>
-               <p>Ich weiß nicht, ob es Euch ähnlich ergeht wie mir? Nie sind mir <rs type="person" subtype="mentioned" ref="#goethe_johann"
-                  >Goethes</rs> Worte
-                  „Zwei Seelen wohnen, ach, in meiner Brust“ deutlicher geworden als jetzt im großen
+               <opener><salute>Meine lieben Soldaten draußen im Feld!</salute></opener>
+               <p>Ich weiß nicht, ob es Euch ähnlich ergeht wie mir? Nie sind mir <rs type="person"
+                     subtype="mentioned" ref="#goethe_johann">Goethes</rs> Worte „Zwei Seelen
+                  wohnen, ach, in meiner Brust“ deutlicher geworden als jetzt im großen
                   weltumpflügenden Kampf um die Existenz unseres Volkes und damit um die Existenz
                   unserer Theaterkunst. Ich fühle, wie der eine Teil meiner Seele sich an diese
                   irdisch-prosaische Welt klammert, wie aber der andere Teil immer mehr sich in sich
@@ -285,14 +296,15 @@
                   wir jetzt in den deutschen Theatern Dramen aufführen können, in die wir in
                   Friedenszeiten die breitere Masse des Publikums nicht mit zehn Pferden
                   hineingebracht hätten. Wer hätte es früher gewagt, den „<rs type="work"
-                     ref="#empedokles">Empedokles</rs>“ <rs type="person" subtype="mentioned" ref="#hölderlin_friedrich"
-                        >Hölderlins</rs>
-                  oder dessen eigenartige Antigonä-Übertragung dreißigmal auf den Spielplan zu
-                  setzen? Und welche Freude ist es für uns Schauspieler und Spielleiter, solche
-                  Raritäten unserer herrlichen Literatur zu formen und zu gestalten. Um wieviel
-                  tiefer wird unsere Seele aufgewühlt, um wieviel liebevoller gehen wir an die
-                  selteneren Worte und Gedanken, wieviel zarter und strenger</p>
+                     ref="#empedokles">Empedokles</rs>“ <rs type="person" subtype="mentioned"
+                     ref="#hölderlin_friedrich">Hölderlins</rs> oder dessen eigenartige
+                  Antigonä-Übertragung dreißigmal auf den Spielplan zu setzen? Und welche Freude ist
+                  es für uns Schauspieler und Spielleiter, solche Raritäten unserer herrlichen
+                  Literatur zu formen und zu gestalten. Um wieviel tiefer wird unsere Seele
+                  aufgewühlt, um wieviel liebevoller gehen wir an die selteneren Worte und Gedanken,
+                  wieviel zarter und strenger</p>
                <pb n="26"/>
+               <fw type="pageNum" style="text-align:center">– 26 –</fw><p/>
                <p>formen wir die Gefühlswelt dieser Heroen. Unser ganzes Liebesbedürfnis, unsere
                   Sehnsüchte und Hoffnungen legen wir in unsere Stimme. Es ist ein großer Trost, daß
                   uns in diesen aufwühlenden Zeiten ein Gott die Fähigkeit gab, wie Tasso sagen zu
@@ -305,18 +317,19 @@
                   geschaffen wurde, wo sie all das vereint findet, was uns am heutigen Theaterleben
                   interessiert, wo sie sich mit gleichgestimmten Seelen zusammenfindet und
                   Zwiesprache und Gedankenaustausch pflegen kann. Wir haben es jetzt, wo sich die
-                  Gründung des <rs type="org" ref="#zentralinstitut">Zentralinstituts für Theaterwissenschaft</rs> jährte, besonders stark
-                  empfunden, wie sehr sich die Fäden dieses geistigen Zusammenschlusses weit hinaus
-                  erstrecken in die europäischen Kulturkreise, wie sehr sie auch Euch umschlingen
-                  und einbeziehen in das nie ruhende Schaffen unserer Theaterwelt und gerade Euch
-                  das Gefühl innerer Zugehörigkeit geben wollen. Und so grüße auch ich Eure
-                  kunstbeflissene und kunstbegeisterte Seele mit der ganzen brüderlichen Liebe
-                  meines Herzens.</p>
+                  Gründung des <rs type="org" ref="#zentralinstitut">Zentralinstituts für
+                     Theaterwissenschaft</rs> jährte, besonders stark empfunden, wie sehr sich die
+                  Fäden dieses geistigen Zusammenschlusses weit hinaus erstrecken in die
+                  europäischen Kulturkreise, wie sehr sie auch Euch umschlingen und einbeziehen in
+                  das nie ruhende Schaffen unserer Theaterwelt und gerade Euch das Gefühl innerer
+                  Zugehörigkeit geben wollen. Und so grüße auch ich Eure kunstbeflissene und
+                  kunstbegeisterte Seele mit der ganzen brüderlichen Liebe meines Herzens.</p>
                <p><rs type="place" ref="#wien">Wien</rs>, <date when="1944-07">Juli 1944</date>.</p>
-               <signed>Euer <rs type="person" subtype="acting"
-                  ref="#herterich_franz">Franz <hi rend="letterspace">Herterich</hi></rs>.</signed>
+               <closer><signed>Euer <rs type="person" subtype="acting" ref="#herterich_franz">Franz
+                  <hi rend="letterspace">Herterich</hi></rs>.</signed></closer>
             </div>
             <div type="letter" n="5">
+               <p/>
                <p>Kunst und Wissenschaft sind doch stets zwei schwesterliche Begriffe gewesen; daß
                   nun die Wissenschaft auch die Theaterkunst betreut, daß die heutige Theaterkunst
                   die Wissenschaft anregt, ist eine aus reicher Vergangenheit sich entwickelnde
@@ -325,32 +338,352 @@
                   erfreuliche Erscheinung, daß sie in Zukunft noch enger, noch fruchtbringender
                   werde, das soll unsere Sorge sein!</p>
                <p>In diesem Sinne grüße ich die fernbetreuten Studierenden des nun schon im ersten
-                  Jahre des Bestandes des so erfolgreichen <rs type="org" ref="#zentralinstitut">Zentralinstituts für Theaterwissenschaft</rs>
-                  der <rs type="org" ref="#universitaet_wien">Wiener Universität.</rs></p>
-               <p><rs type="place" ref="#wien">Wien</rs>, im <date when="1944-07">Juli 1944</date>.</p>
-               <signed>Prof. <rs type="person" subtype="acting"
-                  ref="#pirchan_emil">Emil <hi rend="letterspace">Pirchan</hi></rs>.</signed>
+                  Jahre des Bestandes des so erfolgreichen <rs type="org" ref="#zentralinstitut"
+                     >Zentralinstituts für Theaterwissenschaft</rs> der <rs type="org"
+                     ref="#universitaet_wien">Wiener Universität.</rs></p>
+               <p><rs type="place" ref="#wien">Wien</rs>, im <date when="1944-07">Juli
+                  1944</date>.</p>
+               <closer><signed>Prof. <rs type="person" subtype="acting" ref="#pirchan_emil">Emil <hi
+                           rend="letterspace">Pirchan</hi></rs>.</signed></closer>
             </div>
             <div type="letter" n="6">
+               <p/>
                <p>Wenn ich mich den Grüßen an die Leser der Feldpost-Rundbriefe anschließe, so tue
                   ich das mit allen erdenklichen, herzlichen Wünschen für das persönliche
                   Wohlergehen jedes einzelnen von Ihnen.</p>
                <p>Möge die Zeit nicht mehr allzu fern sein, die auch wiederum eine persönliche
                   Zusammenarbeit ermöglicht. Der geistige Austausch</p>
                <pb n="27"/>
-               <p>und die ebenso anregenden wie ersprießlichen Wechselbeziehungen zwischen dem
-                  <rs type="org" ref="#zentralinstitut">Zentralinstitut für Theaterwissenschaft</rs> und meinem <rs type="org" ref="#max_reinhardt_seminar">Schönbrunner Schauspiel- und
-                  Regieseminar</rs>, der „Schauspielschule des Burgtheaters“, die so verheißungsvoll
-                  eingeleitet und auch schon weiter entwickelt wurden, werden sich dann noch weitaus
-                  fruchtbarer gestalten lassen.</p>
-               <signed>Dr. <rs type="person" subtype="acting"
-                  ref="#niederführ_otto"><hi rend="letterspace">Niederführ</hi></rs>.</signed>
+               <fw type="pageNum" style="text-align:center">– 27 –</fw><p/>
+               <p>und die ebenso anregenden wie ersprießlichen Wechselbeziehungen zwischen dem <rs
+                     type="org" ref="#zentralinstitut">Zentralinstitut für Theaterwissenschaft</rs>
+                  und meinem <rs type="org" ref="#max_reinhardt_seminar">Schönbrunner Schauspiel-
+                     und Regieseminar</rs>, der „Schauspielschule des Burgtheaters“, die so
+                  verheißungsvoll eingeleitet und auch schon weiter entwickelt wurden, werden sich
+                  dann noch weitaus fruchtbarer gestalten lassen.</p>
+               <closer><signed>Dr. <rs type="person" subtype="acting" ref="#niederführ_otto"><hi
+                           rend="letterspace">Niederführ</hi></rs>.</signed></closer>
             </div>
             <div type="letter" n="7">
+               <p/>
                <p>Auch ich als Däne möchte gerne den Theaterwissenschaftlern an der Front einen Gruß
                   schicken. Ihr wirkt mit in einem für uns alle entscheidenden Drama des Lebens.</p>
-               <signed>Regisseur Doz. Dr. <rs type="person" subtype="acting"
-                  ref="#börge_vagn">Vagn <hi rend="letterspace">Börge</hi></rs>.</signed>
+               <closer><signed>Regisseur Doz. Dr. <rs type="person" subtype="acting"
+                        ref="#börge_vagn">Vagn <hi rend="letterspace"
+                  >Börge</hi></rs>.</signed></closer>
+            </div>
+            <pb n="28"/>
+            <div type="letter" n="8">
+               <fw type="pageNum" style="text-align:center">– 28 –</fw>
+               <div>
+                  <head type="main" style="text-align:center">Bericht über die Ringvorlesung</head>
+                  <head type="sub" style="text-align:center">Sommersemester 1944</head>
+                  <p>Semesterschluß! Wir melden uns wieder mit dem Ringvorlesungsbericht! – Es muß
+                     sicher nicht noch einmal erklärt werden, worum es sich handelt, denn das ist ja
+                     schon beim letztenmal geschehen.</p>
+                  <p>In diesem Semester galt die Ringvorlesung, wie schon angekündigt, den
+                     angehenden <hi rend="letterspace">Dramaturgen</hi>, wieder sprachen namhafte
+                     Theaterpersönlichkeiten zu uns: Theaterleiter, Regisseure, Dramaturgen,
+                     Bühnenbildner, Wissenschaftler und ein Dichter. Das Programm aber war viel
+                     reichhaltiger als im vorigen Semester, wir erhielten zahlreiche wertvolle
+                     Eindrücke und Anregungen und möchten versuchen, diese auch Ihnen
+                     mitzuteilen.</p>
+                  <p>Prof. <rs type="person" subtype="acting" ref="#niederführ_otto"
+                        rend="letterspace">Niederführ</rs>, der schon seit langem in der Praxis
+                     steht und doch eigentlich von der wissenschaftlichen Seite herkommt, war ganz
+                     besonders dazu geeignet, die erste dieser Vorlesungen zu halten. Sein Thema
+                     hieß: „<rs type="work" ref="#dramaturg_buehnenbetrieb" rend="letterspace">Der
+                        Dramaturg im praktischen Bühnenbetrieb</rs>.“ In prägnanter Weise klärte er
+                     die Begriffe und korrigierte wohl manchem energisch seine falschen
+                     Vorstellungen. Dramaturgie, das ist heute die Wissenschaft von der dramatischen
+                     Kunst, und <rs type="person" subtype="mentioned"
+                        ref="#lessing_gotthold_ephraim">Lessing</rs> hat diesen Ausdruck zum
+                     erstenmal in seiner modernen Bedeutung gebracht. Die Aufgaben der Dramaturgie
+                     erschöpfen sich aber nicht in der Wissenschaft, nein, die Dramaturgie muß
+                     Einfluß nehmen auf das praktische Theater! Wenn nun auch der Dramaturg am
+                     Theater eine praktisch tätige Persönlichkeit ist, so ist es ihm doch nur in den
+                     seltensten Fällen möglich, dieser Aufgabe gerecht zu werden. Sein Beruf ist zu
+                     dem eines Lektors und artistischen Sekretärs herabgesunken. Nur ganz starken
+                     Persönlichkeiten, denen – nebenbei gesagt – die praktische Schulung niemals
+                     schadet, gelingt es, Einfluß auf den Spielplan zu gewinnen und somit in ihren
+                     eigentlichen Aufgabenbereich zu stoßen: das Antlitz des Theaters mit zu
+                     bestimmen.</p>
+                  <p>Der Dichter und Dramatiker <rs type="person" subtype="acting"
+                        ref="#jelusich_mirko" rend="letterspace">Mirko Jelusich</rs>, der für kurze
+                     Zeit einmal die Direktion des <rs type="org" ref="#burgtheater"
+                        >Burgtheaters</rs> führte, war der Vortragende bei unserer nächsten
+                     Zusammenkunft. Er las uns Szenen vor aus seinen Dramen „<rs type="work"
+                        ref="#samurai">Samurai</rs>“, „<rs type="work" ref="#cromwell"
+                        >Cromwell“</rs> und dem Lustspiel „<rs type="work"
+                        ref="#goetter_unter_menschen">Götter unter Menschen</rs>“. Die ungeheuer
+                     lebendige Gestaltungskraft <rs type="person" subtype="mentioned"
+                        ref="#jelusich_mirko">Jelusichs</rs> machte uns allen großen Eindruck.</p>
+                  <p>Etwas vollkommen anderes bot uns dann aber die folgende Veranstaltung! Es fand
+                     endlich die langersehnte praktische Exkursion ins <rs type="org"
+                        ref="#burgtheater" rend="letterspace">Burgtheater</rs> statt. Der technische
+                     Direktor, Dipl.-Ing. <rs type="person" subtype="acting" ref="#winzberger_"
+                        rend="letterspace">Winzberger</rs>, führte uns sämtliche wichtigen
+                     technischen Einrichtungen des Bühnenhauses vor, und wir erhielten somit einen
+                     kleinen Einblick in diese Verhältnisse.</p>
+                  <p>Über „<rs type="work" ref="#bauerntheater" rend="letterspace">Prinzipien,
+                        Aufbau und Arbeitsweise der Bauerntheater</rs>“ sprach in der nächsten
+                     Vorlesung Frau <rs type="person" subtype="acting" ref="#exl_ilse"
+                        rend="letterspace">Ilse Exl</rs> zu uns. Wie sehr verkennt man die Volks-
+                     und Bauerntheater, wenn man, auf Grund schlechter Erfahrungen, annimmt, daß
+                     hier nur die leichte, volkstümelnde Produktion zu Wort käme! Nach Frau <rs
+                        type="person" subtype="acting" ref="#exl_ilse">Exls</rs> Ansicht gehören
+                     auch „<rs type="work" ref="#wilhelm_tell">Wilhelm Tell</rs>“, „<rs type="work"
+                        ref="#goetz_von_berlichingen">Götz von Berlichingen</rs>“, „<rs type="work"
+                        ref="#peer_gynt">Peer Gynt</rs>“ und andere</p>
+                  <pb n="29"/>
+                  <fw type="pageNum" style="text-align:center">– 29 –</fw><p/>
+                  <p>auf den Spielplan eines guten Volkstheaters. – Daß sich aus dem
+                     Spezialcharakter der Volkstheater auch eine besondere Art der Schauspielkunst
+                     ergibt, ist selbstverständlich. Zum Volksschauspieler gehört eine besondere
+                     Begabung. – Nachdem Frau <rs type="person" subtype="acting" ref="#exl_ilse"
+                        >Ilse Exl</rs> geendet hatte, ergriff <hi rend="letterspace">Frau</hi>
+                     <rs type="person" subtype="acting" ref="#exl_anna" rend="letterspace">Exl
+                        sen.</rs> das Wort und las uns einige Erzählungen von <rs type="person"
+                        subtype="mentioned" ref="#schoenherr_">Schönherr</rs> meisterlich vor.</p>
+                  <p>Einen ungeheuer starken Eindruck hinterließ bei uns allen der Abend, an dem
+                     Oberspielleiter <rs type="person" subtype="acting" ref="#waniek_herbert"
+                        rend="letterspace">Herbert Waniek</rs> vom <rs type="org" ref="#burgtheater"
+                        >Burgtheater</rs> bei uns war! Über den <hi rend="letterspace"
+                        >dramaturgischen Regisseur</hi> wollte er sprechen, aber es war gerade das
+                     Schöne, daß er – aus einem übervollen Herzen – so oft abschweifte und uns
+                     unendlich viel von seinen eigenen Gedanken und persönlichen Erfahrungen
+                     mitteilte. In überaus herzlichen Worten gab er seiner Freude darüber Ausdruck,
+                     vor uns, als dem Nachwuchs, einmal „auspacken“ zu dürfen. Mit einer
+                     Kunstphilosophie begann er: Zwischen Furcht und Lust, Lebensangst und
+                     Lebensfreude steht der Mensch, und aus dieser Polarität wird alle Kunst
+                     geboren. In Augenblicken der Ruhe beginnt der Mensch zu spielen, er gibt seiner
+                     Ergriffenheit Ausdruck und will damit nichts anderes, als diese, seine
+                     Ergriffenheit, anderen Menschen mitteilen. Gelingt es ihm, durch sein Spiel bei
+                     anderen dieselbe Ergriffenheit auszulösen, so hat er als Künstler ein Kunstwerk
+                     geschaffen. Das Theater hat somit im Grunde weder moralische noch unterhaltende
+                     Tendenzen. Es gibt also weder ein Primat des <hi rend="letterspace">rein
+                        geistigen</hi> noch eines des <hi rend="letterspace">rein
+                        komödiantischen</hi> Theaters! (<rs type="place" ref="#berlin">Berlin</rs> –
+                        <rs type="place" ref="#wien">Wien</rs>!). <rs type="person"
+                        subtype="mentioned" ref="#waniek_herbert">Waniek</rs> aber meint, daß das
+                     Theater <hi rend="letterspace">eher</hi> noch für <hi rend="letterspace"
+                        >Kinder</hi> als für <hi rend="letterspace">Philosophen</hi> bestimmt sei.
+                     Beim Gestalt-Werden einer dichterischen Vision auf der Bühne stellt der Geist
+                     der Dichtung den männlichen, die Bühne den weiblichen Teil dar. In der
+                     Aufführung – dem Kind, wenn man so sagen darf – verschmelzen beide Elemente
+                     miteinander. Der Mittler oder Kuppler zwischen Dichtung und Theater ist der
+                     Regisseur. Weder der reine Schauspielerregisseur noch der rein literarische
+                     kann seine Aufgabe bis zum letzten erfüllen. Über beiden steht als Idealfall
+                     der <hi rend="letterspace">dramaturgische</hi> Regisseur. Dieser wird immer vom
+                     Wesentlichen ausgehen und kann nie ungeistig sein. Er muß eine objektive Vision
+                     des Ganzen haben und mehr zensorisch als motorisch veranlagt sein. Er, ein
+                     präziser Phantast, ein maßloser Mathematiker, wird das Auge des Geistes und
+                     zugleich das Auge des Leibes besitzen. – Für seine mitreißenden Worte wurde <rs
+                        type="person" subtype="acting" ref="#waniek_herbert">Waniek</rs> ein
+                     begeisterter Dank zuteil.</p>
+                  <p>Die nächste Woche brachte uns wieder eine Exkursion. Wir besuchten die <hi
+                        rend="letterspace">Ausstellung</hi> der Meisterklasse für Bühnenbildner in
+                     der <rs type="org" ref="#akademie_der_bildenden_kuenste">Akademie der bildenden
+                        Künste</rs>. – Das Problem der Bühnenbildner ist es nicht, <hi
+                        rend="letterspace">einzelne</hi> Bilder zu entwerfen, erklärte uns Prof. <rs
+                        type="person" subtype="acting" ref="#pirchan_emil" rend="letterspace"
+                        >Pirchan</rs>, sondern eine ganze Szenen<hi rend="letterspace">folge</hi>
+                     organisch in Bildern zu gestalten. Darauf beziehen sich auch die Übungen der
+                     Schüler. Diese müssen sich außerdem mit dem Zeichnen von Plänen und
+                     Grundrissen, dem Entwerfen von Kostümen, dem Herstellen von Bühnenbildmodellen
+                     und mit Naturstudien beschäftigen. Die Ausstellung zeigte in dieser Hinsicht
+                     eine Fülle gut gelungener Arbeiten. Es befremdeten freilich einige völlig
+                     abstrakte Architekturen, die sich von den Formen der Wirklichkeit absolut
+                     loslösen, wie z. B. das kreisrunde Domtor in <rs type="person"
+                        subtype="mentioned" ref="#hebbel_friedrich" rend="letterspace">Hebbels</rs>
+                        „<rs type="work" ref="#nibelungen">Nibelungen</rs>“. Wie steht der Mensch
+                     mit seiner sichtbaren und greifbaren Körperlichkeit in diesen Bildern? – So bot
+                     die Ausstellung fruchtbaren Anlaß zu vielen Diskussionen.</p>
+                  <p>„<rs type="work" ref="#goethe_und_das_theater" rend="letterspace">Goethe und
+                        das Theater</rs>“, so hieß das Thema der siebenten Ringvorlesung, die wir
+                     bei Prof. <rs type="person" subtype="acting" ref="#gregor_" rend="letterspace"
+                        >Gregor</rs> hörten. Er umriß in kurzen Zügen eine Dramaturgie des <rs
+                        type="work" ref="#faust_I">Faust I.</rs>, die uns vor höchst interessante
+                     Probleme stellte. <rs type="person" subtype="mentioned" ref="#devrient_otto"
+                        >Otto Devrient</rs> hat hundert Jahre nach dem Erscheinen des <rs
+                        type="work" ref="#urfaust">Urfaust</rs> eine Faust-Bearbeitung
+                     herausgegeben. Er nannte den <rs type="work" ref="#faust_I" rend="letterspace"
+                        >Faust I</rs> ein mittelalterliches Mysterium und wollte ihn auf einer
+                     dreistöckigen Bühne gespielt wissen, wie – das <rs type="work"
+                        ref="#alsfelder_passionsspiel">Alsfelder Passionsspiel</rs>. Dieses aber
+                     ist</p>
+                  <pb n="30"/>
+                  <fw type="pageNum" style="text-align:center">– 30 –</fw><p/>
+                  <p>auf Mansionen gespielt worden, und als man diesen Irrtum <rs type="person"
+                        subtype="mentioned" ref="#devrient_otto">Devrients</rs> erkannt hatte,
+                     erwies er sich als fruchtbar: Man begann sich mit dem Faust nun in dieser
+                     Hinsicht zu beschäftigen! Und wirklich: der <rs type="work" ref="#faust_I"
+                        >Faust I</rs> ist weder klassisch noch <rs type="person" subtype="mentioned"
+                        ref="#shakespeare_william">shakespearisch</rs> noch puppenspielartig,
+                     sondern er hat die dramaturgische Unbekümmertheit eines Mysteriums! Er läuft
+                     langsam an mit einer einzigen, riesigen Expositionsszene! Der Osterspaziergang
+                     ist erst später eingeschoben worden, und der Pakt, von dem an erst die Spannung
+                     eintritt, ist im <rs type="work" ref="#urfaust">Urfaust</rs> und im Fragment
+                     noch nicht vorhanden. Dann aber folgt ein Umherspringen von einem Ort zum
+                     anderen und wieder zurück wie bei den mittelalterlichen Spielen! Man müßte auch
+                     auf dem modernen Theater den Weg des Mysteriums mitgehen! Wenn man den <rs
+                        type="work" ref="#faust_I">Faust I</rs> auf Mansionen spielte, so würde sich
+                        <hi rend="letterspace">die</hi> große Verlegenheit der heutigen Regisseure
+                     und Bühnenbildner leicht und selbstverständlich auflösen. – Es fragt sich nur,
+                     ob wir so ohne weiteres auf die Simultanbühne zurückgreifen können und wie sich
+                     das Publikum dazu stellen würde.</p>
+                  <p>Prof. <rs type="person" subtype="acting" ref="#niedermoser_" rend="letterspace"
+                        >Niedermoser</rs> hat auch in diesem Semester wieder zu uns gesprochen. Es
+                     ging diesmal um „<rs type="work" ref="#dramaturgische_einrichtung"
+                        rend="letterspace">Die dramaturgische Einrichtung des Bühnenbildes</rs>“.
+                     Der Bühnenbildner darf nicht einfach dahinphantasieren, sondern er hat vieles
+                     zu bedenken, bevor er an seine Entwürfe geht: die technischen Möglichkeiten und
+                     den Stil des Hauses und vor allem den Geist des Stückes und der Regie. Das
+                     Bühnenbild muß parallel gehen mit dem Verlauf der Handlung, der optische
+                     Höhepunkt muß zusammenfallen mit dem dramatischen! Ein Problem besteht darin,
+                     daß das Bühnenbild nur optische Möglichkeiten kennt, denn es ist sehr
+                     schwierig, Stimmungen <hi rend="letterspace">nur</hi> durch den Sehsinn zu
+                     vermitteln. Körper, Licht, und Farbe sind die Mittel des Bühnenbildners:
+                     Dramatisches stellt man am besten mehr auf Körper, Mystisches auf Licht und
+                     Stimmungsmäßiges auf Farbe ein. Innerhalb einer einzigen Inszenierung dürften
+                     die Mittel nicht wechseln! Darstellungs- und Ausstattungsstil müssen
+                     aufeinander abgestimmt sein. An vielen praktischen Beispielen – improvisierten
+                     Anzeichnungen an der Tafel und Schülerarbeiten – ging Prof. <rs type="person"
+                        subtype="acting" ref="#niedermoser_">Niedermoser</rs> dann noch auf
+                     Einzelheiten ein: Wie man durch die Beschaffenheit des Bühnenbildes (im
+                     Einvernehmen mit der Regie!) dem Schauspieler einen gewissen Darstellungsstil
+                     geradezu aufzwingen kann, wie man durch die Anlage der Auftrittswege die
+                     Dramatik steigert oder abschwächt, wie man die Beleuchtungsmöglichkeiten
+                     dramaturgisch anwendet usw. – In seiner lebhaften und verblüffend anschaulichen
+                     Weise bereitete uns Prof. <rs type="person" subtype="acting"
+                        ref="#niedermoser_">Niedermoser</rs> wie im vorigen Semester zwei äußerst
+                     anregende und interessante Stunden.</p>
+                  <p>Eine „<rs type="work" ref="#einfuehrung_kostuemkunde" rend="letterspace"
+                        >Einführung in die Kostümkunde</rs>“ gab uns in diesem Semester Dozent <rs
+                        type="person" subtype="acting" ref="#lutz_" rend="letterspace">Lutz</rs>.
+                     Sehr gründlich behandelte er erst die Kleidung, deren Zweck von Anfang an kein
+                     rein praktischer gewesen sein soll, sondern die primär aus dem menschlichen
+                     Schmuckbedürfnis entstanden ist. Dies beweist ihre Entwicklung zur Tracht, in
+                     der das Schmuckmotiv noch deutlicher zutage tritt und in der symbolische
+                     Elemente eine Rolle spielen. Leider war die Zeit schon sehr vorgeschritten, als
+                     die Rede dann auf das Theaterkostüm kam, und dieses konnte darum nur ganz kurz
+                     gestreift werden.</p>
+                  <p>Nun folgte als nächster Dr. <rs type="person" subtype="acting"
+                        ref="#börge_vagn" rend="letterspace">Vagn Börge</rs>, der auch im Rahmen der
+                     Ringvorlesung über seine <rs type="work" ref="#dramaturgie_des_films"
+                        rend="letterspace">Dramaturgie des Films</rs> sprach. Er rechnet sie zur
+                     Geistesgeschichte und Ästhetik, möchte sie aber doch auch von praktischem
+                     Filmverständnis getragen wissen. Es ist für uns Wissenschaftler wichtig, mit
+                     Leuten der Filmpraxis in Verbindung zu treten, damit wir zusammen mit diesen
+                     darauf hinarbeiten können, daß der Film sich zum Kunstwerk erhebt. Dr. <rs
+                        type="person" subtype="acting" ref="#börge_vagn">Börge</rs> hat schon den
+                     Chefdramaturgen der <rs type="org" ref="#wien-film">Wien-Film</rs> und einen
+                     Produktionsleiter der <rs type="org" ref="#ufa">UFA</rs> für die Zusammenarbeit
+                     mit dem <rs type="org" ref="#zentralinstitut">Zentralinstitut</rs> gewonnen.
+                     Durch die Vermittlung dieser beiden Herren</p>
+                  <pb n="31"/>
+                  <fw type="pageNum" style="text-align:center">– 31 –</fw><p/>
+                  <p>wird es uns ermöglicht werden, Ateliers zu besuchen, die Dreharbeit zu
+                     beobachten und alle großen Filme der Weltproduktion zu sehen. Aber weder die
+                     reine Wissenschaft noch die reine Praxis kann die entscheidende Tat
+                     vollbringen: Einmal muß dem Film ein <rs type="person" subtype="mentioned"
+                        ref="#shakespeare_william">Shakespeare</rs> erstehen, und erst dann wird man
+                     ihn uneingeschränkt als Kunstwerk anerkennen können.</p>
+                  <p>In der folgenden Ringvorlesung empfingen wir im <rs type="org"
+                        ref="#zentralinstitut">Institut</rs> wieder einen Gast: den Chefdramaturgen
+                     des <rs type="org" ref="#deutsches_nationaltheater">Nationaltheaters</rs> in
+                        <rs type="place" ref="#weimar">Weimar</rs> und Inhaber des Lehrauftrags für
+                     Theaterwissenschaft an der <rs type="org" ref="#universitaet_jena">Universität
+                        Jena</rs>, Prof. <rs type="person" subtype="acting" ref="#zurnedden_"
+                        rend="letterspace">zur Nedden</rs>. Er sprach über „<rs type="work"
+                        ref="#drama_und_dramaturgie" rend="letterspace">Drama und Dramaturgie des
+                        20. Jahrhunderts</rs>“. Ein wichtiges Glied zwischen Dichter und Bühne ist
+                     der Dramaturg. Für ihn hat das Theater nicht ein „Tummelplatz des Mimos“,
+                     sondern eine „Heimstätte des Geistes“ zu sein. Die Situation des Dramaturgen in
+                     unserem Jahrhundert ist eine so schwierige, weil wir historisch ungeheuer
+                     belastet sind. Kein heutiger Dramatiker kann dem Vergleich mit einem größeren
+                     Vorgänger entgehen; und das ist so falsch! Das 20. Jahrhundert müßte seine
+                     eigene Dramaturgie haben und dürfte nicht einseitig den Maßstab früherer Zeiten
+                     anlegen! Der Beruf des Dramaturgen war wohl noch nie so interessant wie heute,
+                     denn es gibt noch so viel Wertvolles, Unentdecktes, das ausgegraben werden
+                     müßte: von <rs type="person" subtype="mentioned" ref="#marlowe_">Marlowe</rs>
+                     und <rs type="person" subtype="mentioned" ref="#calderon_">Calderon</rs>
+                     angefangen bis zu den Klassikern und unseren modernen Dramatikern! Ein reiches
+                     Arbeitsfeld böte sich dem Dramaturgen des 20. Jahrhunderts, wenn er sich
+                     loslösen könnte von seiner Befangenheit der Geschichte gegenüber.</p>
+                  <p>Einen Einblick in seine Arbeit, seine Pläne und den Betrieb seines Theaters gab
+                     uns kurz darauf der Generalintendant des <rs type="org"
+                        ref="#deutsches_volkstheater">Deutschen Volkstheaters</rs>, <rs
+                        type="person" subtype="acting" ref="#iltz_bruno" rend="letterspace">Bruno
+                        Iltz</rs>. Es war sehr aufschlußreich, wie er manches, das uns aus anderen
+                     Vorlesungen bekannt war, einmal von einer ganz anderen Seite her beleuchtete.
+                     Die fast verwirrende Vielfalt der Fäden, die in der Theaterleitung
+                     zusammenlaufen, wurde uns da offenbar, zugleich die schwierige Aufgabe, ein
+                     wahrhaftes Volkstheater zu gestalten.</p>
+                  <p>Einen außerordentlich feinen und künstlerisch bedeutenden Vortrag hielt uns
+                     Prof. <rs type="person" subtype="acting" ref="#grom-rottmayer_hermann"
+                        rend="letterspace">Grom–Rottmayer</rs> in seinem Atelier in der <rs
+                        type="org" ref="#technische_hochschule_wien">Technischen Hochschule</rs>
+                     über die <rs type="work" ref="#komposition_im_buehnenbild" rend="letterspace"
+                        >Komposition im Bühnenbild</rs>. Er sagte, daß, der Dreidimensionalität und
+                     allen raumgestalterischen Bestrebungen zum Trotz, das Bühnenbild auf den
+                     Zuschauer, weil er nur von einer Seite hineinsehen kann, doch immer wie ein <hi
+                        rend="letterspace">Bild</hi> mit nur zwei Dimensionen wirkt. Von der Malerei
+                     ausgehend, übertrug er die dort geltende psychologische Bedeutung der
+                     Linienführung auf das Bühnenbild. Senkrechte, Waagerechte, Diagonale und Kurve
+                     können auf dem Theater dieselben Wirkungen erzielen. Sie können Starre,
+                     Schwere, Leidenschaft, Weichheit und die ganze Skala menschlicher Empfindungen
+                     ausdrücken, wenn ein Bühnenbildner es versteht, sie psychologisch und
+                     dramaturgisch anzuwenden.</p>
+                  <p>Direktor <rs type="person" subtype="acting" ref="#kranich_" rend="letterspace"
+                        >Kranich</rs>, der Leiter des an der <rs type="org"
+                        ref="#technische_hochschule_hannover">Technischen Hochschule</rs> in <rs
+                        type="place" ref="#hannover">Hannover</rs> neugegründeten <rs type="org"
+                        ref="#theaterwissenschaftliches_institut_hannover">Theaterwissenschaftlichen
+                        Instituts</rs>, wiederholte bei unserer vorletzten Zusammenkunft seine
+                     Antrittsvorlesung und legte uns klar, worin er die Aufgaben seines <rs
+                        type="org" ref="#theaterwissenschaftliches_institut_hannover">Instituts</rs>
+                     sieht. Er geht vom Technischen aus und sieht <hi rend="letterspace">die</hi>
+                     große Möglichkeit für seine Arbeit im Wiederaufbau und Neubau der unzähligen
+                     durch den Luftkrieg zerstörten deutschen Theater. Wenn diese Tatsache nicht so
+                     ernst wäre und nicht so viele wertvolle Kulturdenkmäler vernichtet worden
+                     wären, so könnte man die kommende Reform des Theaterbaues noch viel freudiger
+                     bejahen. Es ist jedoch wichtig, daß sich die Architekten und Bühnentechniker
+                     hiermit schon jetzt intensiv beschäftigen.</p>
+                  <p>Eine sehr schöne Abschlußvorlesung, die das große Thema unserer Ringvorlesung
+                     wohl im Kern traf und zugleich uns ganz persönlich galt, hielt Prof. <rs
+                        type="person" subtype="acting" ref="#kindermann_heinz" rend="letterspace"
+                        >Kindermann</rs> selber: „<rs type="work"
+                        ref="#dramaturg_und_spielplangestaltung" rend="letterspace">Der Dramaturg
+                        und die Spielplangestaltung</rs>.“ </p>
+                  <pb n="32"/>
+                  <fw type="pageNum" style="text-align:center">– 32 –</fw><p/>
+                  <p><hi rend="letterspace">Die</hi> Persönlichkeit eines Theaters, von welcher der
+                     größte Einfluß auf die Spielplangestaltung ausgeht, trägt eine ungeheure
+                     Verantwortung! Ob das nun ein Intendant, ein Regisseur, ein Dramaturg oder gar
+                     ein Schauspieler ist, immer muß er ganz in seiner Zeit stehen, muß dem Volke
+                     nicht unbedingt seine naheliegendsten Wünsche erfüllen – aber ihm das bieten,
+                     was es für morgen braucht. So kann er Mitgestalter am Volksgeschick werden. <rs
+                        type="person" subtype="mentioned" ref="#holbein_franz">Holbein</rs> ist
+                        <date>1848</date> am <rs type="org" ref="#burgtheater">Burgtheater</rs>
+                     dieser Aufgabe nicht gerecht geworden, während <rs type="person"
+                        subtype="mentioned" ref="#thimig_hugo">Thimig</rs>
+                     <date>1914</date> und <rs type="person" subtype="mentioned"
+                        ref="#millenkovich_max">Millenkovich</rs>
+                     <date>1917</date> ihre Mission erfüllt haben. Auch wir leben wieder in einer
+                     bewegten Zeit, und unser harren vielleicht noch schwerere Aufgaben, darum soll
+                     dem Nachwuchs die beste Ausbildung geboten werden. Das deutsche Theater muß in
+                     allen Stürmen der Zeit seine hohe Stellung bewahren und festigen. Dem
+                     Dramaturgen aber als Hauptbeteiligten an der Spielgestaltung stehen dabei
+                     Aufgaben von großer Tragweite zu. Es kommt viel darauf an, daß er sich
+                     durchsetzt – und nicht nur mit Einzelvorschlägen, sondern mit größeren, das
+                     Gewirr des allzu Gegenwärtigen durchleuchtenden Zusammenhängen –, so daß nicht
+                     nur fragmentarische Spielpläne, sondern eine Spielplanung entsteht, die dem
+                     Theater seine wichtige Rolle im Auf und Ab der Volksgeschichte sichert.</p>
+                  <closer><dateline>Institutsanschrift: <rs type="place" ref="#wien_I">Wien I</rs>,
+                           <rs type="place" ref="#hofburg">Hofburg</rs>, Batthianystiege. Ruf
+                        R-20-5-20.</dateline></closer>
+               </div>
             </div>
          </div>
       </body>

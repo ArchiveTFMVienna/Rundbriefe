@@ -146,7 +146,7 @@
              Im <rs type="org" ref="#verlag_frick">gleichen Verlag</rs> wird zu <date when="1943-12-25">Weihnachten</date> in ähnlicher bebilderter Ausstattung seine Abhandlung
              <rs type="work" ref="#hölderlin_kindermann">"Hölderlin und das deutsche Theater"</rs> herauskommen. Endlich ist auch die Neuauflage von <rs type="person" ref="#kindermann_heinz">Kindermanns</rs> Biographie über den Wiener
              Volksdramatiker und Volksdarsteller <rs type="person" ref="#raimund_ferdinand">Ferdinand Raimund</rs> im <rs type="org" ref="#wiener_verlag">Wiener
-             Verlag</rs>, Wien, XII., Niederhofstraße 57, erschienen. Dort wird im
+             Verlag</rs>, <address><addrLine>Wien, XII., Niederhofstraße 57</addrLine></address>, erschienen. Dort wird im
                <date when="1944-01">Januar</date> auch eine Neuauflage von <rs type="person" ref="#kindermann_heinz">Kindermanns</rs> "Geschichte des
              Burgtheaters" erscheinen.</p>
           
