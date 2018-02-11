@@ -210,6 +210,13 @@
                </location>
                <idno type="URL">http://d-nb.info/gnd/4302711-8</idno>
             </place>
+            <place xml:id="dresden" type="city">
+               <placeName>Dresden</placeName>
+               <location>
+                  <geo decls="LatLng">51.05089 13.73832</geo>
+               </location>
+               <idno type="URL">http://d-nb.info/gnd/4012995-0</idno>
+            </place>
          </listPlace>
       </body>
   </text>

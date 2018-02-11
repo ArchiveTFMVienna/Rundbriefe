@@ -60,6 +60,11 @@
                         xpointer="listorg">
                <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be found</fallback>
             </xi:include>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listwork.xml"
+               xpointer="listwork">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be
+                  found</fallback>
+            </xi:include>
          </p>
       </encodingDesc>
    </teiHeader>
@@ -74,7 +79,7 @@
             <num>No. 2</num> Erscheint jährlich viermal</head>
          <div type="letter" n="1">
             <salute>Liebe Kameraden!</salute>
-            <p>Seit wir Euch den ersten Rundbrief <ref target="http://d-nb.info/02158866X"/> sandten, ist in unserem
+            <p>Seit wir Euch den <ref target="http://d-nb.info/02158866X">ersten Rundbrief</ref> sandten, ist in unserem
                <rs type="org" ref="#zentralinstitut">Zentralinstitut</rs> 
                viel Arbeit geleistet worden. Wir tun sie aber gerne,
                weil wir wissen, daß all das eines Tages Euch zugute kommen wird,
@@ -90,27 +95,23 @@
                zelne gehender Schlagwortkatalog treten, damit unsere Bibliothek
                vielseitig und ohne viel Suchen benutzbar ist.</p>
             <p>Unsere Bücherbestände wurden indes außerordentlich bereichert.
-               Zu der im ersten Rundbrief <ref target="http://d-nb.info/02158866X"/> erwähnten Buschbibliothek, einer thea
-               tergeschichtlichen Leihgabe der Stadt <geogName>Münster</geogName>, im Umlauf von
+               Zu der im <ref target="http://d-nb.info/02158866X">ersten Rundbrief</ref> erwähnten Buschbibliothek, einer
+               theatergeschichtlichen Leihgabe der Stadt <rs ref="#münster" type="place">Münster</rs>, im Umlauf von
                3000 Bänden kam nun allmählich ein Eigenbesitz von bisher
                7000 Bänden. Gerade in diesen Tagen konnten wir überdies aus
-               einem <geogName>
-               <geogFeat>alpen</geogFeat>ländischen</geogName> Schloß eine kostbare Bibliothek von
+               einem alpenländischen Schloß eine kostbare Bibliothek von
                2500 Dramentexten (Spielbüchern) aus der Zeit <date notBefore="1770-01-01" notAfter="1830-12-31">von 1770 bis 1830</date>
-               dazu erwerben, so daß unser Eigenbesitz bald schon 10 000 Bände
-               erreicht.</p>
+               dazu erwerben, so daß unser Eigenbesitz bald schon 10000 Bände erreicht.</p>
             <p>Es versteht sich von selbst, daß parallel dazu auch unser Bilder
-               bestand dauernd ergänzt wird. Beides fügt sich zu einem wissen
-            schaftlich benutzbaren Forschungs- und Studienapparat zu
-            sammen.</p>
+               bestand dauernd ergänzt wird. Beides fügt sich zu einem wissenschaftlich benutzbaren Forschungs- und Studienapparat zusammen.</p>
             <p>Die wichtigste Erwerbung aber, die bald schon ein Anziehungs
-            punkt für viele Forscher und Dissertanten sein wird, ist das "Theater-
-            archiv Leuschke". Der heute 72-jährige <rs type="person" ref="#leuschke_">Prof. Leuschke</rs> 
-            <geogName>(Dresden)</geogName> hat
-            in mehr als 50-jähriger Arbeit über 60000 Theaterkritiken, Schau
-            spielerbiographien und Nekrologe aus Zeitungen und Zeitschriften
-            von <date notBefore="1800-01-01" notAfter="1943-12-31">1800 bis 1943</date> gesammelt und wissenschaftlich genau beschriftet.
-            Dieses Theaterarchiv Leuschke wurde nun dankenswerterweise von</p>
+               punkt für viele Forscher und Dissertanten sein wird, ist das "Theater-
+               archiv Leuschke". Der heute 72-jährige <rs type="person" ref="#leuschke_">Prof. Leuschke</rs> 
+               (<rs ref="#dresden" type="place">Dresden</rs>) hat
+               in mehr als 50-jähriger Arbeit über 60000 Theaterkritiken, Schau
+               spielerbiographien und Nekrologe aus Zeitungen und Zeitschriften
+               von <date notBefore="1800-01-01" notAfter="1943-12-31">1800 bis 1943</date> gesammelt und wissenschaftlich genau beschriftet.
+               Dieses Theaterarchiv Leuschke wurde nun dankenswerterweise von</p>
                    
             <pb n="2"/>
             <p>der Stadt <geogName>Wien</geogName> für die <rs type="org" ref="#stadtbibliothek">Stadtbibliothek</rs> erworben, jedoch dem <rs type="org" ref="#zentralinstitut">Zen-
