@@ -173,6 +173,16 @@
                         <author><rs type="person" ref="#kindermann_heinz">Heinz Kindermann</rs></author>
                         <idno/>
                     </bibl>
+                    <bibl xml:id="der_wienerische_hans_wurst">
+                        <title>Der Wienerische Hans Wurst in europäischer Beleuchtung</title>
+                        <author><rs type="person" ref="#rommel_otto">Otto Rommel</rs></author>
+                        <idno/>
+                    </bibl>
+                    <bibl xml:id="arbeit_bernhard_shaw">
+                        <title>George Bernard Shaw in Deutschland</title>
+                        <author><rs type="person" ref="#pilger_else">Otto Rommel</rs></author>
+                        <idno>http://d-nb.info/571021557</idno>
+                    </bibl>
                 </listBibl>
             </p>
         </body>

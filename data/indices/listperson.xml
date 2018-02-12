@@ -655,6 +655,19 @@
                   </persName>
                   <idno type="URL">http://d-nb.info/gnd/14047076X</idno>
                </person>
+            <person xml:id="frank_eduard">
+               <persName>
+                  <surname>Frank</surname>
+                  <forename>Eduard</forename>
+               </persName>
+            </person>
+               <person xml:id="pilger_else">
+                  <persName>
+                     <surname>Pilger</surname>
+                     <forename>Else</forename>
+                     </persName>
+                  <idno type="URL">http://d-nb.info/gnd/125564295</idno>
+               </person>
             </listPerson>
          </p>
       </body>
