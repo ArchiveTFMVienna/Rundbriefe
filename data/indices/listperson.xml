@@ -644,6 +644,17 @@
                   </persName>
                   <idno>http://d-nb.info/gnd/117042242</idno>
                </person>
+               <person xml:id="rommel_otto">
+                  <persName>
+                     <surname>Rommel</surname>
+                     <forename>Otto</forename>
+                     <roleName>Schriftsteller</roleName>
+                     <roleName>Herausgeber</roleName>
+                     <roleName>Literaturhistoriker</roleName>
+                     <roleName>Lehrer</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/14047076X</idno>
+               </person>
             </listPerson>
          </p>
       </body>
