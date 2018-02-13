@@ -668,6 +668,17 @@
                      </persName>
                   <idno type="URL">http://d-nb.info/gnd/125564295</idno>
                </person>
+               <person xml:id="gregor_joseph">
+                  <persName>
+                     <surname>Gregor</surname>
+                     <forename>OttoJoseph</forename>
+                     <roleName>Kunsthistoriker</roleName>
+                     <roleName>Theaterwissenschaftler</roleName>
+                     <roleName>Schriftsteller</roleName>
+                     <roleName>Bibliothekar</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118697455</idno>
+               </person>
             </listPerson>
          </p>
       </body>

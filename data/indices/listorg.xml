@@ -146,6 +146,14 @@
                         <orgName>Theaterwissenschaftliches Institut an der <rs type="org" ref="#technische_hochschule_hannover">Technischen Hochschule Hannover</rs></orgName>
                         <idno/>
                     </org>
+                    <org xml:id="theatersammlung_nationalbibliothek">
+                        <orgName>Österreichische Nationalbibliothek. Theatersammlung</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/2020869-8</idno>
+                    </org>
+                    <org xml:id="hochschule_angewandte_kunst">
+                        <orgName>Hochschule für angewandte Kunst Wien</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/2034379-6</idno>
+                    </org>
                 </listOrg>
             </p>
         </body>
