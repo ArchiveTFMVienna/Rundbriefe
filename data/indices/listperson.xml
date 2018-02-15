@@ -220,7 +220,7 @@
                <person xml:id="stumpfl_">
                   <persName>
                      <surname>Stumpfl</surname> 
-                     <!-- evtl. Friedrich Stumpfl? -->
+                     <note>evtl. Friedrich Stumpfl?</note>
                   </persName>
                </person>
                <person xml:id="pirckheimer_willibald">
@@ -247,16 +247,15 @@
                   </persName>
                   <idno type="person">http://d-nb.info/gnd/118715372</idno>
                </person>
-               <person xml:id="vischer_peter"> <!-- unklar - gibt einen Älteren und einen Jüngeren (zeitlich passen beide) -->
+               <person xml:id="vischer_peter">
                   <persName>
                      <surname>Vischer</surname>
                      <forename>Peter</forename>
                      <roleName>Kunsthandwerker</roleName>
                   </persName>
-                  <idno type="URL">http://d-nb.info/gnd/118768654</idno> 
-                  <!-- d. Ältere -->
+                  <idno type="URL">http://d-nb.info/gnd/118768654</idno>
                   <idno type="URL">http://d-nb.info/gnd/118768662</idno> 
-                  <!-- d. Jüngere  -->
+                  <note>unklar - gibt einen Älteren und einen Jüngeren (zeitlich passen beide), die erste GND ist vom Älteren, die zweite vom Jüngeren</note>
                </person>
                <person xml:id="pernkopf_eduard">
                   <persName>
@@ -579,17 +578,23 @@
                      <roleName>Chefdramaturg des <rs type="org" ref="#deutsches_nationaltheater">Nationaltheaters</rs></roleName>
                   </persName>
                </person>
-               <person xml:id="marlowe_">
+               <person xml:id="marlowe_christopher">
                   <persName>
                      <surname>Marlowe</surname>
-                     <forename/>
+                     <forename>Christopher</forename>
+                     <roleName>Dramatiker</roleName>
                   </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118578065</idno>
                </person>
-               <person xml:id="calderon_">
+               <person xml:id="calderon_pedro">
                   <persName>
-                     <surname>Calderon</surname>
-                     <forename/>
+                     <surname type="first">Calderón</surname>
+                     <surname type="last">Barca</surname>
+                     <nameLink>de la</nameLink>
+                     <forename>Pedro</forename>
+                     <roleName>Dramatiker</roleName>
                   </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118518399</idno>
                </person>
                <person xml:id="iltz_bruno">
                   <persName>
@@ -678,6 +683,14 @@
                      <roleName>Bibliothekar</roleName>
                   </persName>
                   <idno type="URL">http://d-nb.info/gnd/118697455</idno>
+               </person>
+               <person xml:id="wagner_richard">
+                  <persName>
+                     <surname>Wagner</surname>
+                     <forename>Richard</forename>
+                     <roleName>Komponist</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118594117</idno>
                </person>
             </listPerson>
          </p>

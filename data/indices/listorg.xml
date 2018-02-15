@@ -154,6 +154,15 @@
                         <orgName>Hochschule für angewandte Kunst Wien</orgName>
                         <idno type="URL">http://d-nb.info/gnd/2034379-6</idno>
                     </org>
+                    <org xml:id="reichsstudentenführung">
+                    <orgName>Reichsstudentenführung</orgName>
+                    <note>https://de.wikipedia.org/wiki/Reichsstudentenführer</note>
+                    </org>
+                    <org xml:id="wehrmacht">
+                        <orgName>Deutsche Wehrmacht</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/4064995-7</idno>
+                        <idno type="URL">http://d-nb.info/gnd/26159-2</idno>
+                    </org>
                 </listOrg>
             </p>
         </body>

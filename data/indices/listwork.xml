@@ -183,6 +183,10 @@
                         <author><rs type="person" ref="#pilger_else">Otto Rommel</rs></author>
                         <idno>http://d-nb.info/571021557</idno>
                     </bibl>
+                    <bibl xml:id="meistersinger">
+                        <title>Die Meistersinger von Nürnberg</title>
+                        <author><rs ref="#wagner_richard" type="person">Richard Wagner</rs></author>
+                    </bibl>
                 </listBibl>
             </p>
         </body>
