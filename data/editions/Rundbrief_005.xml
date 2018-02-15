@@ -168,7 +168,7 @@
                genauere Berichte und Inhaltsangaben über den Verlauf 
                des Hauptkollegs und der Seminare vorlegen.
             </p>
-            <p><rs ref="#börge_" type="person" subtype="acting">Dozent Dr. Börge </rs>hält diesmal
+            <p><rs ref="#börge_vagn" type="person" subtype="acting">Dozent Dr. Börge </rs>hält diesmal
                sein dramaturgisches Kolloquium über <hi rend="underline">"Rollenpsychologie"</hi>.
                Daneben hält er ein filmkundliches Kolloqium über den 
                <hi rend="underline">"Film als Gesamtkunstwerk"</hi>. Dazu kommt seine 
@@ -178,11 +178,11 @@
                erster Teil in diesem Semester mit der Entwicklung von 
                <rs ref="#kalidasa" type="person" subtype="mentioned">Kalidasa</rs> bis <rs ref="#shakespeare_william" type="person" subtype="mentioned">Shakespeare</rs> befasst ist.
             </p>
-            <p><hi rend="underline"><rs ref="#niederführ_" type="person" subtype="acting">Prof. Niederführ</rs></hi> widmete sein in zwei 
+            <p><hi rend="underline"><rs ref="#niederführ_otto" type="person" subtype="acting">Prof. Niederführ</rs></hi> widmete sein in zwei 
                Stufen durchgeführtes Kolloquium über praktische
                Bühnenkunde diesmal Problemen der <hi rend="underline">Regiebuch-Gestaltung und</hi>
                des <hi rend="underline">Spielplan - Aufbaues.</hi> Auch über den Verlauf der
-               Vorlesungen und Uebungen von <rs ref="#börge_" type="person" subtype="acting">Dozent Börge</rs> und <rs ref="#niederführ_" type="person" subtype="mentioned">Prof.
+               Vorlesungen und Uebungen von <rs ref="#börge_vagn" type="person" subtype="acting">Dozent Börge</rs> und <rs ref="#niederführ_otto" type="person" subtype="mentioned">Prof.
                   Niederführ</rs> werden wir im nächsten Rundbrief genau 
                berichten.
             </p>
@@ -272,7 +272,7 @@
                   sche Profil der Festnachtsspiele auf uralt-
                   germanische Vorformen der Rüge-und Gerichtsspiele 
                   sowie der Fruchtbarkeitsriten zurückgeht, 
-                  sodass <rs ref="#sachs_hans" type="person" subtype="mentioned">Hans Sachs</rs> , der wieder innerhalb der 
+                  sodass <rs ref="#sachs_hans" type="person" subtype="mentioned">Hans Sachs</rs>, der wieder innerhalb der 
                   Fastnachtsspiel - Welt des <date notBefore="1500-01-01" notAfter="1599-12-31">16.Jahrhunderts</date> nicht 
                   ein Anfänger, sondern ein Vollender nach vielen
                   Vorstufen war, das Endglied einer unendlich 
@@ -400,7 +400,7 @@
                <p>Beginnt die Renaissancedramatik Einzelindividuen,
                   Persönlichkeiten zu gestalten: <rs ref="#sachs_hans" type="person">Hans Sachs</rs>
                   vollendet in seinen Fastnachtsspielen und
-                  Schwänken die im <date>Mittelalter</date> begonnene Typen-
+                  Schwänken die im Mittelalter begonnene Typen-
                   Gestaltung. Das böse Weib, der liederliche Mann,
                   der Dumme, der Lügner, der Geizige, aber auch 
                   Sozialtypen, vor allem der vom neuen stolzen 
@@ -470,27 +470,126 @@
                   <pb n="11"/>
                   <fw type="pageNum" style="text-align:center">– 11 –</fw>
                   gefährten <rs ref="#goethe_johann" type="person">Goethes</rs>, voran sein <rs ref="#lenz_jakob" type="person">baltischer Freund Lenz</rs>,
-                  hätten diese QIederentdeckung mit Jubel und 
+                  hätten diese Wiederentdeckung mit Jubel und 
                   Bewunderung entgegengenommen. Und sie taten das, 
                   was einzig diesem Echo zur Dauer verhelfen konnte: 
                   sie spielten <rs ref="#sachs_hans" type="person">Hans Sachs</rs>, sie führten selbst auf 
                   ihren Liebhaberbühnen seine Fastnachtsspiele auf - 
-                  und sie lernten viel von ihm.
+                  und sie lernten viel von ihm. Es war nicht nur 
+                  <rs ref="#sachs_hans" type="person">Hans' Sachsens</rs> Versgestaltung, die bist in den <rs ref="#faust_I" type="work">Faust</rs>
+                  hineinwirkte, sondern viele von <rs ref="#goethe_johann" type="person">Goethes</rs> köstlichen 
+                  dramatischen Farcen und Gelegenheitsdichtungen 
+                  spiegeln die starke Nachwirkung <rs ref="#sachs_hans" type="person">des Nürnbergers</rs>.
+                  Von <rs ref="#wagner_richard" type="person">Richard Wagners</rs> Verherrlichung in den <rs ref="#meistersinger" type="work">"Meistersingern"</rs> 
+                  wissen Sie ja alle. Sie hat das liebenswerte, 
+                  urdeutsche Hans Sachs-Bild auch in das <date notBefore="1900-01-01" notAfter="1999-12-31">20. 
+                     Jahrhundert</date> getragen. Und als nach Beendigung des 
+                  ersten Weltkrieges der gesund gebliebene Teil der 
+                  deutschen Jugend mit seiner Laienspielbewegung 
+                  einer dekadenten Berufstheatralik etwas Unverbraucht-
+                  Gesundes entgegenrücken wollte, da griffen alle die 
+                  Laienspieler des Wandervogels und der bündischen 
+                  Jugend wieder zu <rs ref="#sachs_hans" type="person">Hans Sachs</rs>.
+                  Seitdem aber ist er der Lieblingsdramatiker all 
+                  der jungen deutschen Laienspieler geblieben und in 
+                  all den tausenden von Aufführungen unserer Schüler 
+                  und Jugendformationen zu immer neuem Leben erwacht, 
+                  sodass er zu immer neuen Generationen mit 
+                  unverwelkter Kraft sprach, ja durch sie selbst zu immer 
+                  neuer Spielfreude erweckt wurde.
+               </p>
+               <p>Das Berufstheater hat <rs ref="#sachs_hans" type="person">Hans Sachs</rs> ein wenig 
+                  stiefmütterlich behandelt. Aber gerade jetzt, knapp 
+                  vor der Schliessung der Theater sollte in 
+                  glücklicher Kombination eines abendfüllenden Geflechts von 
+                  Fastnachtsspielen auch das Berufstheater für ihn 
+                  wieder erobert werden.
+               </p>
+               <p>So bedarf es keiner Prophetengabe, um vorauszusagen,
+                  dass <rs ref="#sachs_hans" type="person">Hans Sachs</rs> auch noch vielen künftigen 
+                  <pb n="12"/>
+                  <fw type="pageNum" style="text-align:center">– 12 –</fw>
+                  Geschlechtern unseres Volkes ein Ratgeber und 
+                  Tröster sein wird, der von der Bühne her aussagt, 
+                  was rechtens ist und wie der Tüchtige werkt, der 
+                  Komische und Charakterschwache aber absackt, zur 
+                  Niete der Gemeinschaft wird. Es ziemt uns, diesem 
+                  Volksdramatiker, der so oft selbst mitspielte und 
+                  vor allem sein eigener Regisseur war, unsern Dank 
+                  zu sagen gerade in einer Zeit, die aus den Fugen 
+                  geht. Denn sein Theater ist ein Warnbild und in 
+                  der fröhlich-ernsten Bejahung eine Bühne der 
+                  seelischen und sittlichen Wohlgeordnetheit. Wir 
+                  werden sie deshalb vielleicht übermorgen brauchen als 
+                  Wunden heilende Kraft des Werte-Scheidens und des 
+                  Zueinander-Ordnens dort, wo das Weltchaos einen 
+                  Trümmerhaufen hinterliess. Wir lieben und ehren 
+                  deshalb <rs ref="#sachs_hans" type="person">Hans Sachs</rs> nicht als blosse Kuriosität der 
+                  deutschen Dramen- und Theatergeschichte, sondern 
+                  als liebenswürdige und doch sehr bestimmte aus 
+                  einem grossen Volkstumserbe auch ins Künftige 
+                  unserer Daseinsform wirkende Gestalt deutschen 
+                  Menschentums".
                </p>
             </q>
+            <p>Sodann aber lasen Studierende der 
+               <rs ref="#max_reinhardt_seminar" type="org">Schauspielschule des Burgtheaters</rs> unter der Leitung <rs ref="#niederführ_otto" type="person">Prof. 
+                  Niederführs</rs> die beiden lustigen und doch von tiefer 
+               Lebensweisheit erfüllten Fastnachtsspiele "Das 
+               Krapfenholen" und "Der Bauer mit dem Kuhdieb"; und 
+               <rs ref="#weinberger_hilde" type="person">Hilde Weinberger</rs> rezitierte mit feiner Pointierung 
+               den Schwank " Warum die Männer Glatzen bekommen".
+               Holzschnittartig wuchs diese <rs ref="#sachs_hans" type="person">Hans Sachsische</rs> 
+               Gestaltenwelt vor uns auf, in satten Farben und doch 
+               scharf konturiert, zupackend in der Kritik der 
+               Lebensformen und voll der dauernd gültigen, nur eben 
+               lächelnd vorgetragenen Sittlichkeit und Gerechtigkeit. 
+               Es war ein Abend des männlichen Humors von 
+               tieferer Bedeutung - ebendeshalb für alle, die ihn 
+               mitmachten, eine höchst gegenwartsbezogene Feier.
+            </p>
+            <pb n="13"/>
+            <fw type="pageNum" style="text-align:center">– 13 –</fw>
+            <p>Für eine zweite Sonderveranstaltung hatte 
+               das <rs ref="#zentralinstitut" type="org">Zentralinstitut</rs>, wie schon zuvor erwähnt, 
+               <rs ref="#niedermoser_" type="person">Prof. <hi rend="underline">Niedermoser</hi></rs> eingeladen. Er sprach über das 
+               wichtige Thema <hi rend="underline">"Die Inszenierungskunst auf dem 
+                  Theater und im Film".</hi> Verbindendes und Trennendes.
+            </p>
+            <p>Bei dieser Gelegenheit möchten wir darauf 
+               aufmerksam machen, dass für die im Dienst der 
+               <rs ref="#wehrmacht" type="org">Wehrmacht</rs> stehenden Kameraden, filmwissenschaftlichen 
+               Interessen ein Feldpostbrief "Filmwissenschaft" 
+               von der <rs ref="#reichsstudentenführung" type="org">Fachgruppe Presse, Film, Rundfunk, 
+                  der Reichsstudentenführung</rs> herausgegeben wird; wer 
+               dafür Interesse hat, möge sich bei uns melden. 
+               <rs ref="#niedermoser_" type="person">Prof. Niedermoser</rs> erläuterte:
+               <lb/>
+               Bestimmend für die Eigenformen beider 
+               Kunstgestaltungen ist der Zuschauer und sein 
+               Blick auf die Bühne, bzw. auf die Leinwand. Im 
+               Theater nimmt er einen festen Standpunkt ein und 
+               betrachtet das gleich bleibende, nur von Szene zu 
+               Szene wechselnde Bild, das sich ihm als Zuschauer, 
+               als Betrachtendem in seiner Eigenräumigkeit darbietet. 
+               Er steht nicht selbst im Raum - sondern 
+               ausserhalb desselben.
+            </p>
+            <p>
+            </p>
          </div>
          <div type="letter" n="2">
             <fw type="pageNum" style="text-align:center">– 26 –</fw>
             <salute>Liebe Kameraden !</salute>
             <p>Wenn ich Euch diesmal die Grüsse der 
-               <orgName>Fachschaft</orgName> und somit der noch studierenden Kollegen 
+               <rs ref="#fachschaft_theater" type="org">Fachschaft</rs> und somit der noch studierenden Kollegen 
                übermittle, so geschieht das unter ganz anderen 
                Voraussetzunen
                als es noch im letzten Rundbrief 
                möglich war. Der totale Kriegseinsatz hat auch bei
                uns die Reihen stark gelichtet. Der Grossteil der 
                im letzten Semester hörenden Kollegen steht heute 
-               im Rüstungseinsatz oder ist wieder zur <orgName>Wehrmacht</orgName> 
+               im Rüstungseinsatz oder ist wieder zur <rs ref="#wehrmacht" type="org">Wehrmacht</rs> 
                zurückberufen worden. Somit ist es also nur einer
                kleinen Gruppe möglich, das Studium fortzusetzen. 
                Es ist ganz selbstverständlich, dass wir, die wir 
@@ -501,7 +600,7 @@
                nicht mehr möglich, die geplanten
                Veranstaltungen in diesem Semester voll durchzufürhen. Aber auch 
                hier hat sich ein Ausgleich finden lassen, indem 
-               die <orgName>Fachschaft</orgName> Theater in Kulturabenden die 
+               die <rs ref="#fachschaft_theater" type="org">Fachschaft</rs> Theater in Kulturabenden die 
                kulturelle und schöngeistige Betreuung der Studierenden 
                und der im Rüstungseinsatz stehenden Kollegen 
                aufnimmt. Die Kulturabende, die in diesem 
@@ -534,7 +633,8 @@
                ermöglicht, trotzdem ein recht frohes Fest wünschen.</p>
             <salute rend="letterspace">Heil Hitler!</salute>
             <lb/>
-            <signed style="text-align:center">Euer<lb/>
+            <signed style="text-align:center">Euer
+               <lb/>
                <rs ref="#zeckl_alfred" type="person"> Fachschaftsleiter <lb/> A. Zeckl</rs>
             </signed>
          </div>
