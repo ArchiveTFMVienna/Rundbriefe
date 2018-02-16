@@ -71,10 +71,10 @@
    <text>
       <body>
          <pb n="1"/>
-         <head type="main" style="text-align:center" rend="underline">Rundbrief</head>
-         <!-- underline stimmt ned ganz, weil nicht durchgängig unterstrichen -->
-         <head type="sub" style="text-align:center">des <rs ref="#zentralinstitut">Zentralinstituts
-               für Theaterwissenschaft</rs> an der Universität <hi rend="letterspace">Wien</hi>.</head>
+         <head type="main" style="text-align:center"><hi rend="underline">Rundbrief</hi>
+            <lb/>
+            des <rs ref="#zentralinstitut">Zentralinstituts für Theaterwissenschaft</rs> an der <rs ref="#universitaet_wien" type="org">Universität <hi rend="letterspace">Wien</hi></rs>.
+         </head>
          <head type="sub">
             <date when="1944-12">Dezember 1944.</date>
             <num>No. 5</num> erscheint jährlich viermal</head>
@@ -109,7 +109,7 @@
                aber dann Vorlesungen un Uebungen besuchen dürfen.
             </p>
             <pb n="2"/>
-            <fw type="pageNum" style="text-align:center">– 2 –</fw>
+            <fw type="pageNum" place="top-centre">– 2 –</fw>
             <p>Gerade mit Rücksicht auf die letztgenannten 
                Studierenden und im Hinblick auf die in die 
                Mittagsstunden fallende Alarme wurde diesmal auch die 
@@ -149,7 +149,7 @@
                dieses Rundbriefe in der altgewohnten Weise an 
                unserem Tun und Treiben teilnehmen, damit sie einst 
                <pb n="3"/>
-               <fw type="pageNum" style="text-align:center">– 3 –</fw> 
+               <fw type="pageNum" place="top-centre">– 3 –</fw> 
                bei ihrer Wiederkehr dort wieder beginnen können, 
                wo sie einmal aufhören mussten.
             </p>
@@ -189,7 +189,7 @@
             <p>Neu augenommen wurde für einen engen Kreis 
                reifster Studierender ein <hi rend="underline">Arbeitskreis über Prinzi- 
                <pb n="4"/>
-               <fw type="pageNum" style="text-align:center">– 4 –</fw>
+               <fw type="pageNum" place="top-centre">– 4 –</fw>
                   pien der Regie,</hi> den der <rs ref="#waniek_herbert" type="person" subtype="acting">Oberregisseur des
                   Burgtheaters Herbert Waniek</rs> leitet. Er setzte überaus 
                lebending mit einem köstlichen Regie-Experiment ein 
@@ -229,7 +229,7 @@
                   zugleich für alles Volk. Unter diesen wenigen 
                   aber nimmt <rs ref="#sachs_hans" type="person" subtype="mentioned">Hans Sachs</rs>, dessen <date type="occasion">450. Geburtstag</date> 
                   <pb n="5"/>
-                  <fw type="pageNum" style="text-align:center">– 5 –</fw>
+                  <fw type="pageNum" place="top-centre">– 5 –</fw>
                   wir nun feiern, einen ganz besonderen Ehrenplatz 
                   ein, denn <rs ref="#sachs_hans" type="person" subtype="mentioned">Hans Sachs</rs> ist ja zudem der einzige 
                   Dichter des <date notBefore="1500-01-01" notAfter="1599-12-31">16. Jhdts.</date>, der heute noch 
@@ -268,7 +268,7 @@
                   wissen nun aus den Forschungen von <rs ref="#stumpfl_" type="person" subtype="mentioned">Stumpfl</rs>, wie 
                   gerade dieses charakteristische und sozialkriti- 
                   <pb n="6"/>
-                  <fw type="pageNum" style="text-align:center">– 6 –</fw>
+                  <fw type="pageNum" place="top-centre">– 6 –</fw>
                   sche Profil der Festnachtsspiele auf uralt-
                   germanische Vorformen der Rüge-und Gerichtsspiele 
                   sowie der Fruchtbarkeitsriten zurückgeht, 
@@ -308,7 +308,7 @@
                   können.
                </p>
                <pb n="7"/>
-               <fw type="pageNum" style="text-align:center">– 7 –</fw>
+               <fw type="pageNum" place="top-centre">– 7 –</fw>
                <p>Aber <rs ref="#sachs_hans" type="person">der Handwerksbursche Hans Sachs</rs> hatte 
                   ja auch die Welt gesehen, oder zumindest sein 
                   weites, schönes deutsches Vaterland. Er hatte 
@@ -348,7 +348,7 @@
                <p> Und er bot immer wieder eine Uebertragung 
                   all dieser vershiedenartigen Vorwürfe nicht nur 
                   <pb n="8"/>
-                  <fw type="pageNum" style="text-align:center">– 8 –</fw>
+                  <fw type="pageNum" place="top-centre">– 8 –</fw>
                   in seine volkseigene Sprache, sondern auch eine 
                   Uebertragung in das typische Bürger-Ethos dieser 
                   Zeit, in der das neue Phänomen der Stadtbürger 
@@ -388,7 +388,7 @@
                   auch sie ihr Ideal hat, das nach innerer und 
                   äusserer Schönheit strebt. Freilich ist es eine wohlge-
                   <pb n="9"/>
-                  <fw type="pageNum" style="text-align:center">– 9 –</fw>
+                  <fw type="pageNum" place="top-centre">– 9 –</fw>
                   ordnete, keine wildwachsende und keine 
                   fanatische Schönheit; und es ist eine Schönheit, die 
                   dem Glück niemals vertraut, sondern ihm höchst 
@@ -428,7 +428,7 @@
                <p>Hans Sachsens Fastnachtsspiele und Schwänke
                   sind nicht blosse Belustigung: sie sind in hoher
                   <pb n="10"/>
-                  <fw type="pageNum" style="text-align:center">– 10 –</fw>
+                  <fw type="pageNum" place="top-centre">– 10 –</fw>
                   Form der Volkstümlichkeit Lehr- und Warndichtung, 
                   also Theater mit praktischer Lebensfunktion. 
                   Sie sind in ihrer Weise volkhafte 
@@ -451,7 +451,7 @@
                   ernst gemeinte Spiel mehr improvisierten als 
                   zelebrierten. <date notBefore="1600-01-01" notAfter="1699-12-31">Noch bis tief ins 17. Jhdt.</date> hinein reicht 
                   diese erste Wirkung, bis dann die hochbarocke 
-                  Kunstdichtung sich seit <rs ref="#gryphius_andreas" type="person">Gryphius </rs><rs ref="#peter_squentz" type="work">"Peter Squentz"</rs> über 
+                  Kunstdichtung sich seit <rs ref="#peter_squentz" type="work"><rs ref="#gryphius_andreas" type="person">Gryphius</rs> "Peter Squentz"</rs> über 
                   dieses Handwerkertheater lustig macht. Aber auch diese 
                   Polemik, richtet sich eigentlich nur gegen das 
                   Unzulängliche des tragischen Handwerkertheaters, nicht 
@@ -468,7 +468,7 @@
                   <rs ref="#goethe_johann" type="person">Goethes</rs> Bekenntnis zu ihm - und <rs ref="#wieland_christoph" type="person">Wieland</rs> versichtert im 
                   <rs ref="#teutscher_merkur" type="work">"Teutschen Merkur"</rs>, auch die anderen Sturm- und Drang-
                   <pb n="11"/>
-                  <fw type="pageNum" style="text-align:center">– 11 –</fw>
+                  <fw type="pageNum" place="top-centre">– 11 –</fw>
                   gefährten <rs ref="#goethe_johann" type="person">Goethes</rs>, voran sein <rs ref="#lenz_jakob" type="person">baltischer Freund Lenz</rs>,
                   hätten diese Wiederentdeckung mit Jubel und 
                   Bewunderung entgegengenommen. Und sie taten das, 
@@ -508,7 +508,7 @@
                <p>So bedarf es keiner Prophetengabe, um vorauszusagen,
                   dass <rs ref="#sachs_hans" type="person">Hans Sachs</rs> auch noch vielen künftigen 
                   <pb n="12"/>
-                  <fw type="pageNum" style="text-align:center">– 12 –</fw>
+                  <fw type="pageNum" place="top-centre">– 12 –</fw>
                   Geschlechtern unseres Volkes ein Ratgeber und 
                   Tröster sein wird, der von der Bühne her aussagt, 
                   was rechtens ist und wie der Tüchtige werkt, der 
@@ -549,7 +549,7 @@
                mitmachten, eine höchst gegenwartsbezogene Feier.
             </p>
             <pb n="13"/>
-            <fw type="pageNum" style="text-align:center">– 13 –</fw>
+            <fw type="pageNum" place="top-centre">– 13 –</fw>
             <p>Für eine zweite Sonderveranstaltung hatte 
                das <rs ref="#zentralinstitut" type="org">Zentralinstitut</rs>, wie schon zuvor erwähnt, 
                <rs ref="#niedermoser_" type="person">Prof. <hi rend="underline">Niedermoser</hi></rs> eingeladen. Er sprach über das 
@@ -564,7 +564,8 @@
                   der Reichsstudentenführung</rs> herausgegeben wird; wer 
                dafür Interesse hat, möge sich bei uns melden. 
                <rs ref="#niedermoser_" type="person">Prof. Niedermoser</rs> erläuterte:
-               <lb/>
+            </p>
+            <p>
                Bestimmend für die Eigenformen beider 
                Kunstgestaltungen ist der Zuschauer und sein 
                Blick auf die Bühne, bzw. auf die Leinwand. Im 
@@ -575,11 +576,88 @@
                Er steht nicht selbst im Raum - sondern 
                ausserhalb desselben.
             </p>
-            <p>
+            <p>Ganz anders im Film! Dort ist die Kamera 
+               das Auge des Zuschauers - die Kamera, die selbst 
+               im Raum steht, selbst mitspielt. Ihr Blickfeld 
+               ändert von Sekunde zu Sekunde das Objekt, wie das 
+               Auge des Menschen, das <sic>sich, im Raum bewegend, von 
+               Gegenstand zu Gegenstand wandert.</sic> Das Drehbuch zeigt 
+               in raschestem Wechsel neue Einstellungen: Gross- und 
+               Nahaufnahmen, Halbnah- und Totalaufnahmen.
+            </p>
+            <p>Schon hier zeigt sich die unterschiedliche 
+               Gesetzlichkeit von Bühne und Film. Sucht der Bühnen- 
+               bildner den <hi rend="letterspace">ganzen</hi> Bühnenraum in seiner 
+               Vollständigkeit, in Andeutung, Ornamentik und Stimmung 
+               <pb n="14"/>
+               <fw type="pageNum" place="top-centre">– 14 –</fw>
+               als totales Bild aufzubauen, so kennt der Film nur 
+               den Ausschnitt, das Einzelne, das für das Ganze 
+               steht. Er kennt kein Umfassen des Gesamtraumes, 
+               sondern baut diesen mosaikartig oder in 
+               architektonischer Werdefolge auf dem Grundriss auf. - Er 
+               kennt verschiedene Bewegungsabläufe, um zu diesem 
+               Ziel zu gelangen: 
+               <list rend="inline numbered">
+                  <label>1.</label>
+                  <item>die Fahrt   (die Kamera bewegt sich 
+                  auf Fahrstegen).</item>
+                  <label>2.</label>
+                  <item>die Schwenkung (die Kamera steht und 
+                  macht eine Schwenkung um die eigene 
+                  Achse).</item>
+                  <label>3.</label>
+                  <item>den Schnitt (das Bild bricht ab und 
+                  springt in eine neue Einstellung 
+                  über).</item>
+               </list>
+            </p>
+            <p><rs ref="#niedermoser_" type="person">Prof. Niedermoser</rs> schnitt nun noch 
+               einzelne technische Fragen an, die sich mit der 
+               praktischen Durchführung des Schnittes befassten.
+            </p>
+            <p>Mit dieser intensiven Betrachtung des 
+               Einzelnen und dem Mit-im-Raum-leben des Zuschauers ist 
+               der Film an das Reale, an das Wirkliche gebunden, 
+               während das Theater ganze Traumwelten vor uns 
+               entrollen kann. Phantasie ist die geistige Grundlage 
+               des theatralischen Raumes - Tatsächlichkeitsdeutung 
+               ist die Aufgabe der Leinwand.
+            </p>
+            <p><rs ref="#niedermoser_" type="person">Prof. Niedermoser</rs> illustrierte diese 
+               Ausführungen durch Bilder aus den Entwürfen seiner 
+               Studierenden zu den Stücken <rs ref="#napoleon_hundert_tage" type="work">"Napoleon oder die 
+               hundert Tage"</rs>, die theatralisch gelöst waren, und 
+               zu <rs ref="#pole_poppenspaeler" type="work"><rs ref="#storm_theodor" type="person">Storms</rs> Novelle "Pole Poppenspäler"</rs>, die 
+               filmisch gestaltet waren.
+            </p>
+            <p>Um nun aber gerade die Studierenden der 
+               Theaterwissenschaft in dieser theaterlosen Zeit 
+               gleichwohl mit der Welt des Dramatischen in Füh-
+               <pb n="15"/>
+               <fw type="pageNum" place="top-centre">– 15 –</fw>
+               lung zu erhalten, veranstaltet das <rs ref="#zentralinstitut" type="org">Zentralinstitut</rs> 
+               mit Erlaubnis des <rs ref="#stuppaeck_hermann" type="person">Generalkulturreferenten</rs> und im 
+               Einvernehmen mit <rs ref="#müthel_lothar" type="person">Generalintendanten Müthel</rs> 
+               (<rs ref="#burgtheater" type="org">Burgtheater</rs>) eine Reihe von Dramen-Lesungen, die fast 
+               zur Gänze von Burgschauspielern bestritten werden. 
+               Diese Dramen- Lesungen werden einem grossen Thema 
+               untergeordnet, das dem Ernst unserer Tage 
+               entspricht: <hi rend="underline">"Der Wandel der Faust-Gestalt auf der 
+               Bühne"</hi>. Der erste dieser Abende fand am <date when="1944-11-14">14.November</date> 
+               im Kainzraum statt. Nach einer kurzen Einführung 
+               von <rs ref="#kindermann_heinz" type="person">Prof. Kindermann</rs> las <rs ref="#herterich_franz" type="person">Oberregisseur Franz 
+               <hi rend="underline">Herterich</hi></rs> (<rs ref="#burgtheater" type="org">Burgtheater</rs>) eine Reihe der überaus 
+               anschaulichen dämonenerfüllten Kapitel aus dem <rs ref="#faust_volksbuch" type="work"><rs ref="#spies_johann" type="person">Spies'schen</rs> 
+               Faust-Volksbuch</rs> des <date notBefore="1500-01-01" notAfter="1599-12-31">16. Jahrhunderts</date>, dieser ersten 
+               dichterischen Gestaltung des Vorwurfs. Dann wurden 
+               
             </p>
          </div>
+         
+         
          <div type="letter" n="2">
-            <fw type="pageNum" style="text-align:center">– 26 –</fw>
+            <fw type="pageNum" place="top-centre">– 26 –</fw>
             <salute>Liebe Kameraden !</salute>
             <p>Wenn ich Euch diesmal die Grüsse der 
                <rs ref="#fachschaft_theater" type="org">Fachschaft</rs> und somit der noch studierenden Kollegen 
@@ -619,13 +697,13 @@
                ungehalten zu sein, dass ich mit dem Briefwechsel 
                Front und Heimat nicht so einsetzen kann, wie es 
                <pb n="27"/>
-               <fw type="pageNum" style="text-align:center">– 27 –</fw> 
+               <fw type="pageNum" place="top-centre">– 27 –</fw> 
                mir im letzten Semester vorgeschwebt hat. Aber die 
                geringe Anzahl der Studierenden und die zunehmende 
                Anzahl der fernbetreuten Kameraden lassen diesen 
                Briefwechsel im gedachten Ausmass nicht zur
                Durchführung gelangen. ich bin jedoch nach wie vor 
-               bemühr<!-- sic -->, diese Schwierigkeiten zu überbrücken, nur 
+               <sic>bemühr</sic>, diese Schwierigkeiten zu überbrücken, nur 
                bitte ich Euch um Verständnis.
             </p>
             <p>Liebe Kameraden! Ich möchte Euch, so 
