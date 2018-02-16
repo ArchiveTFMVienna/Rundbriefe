@@ -367,8 +367,9 @@
                </person>
                <person xml:id="müthel_lothar">
                   <persName>
-                     <surname>Müthel</surname>
+                     <surname type="pseudo">Müthel</surname>
                      <forename>Lothar</forename>
+                     <roleName>Generalintendant der Staatstheater</roleName>
                   </persName>
                   <idno type="URL">http://d-nb.info/gnd/119049309</idno>
                </person>
@@ -478,6 +479,7 @@
                      <surname>Herterich</surname>
                      <forename>Franz</forename>
                      <roleName>Schauspieler</roleName>
+                     <roleName>Oberregisseur des <rs ref="#burgtheater" type="org">Burgtheaters</rs></roleName>
                   </persName>
                   <idno type="URL">http://d-nb.info/gnd/116752947</idno>
                </person>
@@ -691,6 +693,40 @@
                      <roleName>Komponist</roleName>
                   </persName>
                   <idno type="URL">http://d-nb.info/gnd/118594117</idno>
+               </person>
+               <person xml:id="grabbe_christian">
+                  <persName>
+                     <surname>Grabbe</surname>
+                     <forename type="first">Christian</forename>
+                     <forename type="middle">Dietrich</forename>
+                     <roleName>Dramatiker</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118541102</idno>
+               </person>
+               <person xml:id="storm_theodor">
+                  <persName>
+                     <surname>Storm</surname>
+                     <forename>Theodor</forename>
+                     <roleName>Schriftsteller</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118618725</idno>
+               </person>
+               <person xml:id="stuppaeck_hermann">
+                  <persName>
+                     <surname>Stuppäck</surname>
+                     <forename>Hermann</forename>
+                     <roleName>Generalkulturreferent</roleName>
+                  </persName>
+                  <idno>http://d-nb.info/gnd/117363669</idno>
+                  <!-- https://books.google.at/books?id=doQrDwAAQBAJ&pg=PT106&lpg=PT106&dq=Generalkulturreferent+wien+1944&source=bl&ots=mF3wdmwwIl&sig=QOL6ZBJZjvMhThzPLsczBOWGgps&hl=de&sa=X&ved=0ahUKEwjdmf6U4KrZAhUCU1AKHREiCa4Q6AEIXTAJ#v=onepage&q=Generalkulturreferent%20wien%201944&f=false -->
+               </person>
+               <person xml:id="spies_johann">
+                  <persName>
+                     <surname>Spies</surname>
+                     <forename>Johann</forename>
+                     <roleName>Buchdrucker</roleName>
+                  </persName>
+                  <idno>http://d-nb.info/gnd/11879826X</idno>
                </person>
             </listPerson>
          </p>

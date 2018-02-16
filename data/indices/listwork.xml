@@ -64,7 +64,8 @@
                         <idno type="URL">http://d-nb.info/gnd/4226218-5</idno>
                     </bibl>
                     <bibl xml:id="peter_squentz">
-                        <title>Absurda comica oder Herr Peter Sequentz</title>
+                        <title>Peter Squentz</title>
+                        <title type="alt">Absurda comica oder Herr Peter Sequentz</title>
                         <author><rs ref="#gryphius_andreas">Andreas Gryphius</rs></author>
                         <idno type="URL">http://d-nb.info/gnd/4528941-4</idno>
                     </bibl>
@@ -180,12 +181,28 @@
                     </bibl>
                     <bibl xml:id="arbeit_bernhard_shaw">
                         <title>George Bernard Shaw in Deutschland</title>
-                        <author><rs type="person" ref="#pilger_else">Otto Rommel</rs></author>
+                        <author><rs type="person" ref="#pilger_else">Else Pilger</rs></author>
                         <idno>http://d-nb.info/571021557</idno>
                     </bibl>
                     <bibl xml:id="meistersinger">
                         <title>Die Meistersinger von Nürnberg</title>
                         <author><rs ref="#wagner_richard" type="person">Richard Wagner</rs></author>
+                    </bibl>
+                    <bibl xml:id="napoleon_hundert_tage">
+                        <title>Napoleon oder die hundert Tage</title>
+                        <author><rs ref="#grabbe_christian" type="person">Christian Dietrich Grabbe</rs></author>
+                        <idno type="URL">http://d-nb.info/gnd/4325626-0</idno>
+                    </bibl>
+                    <bibl xml:id="pole_poppenspaeler">
+                        <title>Pole Poppenspäler</title>
+                        <author><rs ref="#storm_theodor" type="person">Theoder Storm</rs></author>
+                        <idno type="URL">http://d-nb.info/gnd/4264150-0</idno>
+                    </bibl>
+                    <bibl xml:id="faust_volksbuch">
+                        <title>Faust Volksbuch</title>
+                        <title type="alt">Historia von Doctor Johann Fausten</title>
+                        <author><rs ref="#spies_johann" type="person">Johann Spies</rs></author>
+                        <idno type="URL">http://d-nb.info/gnd/4153795-6</idno>
                     </bibl>
                 </listBibl>
             </p>
