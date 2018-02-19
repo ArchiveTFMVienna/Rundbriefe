@@ -79,7 +79,7 @@
             <num>No. 2</num> Erscheint jährlich viermal</head>
          <div type="letter" n="1">
             <salute>Liebe Kameraden!</salute>
-            <p>Seit wir Euch den <ref target="http://d-nb.info/02158866X">ersten Rundbrief</ref> sandten, ist in unserem
+            <p>Seit wir Euch den <rs type="work" ref="#rundbrief_01">ersten Rundbrief</rs> sandten, ist in unserem
                <rs type="org" ref="#zentralinstitut">Zentralinstitut</rs> 
                viel Arbeit geleistet worden. Wir tun sie aber gerne,
                weil wir wissen, daß all das eines Tages Euch zugute kommen wird,
@@ -89,40 +89,39 @@
                Arbeit beschäftigt, hoffen wir, Euch eine Freude damit zu bereiten,
                daß wir Euch vorerst berichten, was wir dafür vorbereiten konnten.
                Zuerst fanden sich in den Sommerferien etwa zehn Studentinnen im
-               Arbeitseinsatz in unserem Institut ein und führten unter der Leitung
+               Arbeitseinsatz in <rs type="org" ref="#zentralinstitut">unserem Institut</rs> ein und führten unter der Leitung
                von <rs type="person" ref="#meyer_ruth">Frl. Meyer</rs> den Verfasserkatalog der immer größer werdenden
                Bücherei zu Ende. Dazu soll nun aber noch ein möglichst ins Ein
                zelne gehender Schlagwortkatalog treten, damit unsere Bibliothek
                vielseitig und ohne viel Suchen benutzbar ist.</p>
             <p>Unsere Bücherbestände wurden indes außerordentlich bereichert.
-               Zu der im <ref target="http://d-nb.info/02158866X">ersten Rundbrief</ref> erwähnten Buschbibliothek, einer
+               Zu der im <rs type="work" ref="#rundbrief_01">ersten Rundbrief</rs> erwähnten <rs type="org" ref="#busch-bibliothek">Buschbibliothek></rs>, einer
                theatergeschichtlichen Leihgabe der Stadt <rs ref="#münster" type="place">Münster</rs>, im Umlauf von
-               3000 Bänden kam nun allmählich ein Eigenbesitz von bisher
-               7000 Bänden. Gerade in diesen Tagen konnten wir überdies aus
+               <num>3000</num> Bänden kam nun allmählich ein Eigenbesitz von bisher
+               <num>7000</num> Bänden. Gerade in diesen Tagen konnten wir überdies aus
                einem alpenländischen Schloß eine kostbare Bibliothek von
-               2500 Dramentexten (Spielbüchern) aus der Zeit <date notBefore="1770-01-01" notAfter="1830-12-31">von 1770 bis 1830</date>
+               <num>2500</num> Dramentexten (Spielbüchern) aus der Zeit <date notBefore="1770-01-01" notAfter="1830-12-31">von 1770 bis 1830</date>
                dazu erwerben, so daß unser Eigenbesitz bald schon 10000 Bände erreicht.</p>
             <p>Es versteht sich von selbst, daß parallel dazu auch unser Bilder
                bestand dauernd ergänzt wird. Beides fügt sich zu einem wissenschaftlich benutzbaren Forschungs- und Studienapparat zusammen.</p>
-            <p>Die wichtigste Erwerbung aber, die bald schon ein Anziehungs
-               punkt für viele Forscher und Dissertanten sein wird, ist das "Theater-
-               archiv Leuschke". Der heute 72-jährige <rs type="person" ref="#leuschke_">Prof. Leuschke</rs> 
+            <p>Die wichtigste Erwerbung aber, die bald schon ein Anziehungspunkt 
+               für viele Forscher und Dissertanten sein wird, ist das "Theaterarchiv Leuschke". Der <date notBefore="1943-11-01" notAfter="1943-11-30">heute</date> 
+               72-jährige <rs type="person" ref="#leuschke_">Prof. Leuschke</rs> 
                (<rs ref="#dresden" type="place">Dresden</rs>) hat
-               in mehr als 50-jähriger Arbeit über 60000 Theaterkritiken, Schau
-               spielerbiographien und Nekrologe aus Zeitungen und Zeitschriften
+               in mehr als 50-jähriger Arbeit über <num>60000</num> Theaterkritiken, Schauspielerbiographien und Nekrologe aus Zeitungen und Zeitschriften
                von <date notBefore="1800-01-01" notAfter="1943-12-31">1800 bis 1943</date> gesammelt und wissenschaftlich genau beschriftet.
                Dieses Theaterarchiv Leuschke wurde nun dankenswerterweise von</p>
                    
             <pb n="2"/>
-            <p>der Stadt <geogName>Wien</geogName> für die <rs type="org" ref="#stadtbibliothek">Stadtbibliothek</rs> erworben, jedoch dem <rs type="org" ref="#zentralinstitut">Zen-
-           tralinstitut für Theaterwissenschaft</rs> als Dauerleihgabe übergeben.
-            Hier wird es von nun an der gesamten <geogName>europäischen</geogName> Forschung, vor
+            <p>der Stadt <rs ref="#Wien" type="place">Wien</rs> für die <rs type="org" ref="#stadtbibliothek">Stadtbibliothek</rs> erworben,
+            jedoch dem <rs type="org" ref="#zentralinstitut">Zentralinstitut für Theaterwissenschaft</rs> als Dauerleihgabe übergeben.
+            Hier wird es von nun an der gesamten europäischen Forschung, vor
             allem aber Euch dann bei Euerer Arbeit zur Verfügung stehen. Das
             darin enthaltene Quellenmaterial ist unheimlich groß und reich. Vor
             allem aber werden dadurch viele Reisen in die betreffenden Städte
             erspart.</p>
-            <p>Dank einer Stiftung der <rs type="org" ref="#gesellschaft_für_wiener_theatergeschichte">Gesellschaft für Wiener Theater
-            geschichte</rs> können nun unter der Leitung von <rs type="person" ref="#zirnig_margarete">Frl. Dr. Zirnig</rs> gleich
+            <p>Dank einer Stiftung der <rs type="org" ref="#gesellschaft_für_wiener_theatergeschichte">Gesellschaft für Wiener Theatergeschichte</rs> 
+            können nun unter der Leitung von <rs type="person" ref="#zirnig_margarete">Frl. Dr. Zirnig</rs> gleich
             einige geschulte Fachkräfte angesetzt werden, um zu diesem Archiv
             die nötige Schlagwortkartei zu erarbeiten, die dann rund 300 000 Zet
             tel umfassen wird.</p>
@@ -139,11 +138,11 @@
             entsprechende Spezialbearbeiter verteilt werden, so daß mit dem
             Eingang der Manuskripte Ende <date>1944</date> zu rechnen ist.</p>
             <p>Der mittlere Band der Theatergeschichte des deutschen Volkes
-            "Das Nationaltheater des deutschen Volkes" von <rs type="person" ref="#kindermann_heinz">Prof. Dr. Kinder
-             mann</rs> ist im Fahnensatz fertig. Er wird nun eben illustriert. Wir
-             hoffen, daß es im Frühjahr oder Sommer <date>1944</date> im <rs type="org" ref="#propyläenverlag">Propyläenverlag</rs>,
-             <geogName>Berlin</geogName>, Kochstraße, erscheint. Jüngst erschien <rs type="person" ref="#kindermann_heinz">Prof. Dr. Kindermann</rs>
-               Abhandlung <rs type="work" ref="#hebbel_kindermann">"Hebbel und das Wiener Theater seiner Zeit"</rs> im <rs type="org" ref="#verlag_frick">Verlag Frick</rs>, <geogName>Wien</geogName>, I., Graben.
+            "Das Nationaltheater des deutschen Volkes" von <rs type="person" ref="#kindermann_heinz">Prof. Dr. Kindermann</rs> 
+            ist im Fahnensatz fertig. Er wird nun eben illustriert. Wir
+            hoffen, daß es im Frühjahr oder Sommer <date>1944</date> im <rs type="org" ref="#propyläenverlag">Propyläenverlag</rs>,
+             <address><addrLine>Berlin, Kochstraße</addrLine></address>, erscheint. Jüngst erschien <rs type="person" ref="#kindermann_heinz">Prof. Dr. Kindermann</rs>
+             Abhandlung <rs type="work" ref="#hebbel_kindermann">"Hebbel und das Wiener Theater seiner Zeit"</rs> im <rs type="org" ref="#verlag_frick">Verlag Frick</rs>, <geogName>Wien</geogName>, I., Graben.
              Im <rs type="org" ref="#verlag_frick">gleichen Verlag</rs> wird zu <date when="1943-12-25">Weihnachten</date> in ähnlicher bebilderter Ausstattung seine Abhandlung
              <rs type="work" ref="#hölderlin_kindermann">"Hölderlin und das deutsche Theater"</rs> herauskommen. Endlich ist auch die Neuauflage von <rs type="person" ref="#kindermann_heinz">Kindermanns</rs> Biographie über den Wiener
              Volksdramatiker und Volksdarsteller <rs type="person" ref="#raimund_ferdinand">Ferdinand Raimund</rs> im <rs type="org" ref="#wiener_verlag">Wiener
@@ -154,16 +153,16 @@
                Zentralinstitut herausgegebenen Sammlung theaterwissenschaftlicher
             Abhandlungen werden ebenfalls einige wichtige Bände vorbereitet.
             So etwa <rs type="person" ref="#rommel_otto">Dr. Otto Rommels</rs> umfangreiche und völlig neues Material
-               fördernde Untersuchung <rs ref="der_wienerische_hans_wurst" type="work">Der Wienerische Hans Wurst in euro
-                  päischer Beleuchtung</rs>, <rs type="person" ref="frank_eduard">Dr. Eduard Franks</rs> Arbeit über Schlenther
+               fördernde Untersuchung <rs ref="der_wienerische_hans_wurst" type="work">Der Wienerische Hans Wurst in europäischer Beleuchtung</rs>,
+               <rs type="person" ref="frank_eduard">Dr. Eduard Franks</rs> Arbeit über Schlenther
                als <roleName>Burgtheaterdirektor</roleName>, <rs type="person" ref="#pilger_else">Dr. Else Pilgers</rs> <rs type="work" ref="#arbeit_bernhard_shaw">Arbeit über Bernhard Shaw</rs>
             auf der deutschen Bühne und andere mehr (<rs type="org" ref="#verlag_matthiesen">Verlag Dr. Matthiesen</rs>, 
                <address><rs type="place" ref="#berlin">Berlin SW 68,</rs> <addrLine>Ritterstraße 77</addrLine></address>). Die Zahl der Studierenden der
             Theaterwissenschaft hat sich seit dem letzten Semester dadurch be</p>
             
             <pb n="3"/>
-            <p>trächtlich erhöht, daß aus vielen bombenbeschäftigten Städten Studier
-            ende dieses Fachs sich nun ebenfalls hier einfinden.</p>
+            <p>trächtlich erhöht, daß aus vielen bombenbeschäftigten Städten Studierende
+             dieses Fachs sich nun ebenfalls hier einfinden.</p>
             <p>Auch der Kreis der Lehrenden ist dadurch erweitert worden,
                daß der <roleName>Reichserziehungsminister</roleName> dem <roleName>Leiter</roleName> der <rs type="org" ref="#max_reinhardt_seminar">Schauspielschule
                des Burgtheaters</rs>, <rs type="person" ref="#niederführ_otto">Prof. Dr. Niederführ</rs>, einen Lehrauftrag für prak

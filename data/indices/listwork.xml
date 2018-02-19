@@ -204,6 +204,11 @@
                         <author><rs ref="#spies_johann" type="person">Johann Spies</rs></author>
                         <idno type="URL">http://d-nb.info/gnd/4153795-6</idno>
                     </bibl>
+                    <bibl xml:id="rundbrief_01">
+                        <title>ersten Rundbrief</title>
+                        <author><rs type="org" ref="#zentralinstitut">Zentralinstitut</rs></author>
+                        <idno type="URL">https://d-nb.info/02158866X</idno>
+                    </bibl>
                 </listBibl>
             </p>
         </body>

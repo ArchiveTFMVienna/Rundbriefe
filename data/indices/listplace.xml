@@ -217,6 +217,13 @@
                </location>
                <idno type="URL">http://d-nb.info/gnd/4012995-0</idno>
             </place>
+            <place xml:id="Wien" type="city">
+               <placeName>Wien</placeName>
+               <location>
+                  <geo decls="LatLng">48.210033 16.363449</geo>
+               </location>
+               <idno type="URL">https://d-nb.info/gnd/4066009-6</idno>
+            </place>
          </listPlace>
       </body>
   </text>
