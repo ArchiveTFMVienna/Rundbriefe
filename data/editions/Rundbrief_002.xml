@@ -89,7 +89,7 @@
                Arbeit beschäftigt, hoffen wir, Euch eine Freude damit zu bereiten,
                daß wir Euch vorerst berichten, was wir dafür vorbereiten konnten.
                Zuerst fanden sich in den Sommerferien etwa zehn Studentinnen im
-               Arbeitseinsatz in <rs type="org" ref="#zentralinstitut">unserem Institut</rs> ein und führten unter der Leitung
+               Arbeitseinsatz in unserem <rs type="org" ref="#zentralinstitut">Institut</rs> ein und führten unter der Leitung
                von <rs type="person" ref="#meyer_ruth">Frl. Meyer</rs> den Verfasserkatalog der immer größer werdenden
                Bücherei zu Ende. Dazu soll nun aber noch ein möglichst ins Ein
                zelne gehender Schlagwortkatalog treten, damit unsere Bibliothek
@@ -130,23 +130,23 @@
             </rs> hat zusammen
             mit den beiden Assistentinnen, <rs type="person" ref="#dietrich_margret">Frl. Dietrich</rs>
             und <rs type="person" ref="#schiffer_gustave">Frl. Schiffer</rs>, sowie
-            mit <rs type="person" ref="#ullrich_">Herrn Ullrich</rs>, den der <rs type="org" ref="#verlag_matthiesen">Verlag Matthiesen</rs> eigens dem <rs type="org" ref="#zentralinstitut">Zentralinstitut
+            mit <rs type="person" ref="#ulrich_">Herrn Ulrich</rs>, den der <rs type="org" ref="#verlag_matthiesen">Verlag Matthiesen</rs> eigens dem <rs type="org" ref="#zentralinstitut">Zentralinstitut
             </rs> dafür zuteilte, die Grundlage für das künftige Sachwörter
             buch der Theaterwissenschaft geschaffen, als sie ein rund 1800 Zettel
             umfassendes Stichwörterverzeichnis für die nun zu verfassenden Artikel
             des Lexikons erarbeiteten. Bald schon werden diese Themen an
             entsprechende Spezialbearbeiter verteilt werden, so daß mit dem
-            Eingang der Manuskripte Ende <date>1944</date> zu rechnen ist.</p>
+            Eingang der Manuskripte Ende <date notBefore="1944-01-01" notAfter="1944-12-31">1944</date> zu rechnen ist.</p>
             <p>Der mittlere Band der Theatergeschichte des deutschen Volkes
             "Das Nationaltheater des deutschen Volkes" von <rs type="person" ref="#kindermann_heinz">Prof. Dr. Kindermann</rs> 
             ist im Fahnensatz fertig. Er wird nun eben illustriert. Wir
-            hoffen, daß es im Frühjahr oder Sommer <date>1944</date> im <rs type="org" ref="#propyläenverlag">Propyläenverlag</rs>,
-             <address><addrLine>Berlin, Kochstraße</addrLine></address>, erscheint. Jüngst erschien <rs type="person" ref="#kindermann_heinz">Prof. Dr. Kindermann</rs>
-             Abhandlung <rs type="work" ref="#hebbel_kindermann">"Hebbel und das Wiener Theater seiner Zeit"</rs> im <rs type="org" ref="#verlag_frick">Verlag Frick</rs>, <geogName>Wien</geogName>, I., Graben.
+            hoffen, daß es im Frühjahr oder Sommer <date notBefore="1944-01-01" notAfter="1944-12-31">1944</date> im <rs type="org" ref="#propyläenverlag">Propyläenverlag</rs>,
+             <address><addrLine>Berlin, Kochstraße</addrLine></address>, erscheint. Jüngst erschien <rs type="person" ref="#kindermann_heinz">Prof. Dr. Kinder
+                manns</rs> Abhandlung <rs type="work" ref="#hebbel_kindermann">"Hebbel und das Wiener Theater seiner Zeit"</rs> im <rs type="org" ref="#verlag_frick">Verlag Frick</rs>, <geogName>Wien</geogName>, I., Graben.
              Im <rs type="org" ref="#verlag_frick">gleichen Verlag</rs> wird zu <date when="1943-12-25">Weihnachten</date> in ähnlicher bebilderter Ausstattung seine Abhandlung
              <rs type="work" ref="#hölderlin_kindermann">"Hölderlin und das deutsche Theater"</rs> herauskommen. Endlich ist auch die Neuauflage von <rs type="person" ref="#kindermann_heinz">Kindermanns</rs> Biographie über den Wiener
              Volksdramatiker und Volksdarsteller <rs type="person" ref="#raimund_ferdinand">Ferdinand Raimund</rs> im <rs type="org" ref="#wiener_verlag">Wiener
-             Verlag</rs>, <address><addrLine>Wien, XII., Niederhofstraße 57</addrLine></address>, erschienen. Dort wird im
+                Verlag</rs>, <address><rs type="place" ref="#wien">Wien, </rs> <addrLine>XII., Niederhofstraße 57</addrLine></address>, erschienen. Dort wird im
                <date when="1944-01">Januar</date> auch eine Neuauflage von <rs type="person" ref="#kindermann_heinz">Kindermanns</rs> "Geschichte des
              Burgtheaters" erscheinen.</p>
             <p>In den theatergeschichtlichen Forschungen aber dieser vom
@@ -214,9 +214,46 @@
                Pirchan</rs> über "Die Künste des Bühnenbildes" berichten. Im Januar
                wird der <roleName>Oberspielleiter</roleName> der <rs type="org" ref="#staatsoper">Wiener Oper</rs>, <rs type="person" ref="#schuh_oskar">Oskar F. Schuh</rs>, "Mo
             derne Probleme der Opernregie" behandeln.</p>
+            <p>So ist allerlei "Leben in der Bude". Manche gesellige Ver
+            anstaltungen, die das persönliche Kennenlernen erleichtern und die
+            Aussprache der Kameraden fördern, schließen sich an.</p>
+            <p>Um euch wenigstens eine kleine Freude zu machen, fügen wir
+               den Vorabdruck eines kurzen Abschnittes "<rs type="person" ref="#goethe_johann">Goethes</rs> Weg zum
+            Theater" aus <rs type="person" ref="#kindermann_heinz">Kindermanns</rs> im Druck befindlichen Buch "<rs type="work" ref="#nationaltheater_deutsche_klassik">Das Nation
+            naltheater der deutschen Klassik"</rs> bei.</p>
+            <p>Eure vielfach in Briefen geäußerten Wünsche nach einem Ver
+            zeichnis theaterwissenschaftlicher Werke, die greifbar sind und von
+            Euch indessen durchgearbeitet werden könnten, erfüllen wir mit der
+            ebenfalls beiliegenden Liste.</p>
+            <p>Denjenigen, die versuchen wollen, mit eigenen Arbeiten anzu
+            fangen, empfehlen wir, vorerst gelegentlich von Aufführungen im
+            Rahmen der Wehrmachtsbetreuung möglichst genaue Berichte zu
+            verfassen. Sie schulen die Beobachtungsgabe. Auch aus der Erinne
+            rung an früher gesehene Aufführungen können solche, das Wesent
+            liche der betreffenden Aufführung, ihrer Regie, ihres Bühnenbildes
+            und ihrer darstellerischen Leistung sowie ihrer Publikumswirkung
+            erfassende Berichte niedergeschrieben werden.</p>
+            <p>Neben dem Durcharbeiten der in der Liste angeführten Werke
+            käme auch der Versuch in Betracht, an Hand irgendeines Reclam
+            bändchens die dramaturgische Bühneneinrichtung eines Klassiker
+            dramas in Angriff zu nehmen. Ihr könnt uns solche Arbeiten gern
+            schicken. Wir sehen sie durch und sagen Euch unsere Meinung dazu
+            und geben Euch weitere Anleitung.</p>
+            <p>Nun aber senden wir Euch allen zu Weihnachten die herzlich
+            sten Wünsche. Für das kommende Jahr aber wünschen wir unserem
+            Vaterlande entscheidende Erfolge. Wir sind im Geiste bei Euch,
+            drücken Euch zuversichtlich die Hand und hoffen, Euch in nicht
+            allzuferner Zeit auf Eurem Arbeitsplatz in unserem schönen <rs type="org" ref="#zentralinstitut">Zentral
+            institut</rs> begrüßen zu können.</p>
+            <p>Im Namen aller Mitglieder des <rs type="org" ref="#zentralinstitut">Zentralinstituts</rs></p>
+            <p>grüßt Euch</p>
+            <p><rs type="person" ref="#kindermann_heinz">Prof. Dr. HEINZ KINDERMANN</rs>,</p>
+            <p><roleName>Direktor</roleName> des <rs type="org" ref="#zentralinstitut">Zentralinstituts für Theaterwissenschaft</rs></p>
+            <p>an der <rs type="org" ref="#universitaet_wien">Universität Wien</rs>.</p>
             
-            
-          
+            <p>Institutsanschrift: <address><rs type="place" ref="#wien_I">Wien I,</rs> <addrLine><rs type="place" ref="#hofburg">Hofburg</rs>, Batthanyistiege</addrLine></address>. Ruf R20-5-20.</p>
+                              
+            <p>DRUCK VON ADOLF HOLZHAUSENS NFG., WIEN</p>        
          </div>
       </body>
    </text>

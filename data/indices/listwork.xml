@@ -209,6 +209,10 @@
                         <author><rs type="org" ref="#zentralinstitut">Zentralinstitut</rs></author>
                         <idno type="URL">https://d-nb.info/02158866X</idno>
                     </bibl>
+                    <bibl xml:id="nationaltheater_deutsche_klassik">
+                        <title>Das Nationaltheater der deutschen Klassik</title>
+                        <author><rs type="person" ref="#kindermann_heinz">Heinz Kindermann</rs></author>
+                    </bibl>
                 </listBibl>
             </p>
         </body>
