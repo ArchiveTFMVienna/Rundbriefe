@@ -100,7 +100,7 @@
                <num>7000</num> Bänden. Gerade in diesen Tagen konnten wir überdies aus
                einem alpenländischen Schloß eine kostbare Bibliothek von
                <num>2500</num> Dramentexten (Spielbüchern) aus der Zeit <date notBefore="1770-01-01" notAfter="1830-12-31">von 1770 bis 1830</date>
-               dazu erwerben, so daß unser Eigenbesitz bald schon 10000 Bände erreicht.</p>
+               dazu erwerben, so daß unser Eigenbesitz bald schon <num>10000</num> Bände erreicht.</p>
             <p>Es versteht sich von selbst, daß parallel dazu auch unser Bilder
                bestand dauernd ergänzt wird. Beides fügt sich zu einem wissenschaftlich benutzbaren Forschungs- und Studienapparat zusammen.</p>
             <p>Die wichtigste Erwerbung aber, die bald schon ein Anziehungspunkt 
@@ -122,7 +122,7 @@
             <p>Dank einer Stiftung der <rs type="org" ref="#gesellschaft_für_wiener_theatergeschichte">Gesellschaft für Wiener Theatergeschichte</rs> 
             können nun unter der Leitung von <rs type="person" ref="#zirnig_margarete">Frl. Dr. Zirnig</rs> gleich
             einige geschulte Fachkräfte angesetzt werden, um zu diesem Archiv
-            die nötige Schlagwortkartei zu erarbeiten, die dann rund 300 000 Zettel umfassen wird.</p>
+            die nötige Schlagwortkartei zu erarbeiten, die dann rund <num>300000</num> Zettel umfassen wird.</p>
             <p>Auch die rein wissenschaftlichen Arbeiten des Instituts sind gut
             vorwärtsgekommen. Der <rs type="person" ref="#kindermann_heinz">Direktor</rs> des <rs type="org" ref="#zentralinstitut">Zentralinstituts</rs> hat zusammen
             mit den beiden Assistentinnen, <rs type="person" ref="#dietrich_margret">Frl. Dietrich</rs>
@@ -138,19 +138,20 @@
             "Das Nationaltheater des deutschen Volkes" von <rs type="person" ref="#kindermann_heinz">Prof. Dr. Kindermann</rs> 
             ist im Fahnensatz fertig. Er wird nun eben illustriert. Wir
             hoffen, daß es im Frühjahr oder Sommer <date notBefore="1944-01-01" notAfter="1944-12-31">1944</date> im <rs type="org" ref="#propyläenverlag">Propyläenverlag</rs>,
-             <address><addrLine>Berlin, Kochstraße</addrLine></address>, erscheint. Jüngst erschien <rs type="person" ref="#kindermann_heinz">Prof. Dr. Kindermanns</rs> Abhandlung <rs type="work" ref="#hebbel_kindermann">"Hebbel und das Wiener Theater seiner Zeit"</rs> im <rs type="org" ref="#verlag_frick">Verlag Frick</rs>, <geogName>Wien</geogName>, I., Graben.
+               <address><rs type="place" ref="#berlin">Berlin,</rs> <addrLine>Kochstraße</addrLine></address>, erscheint. Jüngst erschien <rs type="person" ref="#kindermann_heinz">Prof. Dr. Kindermanns</rs> Abhandlung
+               <rs type="work" ref="#hebbel_kindermann">"Hebbel und das Wiener Theater seiner Zeit"</rs> im <rs type="org" ref="#verlag_frick">Verlag Frick</rs>, <address><rs type="place" ref="#wien_I">Wien, I.,</rs><addrLine>Graben</addrLine></address>.
              Im <rs type="org" ref="#verlag_frick">gleichen Verlag</rs> wird zu <date when="1943-12-25">Weihnachten</date> in ähnlicher bebilderter Ausstattung seine Abhandlung
              <rs type="work" ref="#hölderlin_kindermann">"Hölderlin und das deutsche Theater"</rs> herauskommen. Endlich ist auch die Neuauflage von <rs type="person" ref="#kindermann_heinz">Kindermanns</rs> Biographie über den Wiener
-             Volksdramatiker und Volksdarsteller <rs type="person" ref="#raimund_ferdinand">Ferdinand Raimund</rs> im <rs type="org" ref="#wiener_verlag">Wiener
-                Verlag</rs>, <address><rs type="place" ref="#wien">Wien, </rs> <addrLine>XII., Niederhofstraße 57</addrLine></address>, erschienen. Dort wird im
+               <rs type="person" ref="#raimund_ferdinand">Volksdramatiker und Volksdarsteller Ferdinand Raimund</rs> im <rs type="org" ref="#wiener_verlag">Wiener
+                  Verlag</rs>, <address><rs type="place" ref="#Wien">Wien, XII.,</rs> <addrLine>Niederhofstraße 57</addrLine></address>, erschienen. Dort wird im
                <date when="1944-01">Januar</date> auch eine Neuauflage von <rs type="person" ref="#kindermann_heinz">Kindermanns</rs> "Geschichte des
              Burgtheaters" erscheinen.</p>
             <p>In den theatergeschichtlichen Forschungen aber dieser vom
                Zentralinstitut herausgegebenen Sammlung theaterwissenschaftlicher
             Abhandlungen werden ebenfalls einige wichtige Bände vorbereitet.
             So etwa <rs type="person" ref="#rommel_otto">Dr. Otto Rommels</rs> umfangreiche und völlig neues Material
-               fördernde Untersuchung <rs ref="der_wienerische_hans_wurst" type="work">Der Wienerische Hans Wurst in europäischer Beleuchtung</rs>,
-               <rs type="person" ref="frank_eduard">Dr. Eduard Franks</rs> Arbeit über Schlenther
+               fördernde Untersuchung <rs ref="#der_wienerische_hans_wurst" type="work">Der Wienerische Hans Wurst in europäischer Beleuchtung</rs>,
+               <rs type="person" ref="#frank_eduard">Dr. Eduard Franks</rs> Arbeit über Schlenther
                als <roleName>Burgtheaterdirektor</roleName>, <rs type="person" ref="#pilger_else">Dr. Else Pilgers</rs> <rs type="work" ref="#arbeit_bernhard_shaw">Arbeit über Bernhard Shaw</rs>
             auf der deutschen Bühne und andere mehr (<rs type="org" ref="#verlag_matthiesen">Verlag Dr. Matthiesen</rs>, 
                <address><rs type="place" ref="#berlin">Berlin SW 68,</rs> <addrLine>Ritterstraße 77</addrLine></address>). Die Zahl der Studierenden der
@@ -177,7 +178,7 @@
             vorlesung für künftige Kunstbetrachter gehalten, die an alle am
             Theaterwesen interessierten Hochschulen Wiens führt. Sie begann
             bei <rs type="person" ref="#kindermann_heinz">Prof. Dr. Kindermann</rs> (Einführung in das Wesen der Theaterkritik), führt dann an die <rs type="org" ref="#akademie_der_bildenden_kuenste">Akademie der bildenden Künste</rs>, wo <rs type="person" ref="#pirchan_emil">Prof.
-               Pirchan</rs> in das Wesen der Bühnenbildnerei, <roleName type="degree" full="yes">Dozent Lutze</roleName> in die
+               Pirchan</rs> in das Wesen der Bühnenbildnerei, <roleName type="degree" full="yes">Dozent</roleName> <rs type="person" ref="#lutz_">Lutze</rs> in die
             Theaterbaukunst der Vergangenheit und Gegenwart, <rs type="person" ref="#gregor_joseph">Prof. Gregor</rs>
                in den Aufbau der <rs type="org" ref="#theatersammlung_nationalbibliothek">Theatersammlung der Nationalbibliothek</rs> ein
             führt. Dann folgt die <rs type="org" ref="#technische_hochschule_wien">Technische Hochschule</rs>, wo <rs type="person" ref="#grom-rottmayer_hermann">Prof. Grom-Rottmayer</rs> die Theatermaschinerie und besonders die Theaterbeleuchtungskunst erläutert.
@@ -196,8 +197,7 @@
             Januar wird die <rs type="person" ref="#bahr-mildenburg_anna">Kammersängerin Anna Bahr-Mildenburg</rs> mit einem
             musikalisch illustrierten Vortrag "Musikalische Darstellungskunst
             von <rs type="person" ref="#gluck_christoph">Gluck</rs> bis <rs type="person" ref="#strauß_richard">Richard Strauß</rs>" folgen.</p>
-            <p>Das <rs type="org" ref="#zentralinstitut">Zentralinstitut</rs> selbst führt in diesem Semester seine großen, allgemein zugängichen Sonderveranstaltungen im Auditorium
-            maximum durch. Im November sprach da vor vollbesetztem Saal</p>
+            <p>Das <rs type="org" ref="#zentralinstitut">Zentralinstitut</rs> selbst führt in diesem Semester seine großen, allgemein zugängichen Sonderveranstaltungen im <placeName type="room">Auditorium Maximum</placeName> durch. Im November sprach da vor vollbesetztem Saal</p>
             
             <pb n="4"/>
             <p>und unter größter Zustimmung <rs type="person" ref="#kayssler_friedrich">Staatsschauspieler Friedrich Kayssler</rs>
@@ -234,7 +234,7 @@
             
             <p>Institutsanschrift: <address><rs type="place" ref="#wien_I">Wien I,</rs> <addrLine><rs type="place" ref="#hofburg">Hofburg</rs>, Batthanyistiege</addrLine></address>. Ruf R20-5-20.</p>
                               
-            <p>DRUCK VON ADOLF HOLZHAUSENS NFG., WIEN</p>        
+            <p>DRUCK VON <orgName type="publisher">ADOLF HOLZHAUSENS NFG.</orgName>, <rs type="place" ref="#Wien">WIEN</rs></p>        
          </div>
       </body>
    </text>

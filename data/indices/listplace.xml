@@ -224,6 +224,13 @@
                </location>
                <idno type="URL">https://d-nb.info/gnd/4066009-6</idno>
             </place>
+            <place xml:id="gera" type="city">
+               <placeName>Gera</placeName>
+               <location>
+                  <geo decls="LatLng">50.885071 12.080720</geo>
+               </location>
+               <idno type="URL">http://d-nb.info/gnd/4020295-1</idno>
+            </place>
          </listPlace>
       </body>
   </text>

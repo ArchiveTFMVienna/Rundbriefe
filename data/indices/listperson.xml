@@ -165,8 +165,8 @@
                   <persName>
                      <surname>Raimund</surname>
                      <forename>Ferdinand</forename>
-                     <roleName>Volksdramatiker</roleName>
-                     <roleName>Volksdarsteller</roleName>
+                     <roleName>Dramatiker</roleName>
+                     <roleName>Schauspieler</roleName>
                   </persName>
                   <idno type="URL">http://d-nb.info/gnd/118597914</idno>
                </person>
@@ -176,6 +176,14 @@
                      <forename>Georg Edmund Alfred</forename>
                      <roleName type="degree" full="abb">Prof.</roleName>
                   </persName>
+                  <birth when="1872-05-17">
+                     <date>17. Mai 1872</date>
+                     <rs type="place" ref="#gera">Gera</rs>
+                  </birth>
+                  <death when="1945-02-14">
+                     <date>14. Februar 1945</date>
+                     <rs type="place" ref="#dresden">Dresden</rs>
+                  </death>
                </person>
                <person xml:id="meyer_ruth">
                   <persName>
@@ -572,6 +580,7 @@
                <person xml:id="lutz_">
                   <persName>
                      <surname>Lutz</surname>
+                     <surname type="alt">Lutze</surname>
                      <forename/>
                      <roleName type="degree" full="yes">Dozent</roleName>
                   </persName>
@@ -785,7 +794,7 @@
                <person xml:id="strauß_richard">
                   <persName>
                      <surname>Strauß</surname>
-                     <surname><alt/>Strauss<alt/></surname>
+                     <surname type="alt">Strauss</surname>
                      <forename>Richard</forename>
                      <roleName>Komponist</roleName>
                      <roleName>Dirigent</roleName>
