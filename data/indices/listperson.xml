@@ -820,6 +820,30 @@
                      <idno>http://d-nb.info/gnd/118611208</idno>
                   </persName>
                </person>
+               <person xml:id="eybner_richard">
+                  <persName>
+                     <surname>Eybner</surname>
+                     <forename>Richard</forename>
+                     <roleName>Burgschauspieler</roleName>
+                  </persName>
+                  <idno type="URL">http://d-nb.info/gnd/118531530</idno>
+               </person>
+               <person xml:id="haeussermann_">
+                  <persName>
+                     <surname>Haeussermann</surname>
+                     <roleName>Burgschauspieler</roleName>
+                  </persName>
+                  <note>es gibt einen Reinhold Häussermann <idno type="URL">http://d-nb.info/gnd/130170402</idno>, der zeitlich passt (Burgschauspieler ab 1915). Bekannter ist sein Sohn Ernst Häussermann <idno type="URL">http://d-nb.info/gnd/116369582</idno>, der aber laut Wikipedia aufgrund seiner jüdischen Herkunft 1939 nach Amerika emigrieren musste, daher ist es der 
+                  definitiv nicht.</note>
+               </person>
+               <person xml:id="schmidt_wilhelm">
+                  <persName>
+                     <surname>Schmidt</surname>
+                     <forename>Wilhelm</forename>
+                     <roleName>Burgschauspieler</roleName>
+                  </persName>
+                  <note>https://de.wikipedia.org/wiki/Wilhelm_Schmidt_(Schauspieler)</note>
+               </person>
             </listPerson>
          </p>
       </body>

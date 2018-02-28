@@ -213,6 +213,16 @@
                         <title>Das Nationaltheater der deutschen Klassik</title>
                         <author><rs type="person" ref="#kindermann_heinz">Heinz Kindermann</rs></author>
                     </bibl>
+                    <bibl xml:id="faust_marlowe">
+                        <title>Doctor Faustus</title>
+                        <author><rs ref="#marlowe_christopher" type="person">Christopher Marlowe</rs></author>
+                        <idno type="URL">http://d-nb.info/gnd/4099304-8</idno>
+                    </bibl>
+                    <bibl xml:id="faust_puppenspiel">
+                        <title>Faust</title>
+                        <title type="alt">Puppenspiel von Doktor Faust</title>
+                        <idno type="URL">http://d-nb.info/gnd/4217433-8</idno>
+                    </bibl>
                 </listBibl>
             </p>
         </body>

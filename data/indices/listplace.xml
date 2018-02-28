@@ -231,6 +231,13 @@
                </location>
                <idno type="URL">http://d-nb.info/gnd/4020295-1</idno>
             </place>
+            <place xml:id="frankfurt_main">
+               <placeName>Frankfurt am Main</placeName>
+               <location>
+                  <geo decls="LatLng">50.11552 8.68417</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2925533</idno>
+            </place>
          </listPlace>
       </body>
   </text>
