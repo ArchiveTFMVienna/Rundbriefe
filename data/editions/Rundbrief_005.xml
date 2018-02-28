@@ -115,9 +115,9 @@
                Mittagsstunden fallende Alarme wurde diesmal auch die 
                Hauptvorlesung auf Nachmittag verlegt. Auch finden diese 
                Vorlesungen nicht mehr, wie bisher, im
-               <placeName type="room">Auditorium Maximum</placeName>, sondern im schönen
-               <placeName type="room">Kainzraum, also dem eigenen Hörsaal des Zentralinstituts in
-                  der Hofburg</placeName> statt, der zu diesem Zweck mit einem 
+               <rs ref="#universitaet_wien" type="org">Auditorium Maximum</rs>, sondern im schönen
+               <rs ref="#zentralinstitut" type="org">Kainzraum, also dem eigenen Hörsaal des Zentralinstituts in
+                  der Hofburg</rs> statt, der zu diesem Zweck mit einem 
                Projektionsapparat ausgestattet wurde.
             </p>
             <p>Viele von den Fernbetreuten - und ihre 
@@ -168,7 +168,7 @@
                genauere Berichte und Inhaltsangaben über den Verlauf 
                des Hauptkollegs und der Seminare vorlegen.
             </p>
-            <p><rs ref="#börge_vagn" type="person" subtype="acting">Dozent Dr. Börge </rs>hält diesmal
+            <p><rs ref="#börge_vagn" type="person" subtype="acting">Dozent Dr. Börge</rs> hält diesmal
                sein dramaturgisches Kolloquium über <hi rend="underline">"Rollenpsychologie"</hi>.
                Daneben hält er ein filmkundliches Kolloqium über den 
                <hi rend="underline">"Film als Gesamtkunstwerk"</hi>. Dazu kommt seine 
@@ -651,7 +651,14 @@
                anschaulichen dämonenerfüllten Kapitel aus dem <rs ref="#faust_volksbuch" type="work"><rs ref="#spies_johann" type="person">Spies'schen</rs> 
                Faust-Volksbuch</rs> des <date notBefore="1500-01-01" notAfter="1599-12-31">16. Jahrhunderts</date>, dieser ersten 
                dichterischen Gestaltung des Vorwurfs. Dann wurden 
-               
+               unter Mitwirkung der Burgschauspieler <hi rend="underline"><rs ref="#eybner_richard" type="person">Eybner</rs></hi>, 
+               <hi rend="underline"><rs ref="#haeussermann_" type="person">Haeussermann</rs></hi>, <hi rend="underline"><rs ref="#herterich_franz" type="person">Herterich</rs></hi> und <hi rend="underline"><rs ref="#schmidt_wilhelm">Schmidt</rs></hi> wichtigste 
+               Szenen aus <rs ref="#faust_marlowe" type="work"><rs ref="#marlowe_christopher" type="person">Marlowes</rs> "Faust"</rs>, dieser von den Wanderbühnen 
+               des <date notBefore="1600-01-01" notAfter="1699-12-31">17. Jahrhunderts</date> vielgespielten ersten 
+               theatralischen Gestaltung des Vorwurfs und zum Schluss 
+               einige köstliche Auftritte aus jenem <rs ref="faust_puppenspiel" type="work">alten Faust-
+               Puppenspiel</rs> gelesen, das noch <rs ref="#goethe_johann" type="person">der Knabe Goethe</rs> in 
+               <rs ref="#frankfurt_main" type="place">Frankfurt</rs> selbst spielte. 
             </p>
          </div>
          
