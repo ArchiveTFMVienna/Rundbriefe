@@ -844,6 +844,18 @@
                   </persName>
                   <note>https://de.wikipedia.org/wiki/Wilhelm_Schmidt_(Schauspieler)</note>
                </person>
+               <person xml:id="gerstner_">
+                  <persName>
+                     <surname>Gerstner</surname>
+                     <roleName>Institutsmitglied</roleName>
+                  </persName>
+               </person>
+               <person xml:id="rohner_">
+                  <persName>
+                     <surname>Rohner</surname>
+                     <roleName>Institutsmitglied</roleName>
+                  </persName>
+               </person>
             </listPerson>
          </p>
       </body>

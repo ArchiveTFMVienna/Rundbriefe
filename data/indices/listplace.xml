@@ -231,12 +231,47 @@
                </location>
                <idno type="URL">http://d-nb.info/gnd/4020295-1</idno>
             </place>
-            <place xml:id="frankfurt_main">
+            <place xml:id="frankfurt_main" type="city">
                <placeName>Frankfurt am Main</placeName>
                <location>
                   <geo decls="LatLng">50.11552 8.68417</geo>
                </location>
                <idno type="URL">http://www.geonames.org/2925533</idno>
+            </place>
+            <place xml:id="indien" type="country">
+               <placeName>Indien</placeName>
+               <location>
+                  <geo decls="LatLng">22 79</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/1269750</idno>
+            </place>
+            <place xml:id="deutschland" type="country">
+               <placeName>Deutschland</placeName>
+               <location>
+                  <geo decls="LatLng">51.5 10.5</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2921044</idno>
+            </place>
+            <place xml:id="italien" type="country">
+               <placeName>Italien</placeName>
+               <location>
+                  <geo decls="LatLng">42.83333 12.83333</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/3175395</idno>
+            </place>
+            <place xml:id="graz" type="city">
+               <placeName>Graz</placeName>
+               <location>
+                  <geo decls="LatLng">47.06667 15.45</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2778067</idno>
+            </place>
+            <place xml:id="danzig" type="city">
+               <placeName>Danzig</placeName>
+               <location>
+                  <geo decls="LatLng">54.35250 18.64637</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/3099434</idno>
             </place>
          </listPlace>
       </body>
