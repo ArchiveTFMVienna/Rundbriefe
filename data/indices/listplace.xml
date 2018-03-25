@@ -273,6 +273,13 @@
                </location>
                <idno type="URL">http://www.geonames.org/3099434</idno>
             </place>
+            <place xml:id="bonn" type="city">
+               <placeName>Bonn</placeName>
+               <location>
+                  <geo decls="LatLng">50.73438 7.09549</geo>
+               </location>
+               <idno type="URL">http://www.geonames.org/2946447</idno>
+            </place>
          </listPlace>
       </body>
   </text>

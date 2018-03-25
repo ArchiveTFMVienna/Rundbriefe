@@ -223,6 +223,11 @@
                         <title type="alt">Puppenspiel von Doktor Faust</title>
                         <idno type="URL">http://d-nb.info/gnd/4217433-8</idno>
                     </bibl>
+                    <bibl xml:id="geschichte_der_deutschen_schauspielkunst">
+                        <title>Geschichte der deutschen Schauspielkunst</title>
+                        <author><rs ref="#devrient_eduard" type="person">Eduard Devrient</rs></author>
+                        <idno type="URL">http://d-nb.info/57546478X</idno>
+                    </bibl>
                 </listBibl>
             </p>
         </body>
