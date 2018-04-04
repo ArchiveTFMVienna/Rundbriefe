@@ -57,6 +57,10 @@
                         <orgName>Wiener Verlag</orgName>
                         <idno type="URL">http://d-nb.info/gnd/10074501-5</idno>
                     </org>
+                    <org xml:id="holzhausens">
+                        <orgName>Adolf Holzhausens Nachfolger</orgName>
+                        <idno type="URL">http://d-nb.info/gnd/1073079473</idno>
+                    </org>
                     <org xml:id="gesellschaft_für_wiener_theatergeschichte">
                         <orgName>Gesellschaft für Wiener Theatergeschichte</orgName>
                         <idno type="URL"></idno>
