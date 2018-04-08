@@ -74,13 +74,7 @@
          <fw type="pageNum">1</fw>
          <head type="main" style="text-align:center">Zentralinstitut für Theaterwissenschaft</head>
          <head type="main" style="text-align:center">an der Universität Wien</head>
-         <head>
-            <address>
-               <street>Hofburg, Batthianystiege, I. Stock</street>
-               <name type="city">Wien</name>
-               <postCode>1010</postCode>
-               <name type="country">Austria</name>
-            </address>Wien, I., Hofburg, Batthianystiege, I. Stock – Fernruf R-20-5-20</head>
+         <head type="sub">Wien, I., Hofburg, Batthianystiege, I. Stock – Fernruf R-20-5-20</head>
          <div type="letter" n="1">
             <salute>Liebe Kameraden!</salute>
             <p>Schon auf die ersten Zeitungsnotizen über die Gründung eines <rs type="org"
@@ -448,9 +442,9 @@
             <fw type="pageNum">10</fw>
          </div>
          <div type="letter" n="3">
-            <p>Rede des Rektors der Wiener Universität, <rs type="person" ref="#pernkopf_eduard"
-                  >Prof. Dr. PERNKOPF</rs>, zur Eröffnung des Zentralinstituts für
-               Theaterwissenschaft an der Universität Wien.</p>
+            <head type="main" style="text-align:center"> Rede des Rektors der Wiener Universität,
+                  <rs type="person" ref="#pernkopf_eduard">Prof. Dr. PERNKOPF</rs>, zur Eröffnung
+               des Zentralinstituts für Theaterwissenschaft an der Universität Wien.</head>
             <p>Es ist mir eine große Freude, heute als Rektor der <rs type="org"
                   ref="#universitaet_wien">Universität</rs> zu Ihnen zu sprechen und als solcher
                hier eines besonderen Amtes walten zu können. Ein neues <rs type="org"
