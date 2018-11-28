@@ -4,9 +4,9 @@
    <teiHeader xmlns:tei="http://www.tei-c.org/ns/1.0">
       <fileDesc>
          <titleStmt>
-            <title type="main">Digitale Edition der Rundbriefe des Instituts für
-               Theaterwissenschaften 1944-1945</title>
-            <title type="sub">Transkription Rundbrief Nr. 4, Teil 1</title>
+            <title type="main">Digitale Edition Rundbriefe des Zentralinstitutes für
+               Theaterwissenschaft an der Universität Wien 1943-45</title>
+            <title type="sub">Digitale Edition des 4. Rundbriefs (Teil 1) 1944</title>
             <principal>
                <rs type="person" ref="#therese_sperlich">Therese Sperlich</rs>
             </principal>
@@ -28,7 +28,8 @@
                   <idno>Signatur 161.A001</idno>
                </msIdentifier>
                <history>
-                  <origin/>
+                  <!-- check -->
+                  <origin when="1944-08"/>
                </history>
             </msDesc>
          </sourceDesc>
